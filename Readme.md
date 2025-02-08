@@ -5,12 +5,12 @@
   <details>
     <summary>Lecture 1: Introduction to Arrays</summary>
     <br>
-    
+
   | # | Problem | Difficulty | Status | Date Assigned |
-    |---|---------|------------|--------|--------------|
-    | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | ❌ | |
-    | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | ❌ | |
-    | 3 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | ❌ | |
+  |---|---------|------------|--------|--------------|
+  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | ❌ | |
+  | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | ❌ | |
+  | 3 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | ❌ | |
   </details>
   
   <details>
@@ -18,10 +18,9 @@
     <br>
 
   | # | Problem | Difficulty | Status | Date Assigned |
-      |---|---------|------------|--------|---------------|
-      | 1 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ❌ | |
-      | 2 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | ❌ | |
-    </details>
+  |---|---------|------------|--------|---------------|
+  | 1 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ❌ | |
+  | 2 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | ❌ | |
   </details>
 </details>
 
