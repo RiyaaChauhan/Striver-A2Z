@@ -2,6 +2,8 @@
 
 <details>
   <summary><strong>Arrays</strong></summary>
+  <br> 
+
   <details>
     <summary>Lecture 1: Introduction to Arrays</summary>
     <br>
@@ -27,6 +29,8 @@
 
 <details>
   <summary><strong>Strings</strong></summary>
+  <br>
+  
   <details>
     <summary>Lecture 1: Fundamentals of Strings</summary>
     <br>    
