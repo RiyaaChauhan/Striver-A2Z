@@ -5,6 +5,7 @@
   <details>
     <summary>Lecture 1: Introduction to Arrays</summary>
     <br>
+    
   | # | Problem | Difficulty | Status | Date Assigned |
     |---|---------|------------|--------|--------------|
     | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | ❌ | |
@@ -15,6 +16,7 @@
   <details>
     <summary>Lecture 2: Advanced Arrays</summary>
     <br>
+
   | # | Problem | Difficulty | Status | Date Assigned |
       |---|---------|------------|--------|---------------|
       | 1 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ❌ | |
@@ -29,7 +31,7 @@
   <details>
     <summary>Lecture 1: Fundamentals of Strings</summary>
     <br>    
-    
+
   | # | Problem | Difficulty | Status | Date Assigned |
   |---|---------|------------|--------|---------------|
   | 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | ❌ | |
