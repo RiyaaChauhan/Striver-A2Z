@@ -29,6 +29,7 @@
   <details>
     <summary>Lecture 1: Fundamentals of Strings</summary>
     <br>    
+    
   | # | Problem | Difficulty | Status | Date Assigned |
   |---|---------|------------|--------|---------------|
   | 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | ❌ | |
