@@ -17,7 +17,7 @@
 |----|---------------------------------------------|------------|------------|--------|
 |1|[Introduction to DLL, learn about struct, and how is node represented]()|Easy|[Link]()|❌|
 |2|[Insert a node in DLL]()|Easy|[Link]()|❌|
-|3|[Delete a node in DLL]()||Medium|[Link]()|❌|
+|3|[Delete a node in DLL]()|Medium|[Link]()|❌|
 |4|[Reverse a DLL]()|easy|[Link]()|❌|
 
 ### Lec 3: Medium Problems of LL
