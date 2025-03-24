@@ -40,8 +40,11 @@
 | 15 | Add two numbers represented by LinkedList      | Medium     | [Code](#) | ❌      |
 
 ### Lec 4: Medium Problems of DLL
-| #  | Problem Name                                | Difficulty | Code File  | Status |
-|----|---------------------------------------------|------------|------------|--------|
+| #  | Problem Name                                        | Difficulty | Code File | Status |
+|----|---------------------------------------------------|------------|-----------|--------|
+| 1  | Delete all occurrences of a key in DLL         | Medium     | [Code](#) | ❌      |
+| 2  | Find pairs with given sum in DLL               | Medium     | [Code](#) | ❌      |
+| 3  | Remove duplicates from sorted DLL              | Medium     | [Code](#) | ❌      |
 
 ### Lec 5: Hard Problems of LL
 | #  | Problem Name                                | Difficulty | Code File  | Status |
