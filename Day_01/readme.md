@@ -3,7 +3,7 @@
 ## **Problem Statement**  
 You are given a **node** in a **singly linked list**, and you need to **delete** this node.
 
-### **Constraints:**  
+## **Constraints:**  
 - You **do not** have access to the **head** of the linked list.  
 - The given node **is not the last node** in the list.  
 - The linked list contains **unique values**.  
@@ -11,8 +11,6 @@ You are given a **node** in a **singly linked list**, and you need to **delete**
   - Remove the given node’s value from the linked list.  
   - Keep all other nodes in the same order.  
   - Reduce the linked list length by 1.  
-
----
 
 ## **Example**  
 ### **Input:**  
@@ -30,14 +28,10 @@ Node to delete: 5
 Modified Linked List: 4 -> 1 -> 9
 ```
 
----
-
 ## **Approach**  
 Since we **do not have access to the previous node**, we cannot directly unlink the node from the list. Instead, we do the following:  
 1. **Copy the value** of the next node into the current node.  
 2. **Update the next pointer** of the current node to skip the next node.  
-
----
 
 ## **Pseudo Code**  
 ```plaintext
@@ -48,17 +42,16 @@ Function deleteNode(node):
     node.data = node.next.data  # Copy value of next node into current node
     node.next = node.next.next  # Skip the next node
 ```
-
----
-
 ## **Complexity Analysis**  
 | Complexity | Explanation |
 |------------|------------|
 | **Time Complexity: O(1)** | We only modify one node in constant time. |
 | **Space Complexity: O(1)** | No extra space is used. |
 
+-------------------------------------------------------------------
+
 # **Finding the Middle of a Linked List**  
-### **Problem Statement:**  
+## **Problem Statement:**  
 Given the head of a singly linked list, find the middle node.  
 - If the list has an **odd number** of nodes, return the middle node.  
 - If the list has an **even number** of nodes, return the **second middle** node.  
@@ -70,7 +63,6 @@ Given the head of a singly linked list, find the middle node.
 **Input:** `1 -> 2 -> 3 -> 4 -> 5 -> 6`  
 **Output:** `4`  
 
----
 ## **Approach (Two-Pointer Method - Slow & Fast Pointers)**  
 We use two pointers:  
 - **Slow pointer (`slow`)** moves **one step** at a time.  
@@ -92,8 +84,6 @@ Function getMiddle(head):
 
     Return slow.data  # Middle node's value
 ```
-
----
 
 ## **Implementation**
 ```python
@@ -127,15 +117,11 @@ solution = Solution()
 print(solution.getMiddle(head1))  # Output: 3
 print(solution.getMiddle(head2))  # Output: 4
 ```
-
----
 ## **Complexity Analysis:**  
 | Complexity | Explanation |
 |------------|------------|
 | **Time Complexity: O(N)** | Each node is visited once (`fast` pointer moves twice as fast, `slow` moves N/2 times). |
 | **Space Complexity: O(1)** | No extra space is used apart from pointers. |
-
----
 
 ## **Key Takeaways:**  
 ✅ Uses **slow & fast pointers** for efficient traversal.  
