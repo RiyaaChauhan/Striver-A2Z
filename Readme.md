@@ -1,5 +1,5 @@
 # Striver's A2Z DSA Course Sheet
-Here's the link to sheet - [SHEET](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+# [Striver's A2Z DSA Course Sheet 🚀](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 # Problems Table
 
 ## Step 6 : Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
