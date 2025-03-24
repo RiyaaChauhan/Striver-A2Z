@@ -15,7 +15,6 @@
 ### Lec 2: Learn Doubly LinkedList
 | #  | Problem Name                                | Difficulty | Code File  | Status |
 |----|---------------------------------------------|------------|------------|--------|
-|	
 |[Introduction to DLL, learn about struct, and how is node represented]()|Easy|[Link]()|❌|
 |[Insert a node in DLL]()|Easy|[Link]()|❌|
 |[Delete a node in DLL]()||Medium|[Link]()|❌|
