@@ -10,3 +10,20 @@
 | 3  |[Deleting a node in LinkedList]()| Medium    | [Link]()   |❌|
 | 4  |[Find the length of the linkedlist [learn traversal]]()| 🟢 Easy    | [Link]()   |❌|
 | 5  |[Search an element in the LL](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=search-in-linked-list-1664434326)|🟢 Easy| [Link]()   |❌|
+
+
+### Lec 2: Learn Doubly LinkedList
+| #  | Problem Name                                | Difficulty | Code File  | Status |
+|----|---------------------------------------------|------------|------------|--------|
+
+### Lec 3: Medium Problems of LL
+| #  | Problem Name                                | Difficulty | Code File  | Status |
+|----|---------------------------------------------|------------|------------|--------|
+
+### Lec 4: Medium Problems of DLL
+| #  | Problem Name                                | Difficulty | Code File  | Status |
+|----|---------------------------------------------|------------|------------|--------|
+
+### Lec 5: Hard Problems of LL
+| #  | Problem Name                                | Difficulty | Code File  | Status |
+|----|---------------------------------------------|------------|------------|--------|
