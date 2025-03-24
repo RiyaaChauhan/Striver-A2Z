@@ -7,9 +7,9 @@
 |----|---------------------------------------------|------------|------------|--------|
 | 1  |[Introduction to LinkedList, learn about struct, and how is node represented]()|🟢 Easy| [Link]()   |❌|
 | 2  |[Inserting a node in LinkedList](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=linked-list-insertion)|🟢 Easy| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_01.%20Inserting%20a%20node%20in%20LL/code.py)   |✅|
-| 3  |[Deleting a node in LinkedList]()| Medium| [Link]()   |❌|
-| 4  |[Find the length of the linkedlist [learn traversal]]()|🟢 Easy| [Link]()   |❌|
-| 5  |[Search an element in the LL](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=search-in-linked-list-1664434326)|🟢 Easy| [Link]()   |❌|
+| 3  |[Deleting a node in LinkedList]()| Medium| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_01/_02.%20Deleting%20a%20node%20in%20LL)   |❌|
+| 4  |[Find the length of the linkedlist [learn traversal]]()|🟢 Easy| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_01/_03.%20Find%20the%20length%20of%20the%20linkedlist)|❌|
+| 5  |[Search an element in the LL](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=search-in-linked-list-1664434326)|🟢 Easy| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_01/_04.%20Search%20an%20element%20in%20the%20LL)   |❌|
 
 
 ### Lec 2: Learn Doubly LinkedList
@@ -23,7 +23,7 @@
 ### Lec 3: Medium Problems of LL
 | #  | Problem Name                                        | Difficulty | Code File | Status |
 |----|---------------------------------------------------|------------|-----------|--------|
-| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy | [Code](#) |✅|
+| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy | [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_01/_05.%20Middle%20of%20LL) |✅|
 | 2  | Reverse a LinkedList [Iterative]                | 🟢Easy       | [Code](#) | ❌      |
 | 3  | Reverse a LinkedList [Recursive]                | 🟢Easy       | [Code](#) | ❌      |
 | 4  | Detect a loop in LinkedList                     | Medium     | [Code](#) | ❌      |
