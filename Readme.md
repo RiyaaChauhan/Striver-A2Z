@@ -47,5 +47,9 @@
 | 3  | Remove duplicates from sorted DLL              | Medium     | [Code](#) | ❌      |
 
 ### Lec 5: Hard Problems of LL
-| #  | Problem Name                                | Difficulty | Code File  | Status |
-|----|---------------------------------------------|------------|------------|--------|
+| #  | Problem Name                                          | Difficulty | Code File | Status |
+|----|-----------------------------------------------------|------------|-----------|--------|
+| 1  | Reverse LinkedList in groups of given size K       | Hard       | [Code](#) | ❌      |
+| 2  | Rotate a LinkedList                                | Medium     | [Code](#) | ❌      |
+| 3  | Flattening of LinkedList                           | Hard       | [Code](#) | ❌      |
+| 4  | Clone a LinkedList with random and next pointer   | Hard       | [Code](#) | ❌      |
