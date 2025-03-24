@@ -57,6 +57,9 @@ Function deleteNode(node):
 # **3. Find the length of Linked List**
 -------------------------------------------------------------------------------------------------------- 
 
+# **4. Search an element in Linked List**
+-------------------------------------------------------------------------------------------------------- 
+
 
 # **5. Finding the Middle of a Linked List**  
 ## **Problem Statement:**  
