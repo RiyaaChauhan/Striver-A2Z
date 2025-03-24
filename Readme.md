@@ -23,7 +23,7 @@
 ### Lec 3: Medium Problems of LL
 | #  | Problem Name                                        | Difficulty | Code File | Status |
 |----|---------------------------------------------------|------------|-----------|--------|
-| 1  | Middle of a LinkedList [Tortoise-Hare Method]    |🟢Easy       | [Code](#) | ❌      |
+| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy | [Code](#) |✅|
 | 2  | Reverse a LinkedList [Iterative]                | 🟢Easy       | [Code](#) | ❌      |
 | 3  | Reverse a LinkedList [Recursive]                | 🟢Easy       | [Code](#) | ❌      |
 | 4  | Detect a loop in LinkedList                     | Medium     | [Code](#) | ❌      |
