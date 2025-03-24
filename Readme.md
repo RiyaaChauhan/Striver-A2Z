@@ -15,20 +15,20 @@
 ### Lec 2: Learn Doubly LinkedList
 | #  | Problem Name                                | Difficulty | Code File  | Status |
 |----|---------------------------------------------|------------|------------|--------|
-|1|[Introduction to DLL, learn about struct, and how is node represented]()|Easy|[Link]()|❌|
-|2|[Insert a node in DLL]()|Easy|[Link]()|❌|
+|1|[Introduction to DLL, learn about struct, and how is node represented]()|🟢Easy|[Link]()|❌|
+|2|[Insert a node in DLL]()|🟢Easy|[Link]()|❌|
 |3|[Delete a node in DLL]()|Medium|[Link]()|❌|
-|4|[Reverse a DLL]()|easy|[Link]()|❌|
+|4|[Reverse a DLL]()|E🟢asy|[Link]()|❌|
 
 ### Lec 3: Medium Problems of LL
 | #  | Problem Name                                        | Difficulty | Code File | Status |
 |----|---------------------------------------------------|------------|-----------|--------|
-| 1  | Middle of a LinkedList [Tortoise-Hare Method]    | Easy       | [Code](#) | ❌      |
-| 2  | Reverse a LinkedList [Iterative]                | Easy       | [Code](#) | ❌      |
-| 3  | Reverse a LinkedList [Recursive]                | Easy       | [Code](#) | ❌      |
+| 1  | Middle of a LinkedList [Tortoise-Hare Method]    |🟢Easy       | [Code](#) | ❌      |
+| 2  | Reverse a LinkedList [Iterative]                | 🟢Easy       | [Code](#) | ❌      |
+| 3  | Reverse a LinkedList [Recursive]                | 🟢Easy       | [Code](#) | ❌      |
 | 4  | Detect a loop in LinkedList                     | Medium     | [Code](#) | ❌      |
 | 5  | Find the starting point of a loop in LinkedList | Medium     | [Code](#) | ❌      |
-| 6  | Length of Loop in LinkedList                    | Easy       | [Code](#) | ❌      |
+| 6  | Length of Loop in LinkedList                    | 🟢Easy       | [Code](#) | ❌      |
 | 7  | Check if LinkedList is palindrome               | Medium     | [Code](#) | ❌      |
 | 8  | Segregate odd and even nodes in LinkedList      | Medium     | [Code](#) | ❌      |
 | 9  | Remove Nth node from the back of LinkedList     | Medium     | [Code](#) | ❌      |
