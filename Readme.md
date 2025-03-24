@@ -15,10 +15,10 @@
 ### Lec 2: Learn Doubly LinkedList
 | #  | Problem Name                                | Difficulty | Code File  | Status |
 |----|---------------------------------------------|------------|------------|--------|
-|[Introduction to DLL, learn about struct, and how is node represented]()|Easy|[Link]()|❌|
-|[Insert a node in DLL]()|Easy|[Link]()|❌|
-|[Delete a node in DLL]()||Medium|[Link]()|❌|
-|[Reverse a DLL]()|easy|[Link]()|❌|
+|1|[Introduction to DLL, learn about struct, and how is node represented]()|Easy|[Link]()|❌|
+|2|[Insert a node in DLL]()|Easy|[Link]()|❌|
+|3|[Delete a node in DLL]()||Medium|[Link]()|❌|
+|4|[Reverse a DLL]()|easy|[Link]()|❌|
 
 ### Lec 3: Medium Problems of LL
 | #  | Problem Name                                | Difficulty | Code File  | Status |
