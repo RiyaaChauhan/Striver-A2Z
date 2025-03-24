@@ -1,4 +1,8 @@
-# **Delete a Node in a Singly Linked List**
+# **1. Inserting a Node in a Singly Linked List**
+
+---------------------------------------------------------------------------- 
+
+# **2. Delete a Node in a Singly Linked List**
 
 ## **Problem Statement**  
 You are given a **node** in a **singly linked list**, and you need to **delete** this node.
@@ -50,7 +54,11 @@ Function deleteNode(node):
 
 -------------------------------------------------------------------
 
-# **Finding the Middle of a Linked List**  
+# **3. Find the length of Linked List**
+-------------------------------------------------------------------------------------------------------- 
+
+
+# **5. Finding the Middle of a Linked List**  
 ## **Problem Statement:**  
 Given the head of a singly linked list, find the middle node.  
 - If the list has an **odd number** of nodes, return the middle node.  
