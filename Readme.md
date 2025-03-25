@@ -8,14 +8,14 @@
 | #  | Problem Name                                                   | Difficulty | Code File | Status |
 |----|----------------------------------------------------------------|------------|-----------|--------|
 | 1  | Binary Search to find X in sorted array                       | 🟢       |           |        |
-| 2  | Implement Lower Bound                                         | 🟢   |           |        |
-| 3  | Implement Upper Bound                                         | 🟢   |           |        |
-| 4  | Search Insert Position                                        | 🟢   |           |        |
-| 5  | Floor/Ceil in Sorted Array                                    | Medium     |           |        |
-| 6  | Find the first or last occurrence of a given number           | 🟢     |           |        |
-| 7  | Count occurrences of a number in sorted array with duplicates | 🟢     |           |        |
-| 8  | Search in Rotated Sorted Array I                              | Medium     |           |        |
-| 9  | Search in Rotated Sorted Array II                             | Medium     |           |        |
+| 2  |[Implement Lower Bound](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)|🟢||[Link]()|
+| 3  | Implement Upper Bound                                         | 🟢   |           |[Link]()|
+| 4  | Search Insert Position                                        | 🟢   |           |[Link]()|
+| 5  | Floor/Ceil in Sorted Array                                    | Medium     |           |[Link]()|
+| 6  | Find the first or last occurrence of a given number           | 🟢     |           |[Link]()|
+| 7  | Count occurrences of a number in sorted array with duplicates | 🟢 ||[Link]()|
+| 8  | Search in Rotated Sorted Array I                              | Medium||[Link]()|
+| 9  | Search in Rotated Sorted Array II                             | Medium||[Link]()|
 | 10 | Find minimum in Rotated Sorted Array                          | Medium     |           |        |
 | 11 | Find out how many times an array has been rotated             | 🟢    |           |        |
 | 12 | Single element in a Sorted Array                              | 🟢    |           |        |
