@@ -95,9 +95,11 @@ FUNCTION searchKey(head, key):
    - Otherwise, move `curr` to the next node.
 3. If the loop completes without finding the key, return `False`.
 
-## Complexity Analysis
-- **Time Complexity:** `O(n)` (In the worst case, we may traverse all nodes in the list)
-- **Space Complexity:** `O(1)` (Uses only a few extra variables, no additional data structures)
+## **Complexity Analysis**  
+| Complexity | Explanation |
+|------------|------------|
+| **Time Complexity: O(n)** |In the worst case, we may traverse all nodes in the list |
+| **Space Complexity: O(1)** |Uses only a few extra variables, no additional data structures|
 
 ## Example Walkthrough
 ### Example 1: Key is present
