@@ -7,18 +7,18 @@
 
 | #  | Problem Name                                                   | Difficulty | Code File | Status |
 |----|----------------------------------------------------------------|------------|-----------|--------|
-| 1  | Binary Search to find X in sorted array                       | Easy       |           |        |
-| 2  | Implement Lower Bound                                         | Easy       |           |        |
-| 3  | Implement Upper Bound                                         | Easy       |           |        |
-| 4  | Search Insert Position                                        | Easy       |           |        |
+| 1  | Binary Search to find X in sorted array                       | 🟢       |           |        |
+| 2  | Implement Lower Bound                                         | 🟢   |           |        |
+| 3  | Implement Upper Bound                                         | 🟢   |           |        |
+| 4  | Search Insert Position                                        | 🟢   |           |        |
 | 5  | Floor/Ceil in Sorted Array                                    | Medium     |           |        |
-| 6  | Find the first or last occurrence of a given number           | Easy       |           |        |
-| 7  | Count occurrences of a number in sorted array with duplicates | Easy       |           |        |
+| 6  | Find the first or last occurrence of a given number           | 🟢     |           |        |
+| 7  | Count occurrences of a number in sorted array with duplicates | 🟢     |           |        |
 | 8  | Search in Rotated Sorted Array I                              | Medium     |           |        |
 | 9  | Search in Rotated Sorted Array II                             | Medium     |           |        |
 | 10 | Find minimum in Rotated Sorted Array                          | Medium     |           |        |
-| 11 | Find out how many times an array has been rotated             | Easy       |           |        |
-| 12 | Single element in a Sorted Array                              | Easy       |           |        |
+| 11 | Find out how many times an array has been rotated             | 🟢    |           |        |
+| 12 | Single element in a Sorted Array                              | 🟢    |           |        |
 | 13 | Find peak element                                             | Hard       |           |        |
 
 ### **Lec 2: BS on Answers**
