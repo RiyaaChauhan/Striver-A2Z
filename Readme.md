@@ -1,10 +1,6 @@
 # [Striver's A2Z DSA Course Sheet 🚀](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 # Problems Table
 
-# Striver's A2Z DSA Course Sheet
-
-[SHEET](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
-
 ## Step 4: Binary Search [1D, 2D Arrays, Search Space]
 
 ### **Lec 1: BS on 1D Arrays**
