@@ -7,9 +7,9 @@
 
 | #  | Problem Name                                                   | Difficulty | Code File | Status |
 |----|----------------------------------------------------------------|------------|-----------|--------|
-| 1  | Binary Search to find X in sorted array                       | 🟢       |           |        |
-| 2  |[Implement Lower Bound](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)|🟢|[Link]()|✅|
-| 3  |[Implement Upper Bound](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)| 🟢|[Link]()|✅|
+| 1  | Binary Search to find X in sorted array| 🟢       |           |        |
+| 2  |[Implement Lower Bound](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)|🟢|[Link]()|✅|
+| 3  |[Implement Upper Bound](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)|🟢|[Link]()|✅|
 | 4  | Search Insert Position                                        | 🟢|[Link]()||
 | 5  | Floor/Ceil in Sorted Array                                    | Medium|[Link]()||
 | 6  | Find the first or last occurrence of a given number           | 🟢|[Link]()||
