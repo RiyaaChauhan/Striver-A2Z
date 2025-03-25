@@ -58,8 +58,62 @@ Function deleteNode(node):
 -------------------------------------------------------------------------------------------------------- 
 
 # **4. Search an element in Linked List**
--------------------------------------------------------------------------------------------------------- 
+## **Problem Statement:**  
+Algorithm for Searching a Key in a Singly Linked List
+The goal of this function is to determine whether a given key exists in a singly linked list.
 
+## Algorithm:
+- Initialize a pointer curr to the head of the linked list.
+- Iterate through the linked list while curr is not None:
+    - Check if curr.data is equal to key.
+    - If found, return True.
+- Otherwise, move curr to the next node.
+- If the loop completes without finding the key, return False.
+
+# Search Key in a Linked List
+
+## Problem Statement
+Given a singly linked list of `n` nodes and a key, the task is to check whether the key is present in the linked list.
+
+## Pseudocode
+```
+FUNCTION searchKey(head, key):
+    curr = head  // Initialize current node to head
+    
+    WHILE curr is NOT NULL:
+        IF curr.data == key:
+            RETURN True  // Key found, return True
+        curr = curr.next  // Move to the next node
+    
+    RETURN False  // Key not found
+```
+
+## Explanation
+1. Initialize a pointer `curr` to the head of the linked list.
+2. Traverse the linked list while `curr` is not `NULL`:
+   - If `curr.data` matches `key`, return `True`.
+   - Otherwise, move `curr` to the next node.
+3. If the loop completes without finding the key, return `False`.
+
+## Complexity Analysis
+- **Time Complexity:** `O(n)` (In the worst case, we may traverse all nodes in the list)
+- **Space Complexity:** `O(1)` (Uses only a few extra variables, no additional data structures)
+
+## Example Walkthrough
+### Example 1: Key is present
+**Input:**
+```
+n = 5
+Linked List: 1 -> 3 -> 5 -> 7 -> 9
+key = 7
+```
+**Steps:**
+1. Start at head (`1`). `1 != 7`, move to next.
+2. Check `3`. `3 != 7`, move to next.
+3. Check `5`. `5 != 7`, move to next.
+4. Check `7`. **Found the key!** Return `True`.
+
+-------------------------------------------------------------------------------------------------------- 
 
 # **5. Finding the Middle of a Linked List**  
 ## **Problem Statement:**  
