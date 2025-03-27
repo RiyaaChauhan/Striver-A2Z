@@ -11,9 +11,9 @@
 | 2  |[Implement Lower Bound](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)|🟢|[Link]()|✅|
 | 3  |[Implement Upper Bound](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)|🟢|[Link]()|✅|
 | 4  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_04)|✅|
-| 5  |[Floor/Ceil in Sorted Array](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)|🟡|[Link]()|✅|
-| 6  | Find the first or last occurrence of a given number           | 🟢|[Link]()| |
-| 7  | Count occurrences of a number in sorted array with duplicates | 🟢 |[Link]()| |
+| 5  |[Floor/Ceil in Sorted Array](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)|🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_03)|✅|
+| 6  | Find the first or last occurrence of a given number           | 🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_03)| |
+| 7  | Count occurrences of a number in sorted array with duplicates | 🟢 |[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_03)| |
 | 8  | Search in Rotated Sorted Array I                              |🟡|[Link]()| |
 | 9  | Search in Rotated Sorted Array II                             | 🟡|[Link]()| |
 | 10 | Find minimum in Rotated Sorted Array                          |🟡|           |        |
