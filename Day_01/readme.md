@@ -1,5 +1,36 @@
 # **1. Inserting a Node in a Singly Linked List**
+## Problem Statement
+Given the head of a **singly linked list** and a value `x`, insert a new node with value `x` at the end of the list.
 
+## Approach
+1. Create a new node with value `x`.
+2. If the list is empty, return the new node as the head.
+3. Traverse the list to find the last node.
+4. Append the new node to the last node's `next` pointer.
+5. Return the updated head.
+
+## Pseudo-code
+```python
+class Solution:
+    def insertAtEnd(self, head, x):
+        new_node = Node(x)
+        if head is None:
+            return new_node
+        curr = head
+        while curr.next:
+            curr = curr.next
+        curr.next = new_node
+        return head
+```
+
+## Complexity Analysis
+- **Time Complexity:** `O(n)` (Traverses the list once)
+- **Space Complexity:** `O(1)` (Uses constant extra space)
+
+## Example
+**Input:** `head = [1 -> 2 -> 3 -> None], x = 4`
+
+**Output:** `1 -> 2 -> 3 -> 4 -> None`
 ---------------------------------------------------------------------------- 
 
 # **2. Delete a Node in a Singly Linked List**
