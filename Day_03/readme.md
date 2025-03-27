@@ -1,6 +1,4 @@
-```python
 # 1. Floor and Ceil of a Number in a Sorted Array
-
 ## Problem Statement
 Given a sorted array `a` of size `n` and a target value `x`, find:
 - **Floor**: The largest number in `a` that is **≤ x**.
@@ -38,7 +36,6 @@ def getFloorAndCeil(a, n, x):
     
     return (floor, ceil)
 ```
-
 ## Complexity Analysis
 - **Time Complexity:** `O(log n)` (Binary search halves the search space each iteration)
 - **Space Complexity:** `O(1)` (Uses constant extra space)
@@ -66,12 +63,9 @@ print(getFloorAndCeil(a, n, x))
 
 #### Case 3: `x = 0` in `[3, 4, 6, 8]`
 **Output:** `(-1, 3)` (No floor exists)
-```
 
 ------------------------------------------------------------------------------------------------------------
 # 2. Occurance of number in sorted arr with duplicates
 
 ------------------------------------------------------------------------------------------------------------
 # 3. Find the first or last occurance of given number
-
-
