@@ -1,4 +1,4 @@
-```plain text
+```python
 # 1. Floor and Ceil of a Number in a Sorted Array
 
 ## Problem Statement
