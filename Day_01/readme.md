@@ -55,6 +55,33 @@ Function deleteNode(node):
 -------------------------------------------------------------------
 
 # **3. Find the length of Linked List**
+# Count Nodes in a Linked List
+
+## Problem Statement
+Given the head of a **singly linked list**, count the total number of nodes.
+
+## Approach
+1. Initialize `count = 0`.
+2. Traverse the list using a pointer `curr`.
+3. Increment `count` for each node until reaching `None`.
+4. Return `count`.
+
+## Pseudo-code
+```python
+class Solution:
+    def getCount(self, head):
+        count = 0
+        curr = head
+        while curr:
+            curr = curr.next
+            count += 1
+        return count
+```
+
+## Complexity Analysis
+- **Time Complexity:** `O(n)` (Traverses the list once)
+- **Space Complexity:** `O(1)` (Uses constant extra space)
+
 -------------------------------------------------------------------------------------------------------- 
 
 # **4. Search an element in Linked List**
