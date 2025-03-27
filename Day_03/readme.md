@@ -1,3 +1,4 @@
+```plain text
 # 1. Floor and Ceil of a Number in a Sorted Array
 
 ## Problem Statement
@@ -65,6 +66,7 @@ print(getFloorAndCeil(a, n, x))
 
 #### Case 3: `x = 0` in `[3, 4, 6, 8]`
 **Output:** `(-1, 3)` (No floor exists)
+```
 
 ------------------------------------------------------------------------------------------------------------
 # 2. Occurance of number in sorted arr with duplicates
