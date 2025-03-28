@@ -69,3 +69,91 @@ print(getFloorAndCeil(a, n, x))
 
 ------------------------------------------------------------------------------------------------------------
 # 3. Find the first or last occurance of given number
+## **Problem Statement**  
+Given a sorted array `nums` and a target value `target`, find the starting and ending position of `target` in the array.  
+If `target` is not found, return `(-1, -1)`.  
+You must write an algorithm with **O(log n)** runtime complexity.  
+
+## **Approach**  
+We use **Binary Search** to efficiently find the first and last occurrence of the target.  
+
+1. **Find the Lower Bound (First Occurrence)**  
+   - Perform a binary search to find the smallest index where `nums[i] >= target`.  
+
+2. **Find the Upper Bound (Last Occurrence)**  
+   - Perform a binary search to find the largest index where `nums[i] <= target`.  
+
+3. **Edge Cases**  
+   - If the target is not in `nums`, return `(-1, -1)`.  
+
+## **Code Implementation**  
+
+```python
+class Solution:
+    def searchRange(self, nums, target):
+        lower = self.LowerBound(nums, target)
+        if lower == -1 or nums[lower] != target:
+            return (-1, -1)
+        return (lower, self.UpperBound(nums, target))
+
+    def UpperBound(self, arr, x):
+        left, right = 0, len(arr) - 1
+        ans = -1
+        while left <= right:
+            mid = left + (right - left) // 2
+            if arr[mid] <= x:
+                ans = mid
+                left = mid + 1
+            else:
+                right = mid - 1
+        return ans
+
+    def LowerBound(self, arr, x):
+        left, right = 0, len(arr) - 1
+        ans = -1
+        while left <= right:
+            mid = left + (right - left) // 2
+            if arr[mid] >= x:
+                ans = mid
+                right = mid - 1
+            else:
+                left = mid + 1
+        return ans
+```
+## **Complexity Analysis**  
+- **Time Complexity:** `O(log n)` (Binary search halves the search space each iteration)  
+- **Space Complexity:** `O(1)` (Uses constant extra space)  
+
+## **Example Walkthrough**  
+
+### **Example 1:**  
+#### **Input:**  
+```python
+nums = [5,7,7,8,8,10], target = 8
+```
+#### **Output:**  
+```python
+(3, 4)
+```
+#### **Explanation:**  
+The first occurrence of `8` is at index **3**, and the last occurrence is at index **4**.  
+
+### **Example 2:**  
+#### **Input:**  
+```python
+nums = [5,7,7,8,8,10], target = 6
+```
+#### **Output:**  
+```python
+(-1, -1)
+```
+#### **Explanation:**  
+The target `6` is not found in the array, so we return `(-1, -1)`.  
+
+## **Edge Cases Considered**  
+✔ Empty array `[]`  
+✔ Target is smaller/larger than all elements  
+✔ Single-element array  
+✔ Target occurs multiple times  
+
+---
