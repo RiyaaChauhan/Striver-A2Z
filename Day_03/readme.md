@@ -66,8 +66,6 @@ print(getFloorAndCeil(a, n, x))
 
 ------------------------------------------------------------------------------------------------------------
 # 2. Occurance of number in sorted arr with duplicates
-# Count Occurrences of a Target in a Sorted Array
-
 ## Problem Statement
 Given a sorted array `arr[]` and a number `target`, find the number of occurrences of `target` in `arr[]`.
 
