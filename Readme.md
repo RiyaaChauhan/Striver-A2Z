@@ -143,6 +143,37 @@
 | 3  | Flattening of LinkedList                           | 🔴| [Code](#) | ❌|
 | 4  | Clone a LinkedList with random and next pointer   | 🔴| [Code](#) | ❌|
 
+## Step 8 : Bit Manipulation [Concepts & Problems]
+### **Lec 1: Learn Bit Manipulation**
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** |
+|------|-----------------------------------------------------|------------|--------------|
+| 1    | Introduction to Bit Manipulation [Theory]          | 🟢         | [Link]()     |
+| 2    | Check if the i-th bit is set or not               | 🟢         | [Link]()     |
+| 3    | Check if a number is odd or not                   | 🟢         | [Link]()     |
+| 4    | Check if a number is power of 2 or not            | 🟢         | [Link]()     |
+| 5    | Count the number of set bits                      | 🟢         | [Link]()     |
+| 6    | Set/Unset the rightmost unset bit                 | 🟢         | [Link]()     |
+| 7    | Swap two numbers                                  | 🟢         | [Link]()     |
+| 8    | Divide two integers without using multiplication, division, and mod operator | 🟡 | [Link]() |
+
+### **Lec 2: Interview Problems**
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** |
+|------|-----------------------------------------------------|------------|--------------|
+| 1    | Count number of bits to be flipped to convert A to B | 🟡         | [Link]()     |
+| 2    | Find the number that appears odd number of times   | 🟢         | [Link]()     |
+| 3    | Power Set                                         | 🟡         | [Link]()     |
+| 4    | Find XOR of numbers from L to R                   | 🟢         | [Link]()     |
+| 5    | Find the two numbers appearing odd number of times | 🟢         | [Link]()     |
+
+### **Lec 3: Advanced Maths**
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** |
+|------|-----------------------------------------------------|------------|--------------|
+| 1    | Print Prime Factors of a Number                   | 🟢         | [Link]()     |
+| 2    | All Divisors of a Number                          | 🟢         | [Link]()     |
+| 3    | Sieve of Eratosthenes                             | 🟡         | [Link]()     |
+| 4    | Find Prime Factorisation of a Number using Sieve  | 🟡         | [Link]()     |
+| 5    | Power(n, x)                                       | 🟡         | [Link]()     |
+
 ## Step 10 : Sliding Window & Two Pointer Combined Problems
 ### Lec 1: Medium Problems
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
