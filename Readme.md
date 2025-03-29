@@ -1,6 +1,21 @@
 # [Striver's A2Z DSA Course Sheet 🚀](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 # Problems Table
 
+## Step 2 : Learn Important Sorting Techniques
+### **Lec 1: Sorting-I**
+| **#** | **Problem Name**                          | **🟢🟡🔴 Difficulty** | **Code File** | **Status** |
+|------|----------------------------------|----------------|------------|---------|
+| 1️  | Selection Sort                 | 🟢 Easy       | `selection_sort.py` | |
+| 2️  | Bubble Sort                     | 🟢 Easy       | `bubble_sort.py` | |
+| 3️  | Insertion Sort                  | 🟢 Easy       | `insertion_sort.py` | |
+
+### **Lec 2: Sorting-II**
+| 1  | Merge Sort                      | 🟡 Medium     | `merge_sort.py` | |
+| 2  | Recursive Bubble Sort           | 🟢 Easy       | `recursive_bubble_sort.py` |  |
+| 3 | Recursive Insertion Sort        | 🟢 Easy       | `recursive_insertion_sort.py` | |
+| 4 | Quick Sort                      | 🟢 Easy       | `quick_sort.py` | |
+
+
 ## Step 4: Binary Search [1D, 2D Arrays, Search Space]
 
 ### **Lec 1: BS on 1D Arrays**
