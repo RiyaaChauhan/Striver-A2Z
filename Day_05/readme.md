@@ -1,8 +1,6 @@
 # 1. Search in Rotated Sorted Array
-
 ## **Problem Statement**
 Given a sorted array `nums` that has been **rotated at an unknown pivot** (1 ≤ k < nums.length), return the index of a given `target` if it exists in the array. If the target is not found, return `-1`.
-
 You **must** solve this problem in **O(log n)** time complexity.
 
 ### **Example 1**
