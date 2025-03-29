@@ -67,6 +67,30 @@
 | 4  | Find Peak Element (2D Matrix)               | 🔴|           |        |
 | 5  | Matrix Median                               | 🔴|           |        |
 
+## Step 5 : Strings [Basic and Medium]
+### Lec 1: Basic and Easy String Problems
+| **#** | **Problem Name**                                    | **🟢🟡🔴** | **Code File** | **Status** |
+|------|---------------------------------------------------|------------|--------------|------------|
+| 1    | Remove Outermost Parentheses                     | 🟢         | [Link]()| |
+| 2    | Reverse Words in a Given String / Palindrome Check | 🟢         |[Link]() | |
+| 3    | Largest Odd Number in a String                   | 🟢         |[Link]() | |
+| 4    | Longest Common Prefix                            | 🟢         | [Link]()| |
+| 5    | Isomorphic String                                | 🟢         | [Link]()| |
+| 6    | Check Whether One String is a Rotation of Another | 🟡         | [Link]()| |
+| 7    | Check if Two Strings are Anagrams               | 🟡         | [Link]()| |
+
+### Lec 2: Medium String Problems
+| **#** | **Problem Name**                                    | **🟢🟡🔴** | **Code File** | **Status** |
+|------|---------------------------------------------------|------------|--------------|------------|
+| 8    | Sort Characters by Frequency                    | 🟢         | [Link]()| |
+| 9    | Maximum Nesting Depth of Parentheses            | 🟢         | [Link]()| |
+| 10   | Roman Number to Integer and Vice Versa          | 🟢         | [Link]()| |
+| 11   | Implement Atoi                                  | 🟡         | [Link]()| |
+| 12   | Count Number of Substrings                      | 🟡         | [Link]()| |
+| 13   | Longest Palindromic Substring (Without DP)      | 🔴         | [Link]()| |
+| 14   | Sum of Beauty of All Substrings                | 🟡         | [Link]()| |
+| 15   | Reverse Every Word in a String                 | 🟢         | [Link]()| |
+
 ## Step 6 : Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
 ### 1D LinkedList
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
