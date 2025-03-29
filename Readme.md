@@ -32,7 +32,7 @@
 | 6  |[Find the first or last occurrence of a given number](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)| 🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_03)|✅|
 | 7  |[Count occurrences of a number in sorted array with duplicates](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢 |[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_03)|✅|
 | 8  |[Search in Rotated Sorted Array I](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_05)|✅|
-| 9  |[Search in Rotated Sorted Array II]()| 🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_05)|✅ |
+| 9  |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)| 🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_05)|✅ |
 | 10 | Find minimum in Rotated Sorted Array|🟡|           |        |
 | 11 | Find out how many times an array has been rotated| 🟢|           |        |
 | 12 | Single element in a Sorted Array| 🟢|           |        |
