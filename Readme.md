@@ -3,14 +3,14 @@
 
 ## Step 2 : Learn Important Sorting Techniques
 ### **Lec 1: Sorting-I**
-| **#** | **Problem Name**                          | **🟢🟡🔴 Difficulty** | **Code File** | **Status** |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |------|----------------------------------|----------------|------------|---------|
 | 1️  | Selection Sort                 | 🟢 Easy       | `selection_sort.py` | |
 | 2️  | Bubble Sort                     | 🟢 Easy       | `bubble_sort.py` | |
 | 3️  | Insertion Sort                  | 🟢 Easy       | `insertion_sort.py` | |
 
 ### **Lec 2: Sorting-II**
-| **#** | **Problem Name**                          | **🟢🟡🔴 Difficulty** | **Code File** | **Status** |
+| **#** | **Problem Name**| **🟢🟡🔴** | **Code File** | **Status** |
 | 1  | Merge Sort                      | 🟡 Medium     | `merge_sort.py` | |
 | 2  | Recursive Bubble Sort           | 🟢 Easy       | `recursive_bubble_sort.py` |  |
 | 3 | Recursive Insertion Sort        | 🟢 Easy       | `recursive_insertion_sort.py` | |
