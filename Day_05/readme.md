@@ -64,15 +64,11 @@ def search(nums, target):
 |-----------|---------------|----------------|
 | Search | **O(log n)** (Binary Search) | **O(1)** |
 
----
-
 ## **Edge Cases Considered**
 ✅ **Target at rotation point**  
 ✅ **No rotation (already sorted array)**  
 ✅ **Array of size 1**  
 ✅ **Target not in array**  
-
----
 
 ## **Usage**
 ```python
