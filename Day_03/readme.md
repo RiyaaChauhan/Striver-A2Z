@@ -66,6 +66,98 @@ print(getFloorAndCeil(a, n, x))
 
 ------------------------------------------------------------------------------------------------------------
 # 2. Occurance of number in sorted arr with duplicates
+# Count Occurrences of a Target in a Sorted Array
+
+## Problem Statement
+Given a sorted array `arr[]` and a number `target`, find the number of occurrences of `target` in `arr[]`.
+
+## Approach
+Since the array is **sorted**, we can efficiently find the number of occurrences of `target` using **binary search** instead of iterating through the entire array. The idea is to:
+
+1. Find the **first occurrence** of `target` in `arr[]`.
+2. Find the **last occurrence** of `target` in `arr[]`.
+3. Compute the count as:
+   
+   ```
+   count = last index - first index + 1
+   ```
+
+## Implementation
+
+### 1️⃣ Binary Search Approach (O(log n))
+```python
+# Function to find first occurrence
+def first_occurrence(arr, target):
+    low, high = 0, len(arr) - 1
+    first = -1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            first = mid
+            high = mid - 1  # Move left to find first occurrence
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return first
+
+# Function to find last occurrence
+def last_occurrence(arr, target):
+    low, high = 0, len(arr) - 1
+    last = -1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            last = mid
+            low = mid + 1  # Move right to find last occurrence
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return last
+
+# Function to count occurrences of target
+def count_occurrences(arr, target):
+    first = first_occurrence(arr, target)
+    if first == -1:
+        return 0  # Target not found
+    last = last_occurrence(arr, target)
+    return last - first + 1
+
+# Example Usage
+arr = [1, 2, 2, 2, 3, 4, 5]
+target = 2
+print(count_occurrences(arr, target))  # Output: 3
+```
+
+### 2️⃣ Alternative Approach (Using `bisect` – O(log n))
+Python’s `bisect` module provides an efficient way to find the leftmost and rightmost occurrences of an element.
+
+```python
+import bisect
+
+def count_occurrences(arr, target):
+    left = bisect.bisect_left(arr, target)
+    right = bisect.bisect_right(arr, target)
+    return right - left
+
+# Example Usage
+arr = [1, 2, 2, 2, 3, 4, 5]
+target = 2
+print(count_occurrences(arr, target))  # Output: 3
+```
+
+## Complexity Analysis
+- **Binary Search Approach:** `O(log n)`
+- **`bisect` Approach:** `O(log n)`
+- **Naive Linear Search:** `O(n)`
+
+## Summary
+✅ **Efficient:** Uses binary search instead of iterating over the array.
+✅ **Optimized:** Runs in `O(log n)` instead of `O(n)`.
+✅ **Uses Sorted Property:** Leverages sorted order for fast searching.
+
+🚀 **Recommended Approach:** Use **binary search** or `bisect` for optimal performance!
 
 ------------------------------------------------------------------------------------------------------------
 # 3. Find the first or last occurance of given number
