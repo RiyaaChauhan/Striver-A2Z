@@ -11,6 +11,7 @@
 
 ### **Lec 2: Sorting-II**
 | **#** | **Problem Name**| **🟢🟡🔴** | **Code File** | **Status** |
+|------|----------------------------------|----------------|------------|---------|
 | 1  | Merge Sort                      | 🟡 Medium     | `merge_sort.py` | |
 | 2  | Recursive Bubble Sort           | 🟢 Easy       | `recursive_bubble_sort.py` |  |
 | 3 | Recursive Insertion Sort        | 🟢 Easy       | `recursive_insertion_sort.py` | |
