@@ -22,7 +22,7 @@
 
 ### **Lec 1: BS on 1D Arrays**
 
-| #  | Problem Name                                                   | 🟢🟡🔴	| Code File | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|----------------------------------------------------------------|------------|-----------|--------|
 | 1  | Binary Search to find X in sorted array| 🟢|           |        |
 | 2  |[Implement Lower Bound](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)|🟢|[Link]()|✅|
@@ -40,7 +40,7 @@
 
 ### **Lec 2: BS on Answers**
 
-| #  | Problem Name                                      | 🟢🟡🔴	 | Code File | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|-------------------------------------------------|------------|-----------|--------|
 | 1  | Find square root of a number in log n         |🟡|           |        |
 | 2  | Find the Nth root of a number using binary search |🟡|           |        |
@@ -59,7 +59,7 @@
 
 ### **Lec 3: BS on 2D Arrays**
 
-| #  | Problem Name                                  | 🟢🟡🔴	| Code File | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|-----------|--------|
 | 1  | Find the row with the maximum number of 1's | 🟢|           |        |
 | 2  | Search in a 2D matrix                       | 🟡|           |        |
@@ -69,7 +69,7 @@
 
 ## Step 6 : Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
 ### 1D LinkedList
-| #  | Problem Name                                | Difficulty | Code File  | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|------------|--------|
 | 1  |[Introduction to LinkedList, learn about struct, and how is node represented]()|🟢| [Link]()   |❌|
 | 2  |[Inserting a node in LinkedList](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=linked-list-insertion)|🟢| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_01.%20Inserting%20a%20node%20in%20LL.py)|✅|
@@ -78,7 +78,7 @@
 | 5  |[Search an element in the LL](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=search-in-linked-list-1664434326)|🟢| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_04.%20Search%20an%20element%20in%20LL.py)|✅|
 
 ### Lec 2: Learn Doubly LinkedList
-| #  | Problem Name                                | 🟢🟡🔴	 | Code File  | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|------------|--------|
 |1|[Introduction to DLL, learn about struct, and how is node represented]()|🟢|[Link]()|❌|
 |2|[Insert a node in DLL]()|🟢|[Link]()|❌|
@@ -86,7 +86,7 @@
 |4|[Reverse a DLL]()|🟢|[Link]()|❌|
 
 ### Lec 3: Medium Problems of LL
-| #  | Problem Name                                        | 🟢🟡🔴	 | Code File | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------------|------------|-----------|--------|
 | 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy | [Code](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_05.%20Middle%20of%20LL.py) |✅|
 | 2  | Reverse a LinkedList [Iterative]                |        | [Code](#) | ❌|
@@ -105,14 +105,14 @@
 | 15 | Add two numbers represented by LinkedList      | 🟡| [Code](#) | ❌|
 
 ### Lec 4: Medium Problems of DLL
-| #  | Problem Name                                        | Difficulty | Code File | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------------|------------|-----------|--------|
 | 1  | Delete all occurrences of a key in DLL         |🟡| [Code](#) | ❌|
 | 2  | Find pairs with given sum in DLL               |🟡| [Code](#) | ❌|
 | 3  | Remove duplicates from sorted DLL              |🟡| [Code](#) | ❌|
 
 ### Lec 5: Hard Problems of LL
-| #  | Problem Name                                          | Difficulty | Code File | Status |
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|-----------------------------------------------------|------------|-----------|--------|
 | 1  | Reverse LinkedList in groups of given size K       | 🔴| [Code](#) | ❌|
 | 2  | Rotate a LinkedList                                |🟡| [Code](#) | ❌|
