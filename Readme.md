@@ -142,3 +142,24 @@
 | 2  | Rotate a LinkedList                                |🟡| [Code](#) | ❌|
 | 3  | Flattening of LinkedList                           | 🔴| [Code](#) | ❌|
 | 4  | Clone a LinkedList with random and next pointer   | 🔴| [Code](#) | ❌|
+
+## Step 10 : Sliding Window & Two Pointer Combined Problems
+### Lec 1: Medium Problems
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+| 1    | Longest Substring Without Repeating Characters     | 🟡         | [Link]()     |            |
+| 2    | Max Consecutive Ones III                           | 🟡         | [Link]()     |            |
+| 3    | Fruit Into Baskets                                 | 🟡         | [Link]()     |            |
+| 4    | Longest Repeating Character Replacement           | 🟡         | [Link]()     |            |
+| 5    | Binary Subarray with Sum                          | 🟢         | [Link]()     |            |
+| 6    | Count Number of Nice Subarrays                    | 🟡         | [Link]()     |            |
+| 7    | Number of Substrings Containing All Three Characters | 🟡         | [Link]()     |            |
+| 8    | Maximum Points You Can Obtain from Cards          | 🟡         | [Link]()     |            |
+
+### Lec 2: Hard Problems
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+| 1    | Longest Substring with At Most K Distinct Characters | 🟡         | [Link]()     |            |
+| 2   | Subarray with K Different Integers                | 🔴         | [Link]()     |            |
+| 3  | Minimum Window Substring                          | 🔴         | [Link]()     |            |
+| 4   | Minimum Window Subsequence                        | 🔴         | [Link]()     |            |
