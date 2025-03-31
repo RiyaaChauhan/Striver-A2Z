@@ -5,9 +5,9 @@
 ### **Lec 1: Sorting-I**
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |------|----------------------------------|----------------|------------|---------|
-| 1️  | Selection Sort                 | 🟢        | [selection_sort.py]() | |
-| 2️  | Bubble Sort                     | 🟢        |[bubble_sort.py]()| |
-| 3️  | Insertion Sort                  | 🟢        |[insertion_sort.py]() | |
+| 1️  |[Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢        | [selection_sort.py]() | |
+| 2️  |[Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢        |[bubble_sort.py]()| |
+| 3️  |[Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢        |[insertion_sort.py]() | |
 
 ### **Lec 2: Sorting-II**
 | **#** | **Problem Name**| **🟢🟡🔴** | **Code File** | **Status** |
