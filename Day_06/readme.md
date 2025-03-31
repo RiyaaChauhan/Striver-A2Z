@@ -65,6 +65,17 @@ Since the array is rotated but sorted, **binary search** can be used to find the
    - If the search space is already sorted, the smallest element can be directly determined without further searching.
    - This optimization reduces unnecessary iterations, improving time complexity while maintaining accuracy.
 
+## **Key Points:**
+- Initialization: low and high are used to define the current search range within the array. ans starts as infinity to ensure any number found will be smaller.
+
+Binary Search Logic:
+
+- The loop runs as long as low is less than or equal to high.
+- mid is calculated to find the middle index.
+- Checking Sorted Condition:
+    - The condition if nums[low] <= nums[high]: checks if the array segment defined by low and high is sorted. If true, the minimum must be at nums[low] or earlier, and the current ans is updated.
+- The break statement exits the loop immediately after updating ans, which is not the typical behavior expected in finding a minimum in a rotated array.
+
 ## **Optimized Python Solution**
 ```python
 class Solution:
