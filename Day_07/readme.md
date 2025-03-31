@@ -1,11 +1,12 @@
-### **Understanding the Problem**  
+# 1. Single element in sorted array
+## Problem Statement
 We are given a **sorted array** where every element appears **twice**, except for one element that appears **only once**. Our goal is to find this single unique element in **O(log n)** time and **O(1)** space.
 
-#### **Example:**  
+## Example: 
 - **Input**: `[1, 1, 2, 2, 3, 4, 4]`  
 - **Output**: `3` (since `3` appears only once)
 
-### **Code Breakdown and Explanation**  
+## Code Breakdown and Explanation 
 
 ```python
 class Solution:
@@ -51,7 +52,7 @@ class Solution:
 ✅ **Final Return Statement:**  
 - When `left == right`, this index contains the **unique element**.  
 
-### **Key Observations**
+## Key Observations
 1. **Why Binary Search?**  
    - A **linear scan (O(n))** would work, but the problem requires **O(log n)** time.  
    - **Binary search** helps efficiently narrow down the search space.
@@ -64,15 +65,15 @@ class Solution:
    - Before the unique element, pairs follow the `(even, odd)` pattern.  
    - After the unique element, the pattern breaks, which helps us decide whether to move left or right.
 
-### **Complexity Analysis**  
+## Complexity Analysis 
 ✅ **Time Complexity**: **O(log n)**  
 - **Binary search** halves the search space at each step.  
 
 ✅ **Space Complexity**: **O(1)**  
 - **No extra space** is used apart from the two pointers (`left` and `right`).
 
-### **Example Walkthrough**
-#### **Example 1**:  
+## Example Walkthrough
+## Example 1:  
 🔹 **Input**: `[1, 1, 2, 2, 3, 4, 4]`  
 🔹 **Steps**:
 | Left | Right | Mid | `nums[mid]` | `nums[mid + 1]` | Action |
@@ -83,7 +84,7 @@ class Solution:
 
 🔹 **Output**: `3`
 
-### **Final Summary**
+## Final Summary
 ✅ **Efficient O(log n) solution using Binary Search**  
 ✅ **No extra space required (O(1) space complexity)**  
 ✅ **Ensures `mid` is even to maintain the pair structure**  
