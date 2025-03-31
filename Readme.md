@@ -5,17 +5,17 @@
 ### **Lec 1: Sorting-I**
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |------|----------------------------------|----------------|------------|---------|
-| 1️  | Selection Sort                 | 🟢        | `selection_sort.py` | |
-| 2️  | Bubble Sort                     | 🟢        | `bubble_sort.py` | |
-| 3️  | Insertion Sort                  | 🟢        | `insertion_sort.py` | |
+| 1️  | Selection Sort                 | 🟢        | [selection_sort.py]() | |
+| 2️  | Bubble Sort                     | 🟢        |[bubble_sort.py]()| |
+| 3️  | Insertion Sort                  | 🟢        |[insertion_sort.py]() | |
 
 ### **Lec 2: Sorting-II**
 | **#** | **Problem Name**| **🟢🟡🔴** | **Code File** | **Status** |
 |------|----------------------------------|----------------|------------|---------|
-| 1  | Merge Sort                      | 🟡      | `merge_sort.py` | |
-| 2  | Recursive Bubble Sort           | 🟢        | `recursive_bubble_sort.py` |  |
-| 3 | Recursive Insertion Sort        | 🟢        | `recursive_insertion_sort.py` | |
-| 4 | Quick Sort                      | 🟢        | `quick_sort.py` | |
+| 1  | Merge Sort                      | 🟡      |[merge_sort.py]()| |
+| 2  | Recursive Bubble Sort           | 🟢        |[recursive_bubble_sort.py]()|  |
+| 3 | Recursive Insertion Sort        | 🟢        |[recursive_insertion_sort.py]()| |
+| 4 | Quick Sort                      | 🟢        |[quick_sort.py]()| |
 
 
 ## Step 4: Binary Search [1D, 2D Arrays, Search Space]
