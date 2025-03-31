@@ -17,9 +17,60 @@
 | 3 | Recursive Insertion Sort        | 🟢        |[recursive_insertion_sort.py]()| |
 | 4 | Quick Sort                      | 🟢        |[quick_sort.py]()| |
 
+## Step 3 : Solve Problems on Arrays [Easy -> Medium -> Hard]
+### **Lec 1: Easy**
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |  
+|------|--------------------------------|-----------|-------------|-------------|  
+| 1 | Largest Element in an Array | 🟢 | | |  
+| 2 | Second Largest Element in an Array without sorting | 🟢 | | |  
+| 3 | Check if the array is sorted | 🟢 | | |  
+| 4 | Remove duplicates from Sorted array | 🟢 | | |  
+| 5 | Left Rotate an array by one place | 🟢 | | |  
+| 6 | Left rotate an array by D places | 🟢 | | |  
+| 7 | Move Zeros to end | 🟢 | | |  
+| 8 | Linear Search | 🟢 | | |  
+| 9 | Find the Union | 🟡 | | |  
+| 10 | Find missing number in an array | 🟢 | | |  
+| 11 | Maximum Consecutive Ones | 🟢 | | |  
+| 12 | Find the number that appears once, and other numbers twice. | 🟡 | | |  
+| 13 | Longest subarray with given sum K (positives) |🟡 | | |  
+| 14 | Longest subarray with sum K (Positives + Negatives) | 🟡| | |  
+
+### **Lec 2: Medium**  
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |  
+|------|--------------------------------|-----------|-------------|-------------|  
+| 15 | 2Sum Problem |🟡 | | |  
+| 16 | Sort an array of 0's 1's and 2's |🟡| | |  
+| 17 | Majority Element (>n/2 times) |🟢| | |  
+| 18 | Kadane's Algorithm, maximum subarray sum |🟢| | |  
+| 19 | Print subarray with maximum subarray sum (extended version of above problem) |🟡| | |  
+| 20 | Stock Buy and Sell |🟢 | | |  
+| 21 | Rearrange the array in alternating positive and negative items | 🟡| | |  
+| 22 | Next Permutation |🟡| | |  
+| 23 | Leaders in an Array problem |🟢| | |  
+| 24 | Longest Consecutive Sequence in an Array |🟡| | |  
+| 25 | Set Matrix Zeros |🟡| | |  
+| 26 | Rotate Matrix by 90 degrees |🟡| | |  
+| 27 | Print the matrix in spiral manner |🟡| | |  
+| 28 | Count subarrays with given sum |🟢| | |  
+
+### **📌 Lec 3: Hard**  
+| **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |  
+|------|--------------------------------|-----------|-------------|-------------|  
+| 29 | Pascal's Triangle |🟡| | |  
+| 30 | Majority Element (n/3 times) |🟡| | |  
+| 31 | 3-Sum Problem |🟡| | |  
+| 32 | 4-Sum Problem | 🔴 | | |  
+| 33 | Largest Subarray with 0 Sum |🟡| | |  
+| 34 | Count number of subarrays with given xor K | 🔴 | | |  
+| 35 | Merge Overlapping Subintervals |🟡| | |  
+| 36 | Merge two sorted arrays without extra space |🟡| | |  
+| 37 | Find the repeating and missing number | 🔴 | | |  
+| 38 | Count Inversions | 🔴 | | |  
+| 39 | Reverse Pairs | 🔴 | | |  
+| 40 | Maximum Product Subarray |🟢| | |  
 
 ## Step 4: Binary Search [1D, 2D Arrays, Search Space]
-
 ### **Lec 1: BS on 1D Arrays**
 
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
@@ -39,7 +90,6 @@
 | 13 | Find peak element| 🔴|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_07)| |
 
 ### **Lec 2: BS on Answers**
-
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|-------------------------------------------------|------------|-----------|--------|
 | 1  | Find square root of a number in log n         |🟡|           |        |
@@ -58,7 +108,6 @@
 | 14 | Kth element of 2 sorted arrays               |🟡|           |        |
 
 ### **Lec 3: BS on 2D Arrays**
-
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|-----------|--------|
 | 1  | Find the row with the maximum number of 1's | 🟢|           |        |
