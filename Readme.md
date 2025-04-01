@@ -75,7 +75,7 @@
 
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|----------------------------------------------------------------|------------|-----------|--------|
-| 1  | Binary Search to find X in sorted array| 🟢|           |        |
+| 1  |[Binary Search to find X in sorted array](https://leetcode.com/problems/binary-search/description/)| 🟢|[Link]()|✅|
 | 2  |[Implement Lower Bound](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)|🟢|[Link]()|✅|
 | 3  |[Implement Upper Bound](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)|🟢|[Link]()|✅|
 | 4  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_04)|✅|
