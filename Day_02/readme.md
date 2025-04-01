@@ -111,99 +111,78 @@ function findFloor(arr, x):
 🚀 **Binary search ensures finding the floor efficiently, making it ideal for large datasets!**
 ----------------------------------------------------------------------
 # 3. Upper Bound (Last occurance) - Floor in Sorted Array
+Here's the **README.md** for your implementation:
 
+---
+
+# Find Floor and Ceiling in an Unsorted Array
 ## Problem Statement
-Given a sorted array `arr[]` and an integer `x`, find the index (0-based) of the largest element in `arr[]` that is **less than or equal to `x`**. This element is called the **floor of `x`**. If such an element does not exist, return `-1`.
+Given an **unsorted** array `arr[]` of integers and an integer `x`, find the **floor** and **ceiling** of `x` in `arr[]`.
 
-### Constraints:
-- The input array is sorted in non-decreasing order.
-- If multiple occurrences of the floor exist, return the **index of the last occurrence**.
-- If no element in the array is less than or equal to `x`, return `-1`.
+- **Floor** of `x`: The largest element in `arr[]` that is **≤ x**. If no such element exists, return `-1`.
+- **Ceiling** of `x`: The smallest element in `arr[]` that is **≥ x**. If no such element exists, return `-1`.
 
 ## Example
-
-### Example 1
-**Input:**  
-```text
-arr = [1, 2, 8, 10, 10, 12, 19]
+### **Input**
+```python
+arr = [3, 8, 4, 6, 7, 10]
 x = 5
 ```
-**Output:**  
-```text
-1
-```
-**Explanation:**  
-The largest element ≤ `5` is `2`, which is at index `1`.
 
-### Example 2
-**Input:**  
-```text
-arr = [3, 4, 7, 7, 8, 10]
-x = 7
+### **Output**
+```python
+[4, 6]
 ```
-**Output:**  
-```text
-3
-```
-**Explanation:**  
-The last occurrence of `7` is at index `3`, so we return `3`.
+
+### **Explanation**
+- The largest number ≤ `5` is **4** (floor).
+- The smallest number ≥ `5` is **6** (ceil).
 
 ## Approach
-We use **Binary Search** to find the largest element ≤ `x` efficiently:
-1. Initialize `left = 0` and `right = len(arr) - 1`.
-2. Maintain a variable `ans = -1` to store the index of the floor.
-3. Use binary search:
-   - Find the middle index `mid`.
-   - If `arr[mid] ≤ x`, update `ans = mid` (as a potential answer) and move **right** to find a later occurrence.
-   - If `arr[mid] > x`, move **left**.
-4. Return `ans`.
+Since the array is **unsorted**, we cannot use binary search. Instead, we iterate through the array once:
 
-## Pseudo Code
-```
-function findFloor(arr, x):
-    left = 0
-    right = length(arr) - 1
-    ans = -1
-    
-    while left <= right:
-        mid = left + (right - left) // 2
-        
-        if arr[mid] <= x:
-            ans = mid  // Potential floor found
-            left = mid + 1  // Move right to find last occurrence
-        else:
-            right = mid - 1  // Move left
-    
-    return ans
-```
+1. Initialize `floor = -1` and `ceil = -1`.
+2. Iterate through each element in `arr[]`:
+   - If `arr[i] ≤ x`, update `floor = max(floor, arr[i])`.
+   - If `arr[i] ≥ x`, update `ceil = min(ceil, arr[i])`.
+3. Return `[floor, ceil]`.
 
-## Implementation (Python)
+## Code Implementation
+
 ```python
-def find_floor(arr, x):
-    left, right = 0, len(arr) - 1
-    ans = -1  # Default answer if no floor is found
-
-    while left <= right:
-        mid = left + (right - left) // 2
-
-        if arr[mid] <= x:
-            ans = mid  # Update answer, move right for last occurrence
-            left = mid + 1
-        else:
-            right = mid - 1  # Move left
-
-    return ans
+class Solution:
+    def getFloorAndCeil(self, arr, x):
+        floor, ceil = -1, -1  # Default values if no floor/ceil is found
+        
+        for num in arr:
+            if num <= x:  # Check for floor condition
+                floor = max(floor, num)
+            if num >= x:  # Check for ceil condition
+                ceil = min(ceil, num) if ceil != -1 else num
+        
+        return [floor, ceil]
 ```
 
 ## Complexity Analysis
-- **Time Complexity:** `O(log N)` (Binary search reduces search space by half in each iteration)
-- **Space Complexity:** `O(1)` (Uses only constant extra space)
+- **Time Complexity:** `O(n)`, as we iterate through the array once.
+- **Space Complexity:** `O(1)`, as we use only a few extra variables.
 
 ## Edge Cases Considered
-- **x is smaller than all elements** → Return `-1`.
-- **x is larger than all elements** → Return the last index.
-- **x is present multiple times** → Return the last occurrence.
-- **x is exactly equal to an element** → Return its last occurrence.
-- **Single element array** → Handle cases where `x` is greater, smaller, or equal.
+| Case | Example Input | Expected Output |
+|------|--------------|----------------|
+| **Exact Match Found** | `arr = [3, 8, 4, 6, 7, 10], x = 6` | `[6, 6]` |
+| **`x` is Smaller than the Smallest Element** | `arr = [3, 8, 4, 6, 7, 10], x = 2` | `[-1, 3]` |
+| **`x` is Larger than the Largest Element** | `arr = [3, 8, 4, 6, 7, 10], x = 12` | `[10, -1]` |
+| **All Elements are the Same** | `arr = [5, 5, 5, 5], x = 5` | `[5, 5]` |
+| **Single Element Array** | `arr = [5], x = 3` | `[-1, 5]` |
 
------------------------------------------------------------------------------------------------------------------------------------
+## Usage Example
+```python
+sol = Solution()
+arr = [3, 8, 4, 6, 7, 10]
+
+print(sol.getFloorAndCeil(arr, 5))  # Output: [4, 6]
+print(sol.getFloorAndCeil(arr, 10)) # Output: [10, 10]
+print(sol.getFloorAndCeil(arr, 2))  # Output: [-1, 3]
+print(sol.getFloorAndCeil(arr, 12)) # Output: [10, -1]
+```
