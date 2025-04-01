@@ -1,91 +1,96 @@
 # 1. Single element in sorted array
 ## Problem Statement
-We are given a **sorted array** where every element appears **twice**, except for one element that appears **only once**. Our goal is to find this single unique element in **O(log n)** time and **O(1)** space.
 
-## Example: 
-- **Input**: `[1, 1, 2, 2, 3, 4, 4]`  
-- **Output**: `3` (since `3` appears only once)
+You are given a sorted array `nums` that contains integers. Every element appears exactly twice except for one element, which appears only once. Your task is to find the single element that appears only once.
 
-## Code Breakdown and Explanation 
+### Examples
+
+1. **Example 1**
+   - **Input:** `nums = [1, 1, 2, 2, 3, 3, 4, 4, 5]`
+   - **Output:** `5`
+   - **Explanation:** The number `5` appears only once, while all other numbers appear twice.
+
+2. **Example 2**
+   - **Input:** `nums = [2, 2, 3, 3, 4, 4, 5]`
+   - **Output:** `5`
+   - **Explanation:** Again, `5` is the only number that appears once.
+
+3. **Example 3**
+   - **Input:** `nums = [1, 2, 2, 3, 3]`
+   - **Output:** `1`
+   - **Explanation:** Here, `1` is the unique element.
+
+### Constraints
+- `1 <= nums.length <= 10^5`
+- `0 <= nums[i] <= 10^5`
+- The array is sorted.
+
+## Code Explanation
+
+Here’s the implementation of the solution:
 
 ```python
 class Solution:
     def singleNonDuplicate(self, nums):
-        left, right = 0, len(nums) - 1  # Initialize two pointers
-```
-✅ **Initialization:**  
-- `left = 0` (start of array)  
-- `right = len(nums) - 1` (end of array)
+        n = len(nums)
+        if n == 1:
+            return nums[0]
+        
+        # Check first and last element for uniqueness
+        if nums[0] != nums[1]:
+            return nums[0]
+        if nums[n-1] != nums[n-2]:
+            return nums[n-1]
 
-```python
-        while left < right:  # Continue until two pointers converge
-            mid = left + (right - left) // 2  # Find the middle index
-```
-✅ **Binary Search Loop:**  
-- Runs while `left < right`, meaning we haven't found the unique element yet.  
-- `mid` is calculated to divide the search space.
-
-```python
-            # Ensure mid is even for pair checking
-            if mid % 2 == 1:
-                mid -= 1  
-```
-✅ **Adjusting `mid` to be even:**  
-- Since pairs of elements occur at even indices, we **ensure `mid` is even**.  
-- If `mid` is **odd**, we decrement it (`mid -= 1`).
-
-```python
-            if nums[mid] == nums[mid + 1]:
-                left = mid + 2  # Move right to the next pair
+        # Binary search algorithm to find the single element
+        low, high = 1, n - 2
+        while low <= high:
+            mid = (low + high) // 2
+            
+            # Check if mid is the single element
+            if nums[mid] != nums[mid + 1] and nums[mid] != nums[mid - 1]:
+                return nums[mid]
+            
+            # Determine the half to continue searching
+            if (mid % 2 == 1 and nums[mid] == nums[mid - 1]) or (mid % 2 == 0 and nums[mid] == nums[mid + 1]):
+                low = mid + 1
             else:
-                right = mid  # Move left
+                high = mid - 1
+        
+        return -1
 ```
-✅ **Checking for Pairs and Moving the Search Space:**  
-- If `nums[mid] == nums[mid + 1]`:  
-  - The **single element is in the right half**, so move `left = mid + 2`.  
-- Else:  
-  - The **single element is in the left half**, so move `right = mid`.
 
-```python
-        return nums[left]  # Return the single non-duplicate element
-```
-✅ **Final Return Statement:**  
-- When `left == right`, this index contains the **unique element**.  
+### Logic and Working of the Code
 
-## Key Observations
-1. **Why Binary Search?**  
-   - A **linear scan (O(n))** would work, but the problem requires **O(log n)** time.  
-   - **Binary search** helps efficiently narrow down the search space.
+1. **Input Handling:**
+   - The function starts by determining the length of the input list `nums`.
+   - If the length is `1`, it returns that single element since it’s the answer.
+   - It checks if the first or the last elements are unique, returning one of them immediately if so.
 
-2. **Why Ensure `mid` is Even?**  
-   - In a sorted array with **pairs**, elements appear at **even indices** first (`0, 2, 4, ...`).  
-   - This guarantees correct pair checking.
+2. **Binary Search Approach:**
+   - The method uses a binary search technique to efficiently find the unique number.
+   - It initializes two pointers, `low` (starting from 1) and `high` (ending at `n-2`), for searching within the array.
+   - The middle index `mid` is calculated during each iteration.
 
-3. **How Does the Approach Work?**  
-   - Before the unique element, pairs follow the `(even, odd)` pattern.  
-   - After the unique element, the pattern breaks, which helps us decide whether to move left or right.
+3. **Checking for Uniqueness:**
+   - The code checks if the current `mid` element is unique by comparing it with its neighbors (`mid-1` and `mid+1`).
+   - If it is found to be unique, it returns `nums[mid]`.
 
-## Complexity Analysis 
-✅ **Time Complexity**: **O(log n)**  
-- **Binary search** halves the search space at each step.  
+4. **Searching Logic:**
+   - The algorithm divides the array based on conditions that relate the value of `mid` (whether it's even or odd) and its neighbors:
+     - If `mid` is odd and matches the left neighbor, or if `mid` is even and matches the right neighbor, the unique element must be in the right half since pairs would be formed correctly up to `mid`. Thus, it sets `low = mid + 1`.
+     - Otherwise, it narrows down the search to the left half by setting `high = mid - 1`.
 
-✅ **Space Complexity**: **O(1)**  
-- **No extra space** is used apart from the two pointers (`left` and `right`).
+5. **Completion:**
+   - The process continues until `low` surpasses `high`, ensuring that the loop only examines valid parts of the sorted array.
+   - If no unique element is found (which theoretically should not happen given the guarantees of the problem), it returns `-1`.
 
-## Example Walkthrough
-## Example 1:  
-🔹 **Input**: `[1, 1, 2, 2, 3, 4, 4]`  
-🔹 **Steps**:
-| Left | Right | Mid | `nums[mid]` | `nums[mid + 1]` | Action |
-|------|------|-----|------------|----------------|---------|
-| 0 | 6 | 3 | 2 | 2 | Move `left = mid + 2 = 5` |
-| 5 | 6 | 5 | 3 | 4 | Move `right = mid = 5` |
-| 5 | 5 | - | 3 | - | Return `nums[left] = 3` |
+### Time Complexity
 
-🔹 **Output**: `3`
+- The average time complexity of this solution is **O(log n)** because it employs a binary search approach over the sorted list.
 
-## Final Summary
-✅ **Efficient O(log n) solution using Binary Search**  
-✅ **No extra space required (O(1) space complexity)**  
-✅ **Ensures `mid` is even to maintain the pair structure**  
-✅ **Works optimally for large input sizes**  
+### Space Complexity
+
+- The space complexity is **O(1)** since we are not using any additional data structures that grow with input size.
+
+This efficient solution ensures you can handle large lists while finding the single unique number quickly! If you need any further clarification or details, feel free to ask!
