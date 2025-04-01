@@ -94,3 +94,7 @@ class Solution:
 - The space complexity is **O(1)** since we are not using any additional data structures that grow with input size.
 
 This efficient solution ensures you can handle large lists while finding the single unique number quickly! If you need any further clarification or details, feel free to ask!
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# 2. Find peak element
