@@ -1,4 +1,4 @@
-# 1. BB to find X in sorted array
+# 1. BS to find X in sorted array
 ## Overview  
 This function implements the **Binary Search** algorithm to find the index of a given `target` in a sorted array `nums`. If the target is not found, it returns `-1`.  
 

@@ -119,6 +119,8 @@ class Solution:
 - Proper handling of mid-point comparison directs the search to the correct half.
 - The **sorted half** may or may not contain the minimum, so careful decision-making in each iteration is key.
 
+-----------------------------------------------------------------------------------------------------------------
+
 # 2. Finding how many times has an array been rotated       
 ### Problem Statement
 
