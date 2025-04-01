@@ -86,8 +86,8 @@
 | 9  |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)| 🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_05)|✅ |
 | 10 |[Find minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_06)|✅|
 | 11 |[Find out how many times an array has been rotated](https://www.geeksforgeeks.org/problems/rotation4723/1)| 🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_06)|✅|
-| 12 | Single element in a Sorted Array| 🟢|[link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_07)| |
-| 13 | Find peak element| 🔴|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_07)| |
+| 12 |[Single element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| 🟢|[link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_07)|✅|
+| 13 |[Find peak element](https://leetcode.com/problems/find-peak-element/description/)| 🔴|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_07)|✅|
 
 ### **Lec 2: BS on Answers**
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
