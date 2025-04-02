@@ -43,3 +43,4 @@ print(sol.largest(numbers))  # Output: 10
 - The list contains duplicate largest elements.
 - The list is already sorted in ascending or descending order.
 --------------------------------------------------------------------------------------
+# 7. Second Largest Element in an Array without sorting
