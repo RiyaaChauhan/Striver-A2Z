@@ -22,7 +22,7 @@
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |  
 |------|--------------------------------|-----------|-------------|-------------|  
 | 1 |[Largest Element in an Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | 🟢 |[code]()|✅|  
-| 2 | Second Largest Element in an Array without sorting | 🟢 | | |  
+| 2 |[Second Largest Element in an Array without sorting](https://www.geeksforgeeks.org/problems/second-largest3735/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢 |[code]()|✅|  
 | 3 | Check if the array is sorted | 🟢 | | |  
 | 4 | Remove duplicates from Sorted array | 🟢 | | |  
 | 5 | Left Rotate an array by one place | 🟢 | | |  
