@@ -23,8 +23,8 @@
 |------|--------------------------------|-----------|-------------|-------------|  
 | 1 |[Largest Element in an Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
 | 2 |[Second Largest Element in an Array without sorting](https://www.geeksforgeeks.org/problems/second-largest3735/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
-| 3 |[Check if the array is sorted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)| 🟢 | |✅|  
-| 4 | Remove duplicates from Sorted array | 🟢 | | |  
+| 3 |[Check if the array is sorted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
+| 4 |[Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
 | 5 | Left Rotate an array by one place | 🟢 | | |  
 | 6 | Left rotate an array by D places | 🟢 | | |  
 | 7 | Move Zeros to end | 🟢 | | |  
