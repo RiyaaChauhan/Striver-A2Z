@@ -64,4 +64,3 @@ print(sol.check([3, 2, 1, 5, 4]))  # Output: False
 3. **Unsorted array** (e.g., `[3, 2, 1, 5, 4]` → Output: `False`)
 4. **Array with all identical elements** (e.g., `[1, 1, 1, 1]` → Output: `True`)
 5. **Array with only two elements** (e.g., `[2, 1]` → Output: `True`)
-
