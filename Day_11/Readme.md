@@ -149,6 +149,61 @@ def leftRotateByOne(arr):
 ------------------------------------------------------------------------------------------------------
 
 # 3. Left Rotate an Array by D Places
+### Problem Statement
+
+Given an integer array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
+
+### Constraints
+
+- `1 <= nums.length <= 10⁵`
+- `-2³¹ <= nums[i] <= 2³¹ - 1`
+- `0 <= k <= 10⁵`
+### 🔍 Approach
+
+####  Optimal Approach (Using Reverse)
+
+To rotate the array to the right by `k` steps:
+1. Reverse the entire array.
+2. Reverse the first `k` elements.
+3. Reverse the rest of the array from index `k` to end.
+
+This works in-place and avoids extra space.
+
+### Code
+
+```python
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        n = len(nums)
+        k %= n  # to handle cases where k > n
+        nums.reverse()
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
+```
+### Time and Space Complexity
+
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+
+### Examples
+
+#### Example 1:
+```
+Input: nums = [1,2,3,4,5,6,7], k = 3
+Output: [5,6,7,1,2,3,4]
+Explanation:
+Step 1: Reverse entire array: [7,6,5,4,3,2,1]  
+Step 2: Reverse first k=3: [5,6,7,4,3,2,1]  
+Step 3: Reverse remaining: [5,6,7,1,2,3,4]
+```
+
+#### Example 2:
+```
+Input: nums = [-1,-100,3,99], k = 2
+Output: [3,99,-1,-100]
+Explanation:
+After 2 rotations, the last two elements move to the front.
+```
 ------------------------------------------------------------------------------------------------------
 
 # 4. Move Zeros to End
