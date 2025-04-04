@@ -14,17 +14,17 @@
 
 # 1. Remove Duplicates from Sorted Array
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Given an integer array `nums` sorted in **non-decreasing order**, remove the **duplicates in-place** such that each unique element appears only once. Return the number of unique elements `k`, and the first `k` elements of `nums` should hold the final result. You **must** do this with **O(1) extra memory**.
 
-## 🔍 Constraints
+## Constraints
 
 - The array is sorted in non-decreasing order.
 - Modifications must be done **in-place**.
 - Extra memory is not allowed beyond O(1).
 
-## 🧪 Example
+## Example
 
 **Input:**
 ```python
@@ -37,9 +37,9 @@ k = 4
 nums = [1, 2, 3, 4, _, _, _]
 ```
 
-## 🧠 Approaches
+## Approaches
 
-### 1️⃣ Brute Force (Using Set)
+### 1 Brute Force (Using Set)
 
 **Idea:**  
 Use a `set` to collect unique elements, sort it, and copy back.
@@ -60,7 +60,7 @@ class Solution:
 **Space Complexity:** O(n)  
 **Drawback:** ❌ Not in-place
 
-### 3️⃣ Optimal (In-place Two Pointer)
+### 3️ Optimal (In-place Two Pointer)
 
 **Idea:**  
 Use two pointers to overwrite duplicates while iterating.
@@ -84,7 +84,7 @@ class Solution:
 **Space Complexity:** O(1) ✅  
 **Advantage:** ✔️ In-place, Efficient
 
-## 💬 Step-by-Step Example (Optimal)
+## Step-by-Step Example (Optimal)
 
 ```python
 Input: nums = [1, 1, 2, 3, 3]
@@ -101,6 +101,51 @@ Return: 3
 ```
 ------------------------------------------------------------------------------------------------------
 # 2. Left Rotate an Array by One Place
+### Problem Statement
+Given an array `arr[]` of size `N`, **left rotate** the array by **one position** in **place**.
+
+### 1. Brute Force Approach (Using Extra Space)
+#### Idea:
+- Store the first element separately.
+- Shift all elements to the left.
+- Place the first element at the last index.
+
+#### Code:
+```python
+def leftRotateByOne(arr):
+    n = len(arr)
+    temp = arr[0]  # Store first element
+    for i in range(1, n):
+        arr[i - 1] = arr[i]  # Shift left
+    arr[-1] = temp  # Place first element at the end
+    return arr
+```
+#### Complexity Analysis:
+- **Time Complexity:** `O(N)`  
+- **Space Complexity:** `O(1)`, as we use only one temp variable.
+
+### 2. Optimized Approach (Without Extra Space)
+This approach is already optimal as it performs the shifting in-place.
+
+#### Alternative Pythonic Way (Using Slicing):
+```python
+def leftRotateByOne(arr):
+    return arr[1:] + arr[:1]  # Rotate using slicing
+```
+#### Complexity Analysis:
+- **Time Complexity:** `O(N)`  
+- **Space Complexity:** `O(1)`
+
+### Edge Cases to Consider
+✔ **Single element array** → `[5]` should remain `[5]`  
+✔ **Already sorted array** → `[1, 2, 3] → [2, 3, 1]`  
+✔ **Array with duplicate values** → `[7, 7, 7, 7] → [7, 7, 7, 7]`  
+✔ **Large input sizes** should still run efficiently.  
+
+### Final Thoughts
+- The **shifting method** is optimal and runs in **O(N) time**.  
+- The **slicing method** is more Pythonic but still **O(N)**.  
+- We ensure **in-place rotation** with only `O(1)` extra space.  
 ------------------------------------------------------------------------------------------------------
 
 # 3. Left Rotate an Array by D Places
