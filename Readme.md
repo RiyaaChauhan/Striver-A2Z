@@ -25,7 +25,7 @@
 | 2 |[Second Largest Element in an Array without sorting](https://www.geeksforgeeks.org/problems/second-largest3735/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
 | 3 |[Check if the array is sorted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_10)|✅|  
 | 4 |[Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
-| 5 | Left Rotate an array by one place | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 5 |[Left Rotate an array by one place](https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 6 | Left rotate an array by D places | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
 | 7 | Move Zeros to end | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
 | 8 | Linear Search | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
