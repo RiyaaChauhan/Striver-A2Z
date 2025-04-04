@@ -23,17 +23,17 @@
 |------|--------------------------------|-----------|-------------|-------------|  
 | 1 |[Largest Element in an Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
 | 2 |[Second Largest Element in an Array without sorting](https://www.geeksforgeeks.org/problems/second-largest3735/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
-| 3 |[Check if the array is sorted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
-| 4 |[Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)|✅|  
-| 5 | Left Rotate an array by one place | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_09)| |  
-| 6 | Left rotate an array by D places | 🟢 | | |  
-| 7 | Move Zeros to end | 🟢 | | |  
-| 8 | Linear Search | 🟢 | | |  
-| 9 | Find the Union | 🟡 | | |  
-| 10 | Find missing number in an array | 🟢 | | |  
-| 11 | Maximum Consecutive Ones | 🟢 | | |  
-| 12 | Find the number that appears once, and other numbers twice. | 🟡 | | |  
-| 13 | Longest subarray with given sum K (positives) |🟡 | | |  
+| 3 |[Check if the array is sorted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_10)|✅|  
+| 4 |[Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
+| 5 | Left Rotate an array by one place | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 6 | Left rotate an array by D places | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 7 | Move Zeros to end | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 8 | Linear Search | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 9 | Find the Union | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 10 | Find missing number in an array | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 11 | Maximum Consecutive Ones | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 12 | Find the number that appears once, and other numbers twice. | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
+| 13 | Longest subarray with given sum K (positives) |🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)| |  
 | 14 | Longest subarray with sum K (Positives + Negatives) | 🟡| | |  
 
 ### **Lec 2: Medium**  
