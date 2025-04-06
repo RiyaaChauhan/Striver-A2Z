@@ -4,13 +4,6 @@
 - [2. Left Rotate an Array by One Place](#2-left-rotate-an-array-by-one-place)
 - [3. Left Rotate an Array by D Places](#3-left-rotate-an-array-by-d-places)
 - [4. Move Zeros to End](#4-move-zeros-to-end)
-- [5. Linear Search](#5-linear-search)
-- [6. Find the Union of Two Arrays](#6-find-the-union-of-two-arrays)
-- [7. Find Missing Number in an Array](#7-find-missing-number-in-an-array)
-- [8. Maximum Consecutive Ones](#8-maximum-consecutive-ones)
-- [9. Find the Number that Appears Once (Others Twice)](#9-find-the-number-that-appears-once-others-twice)
-- [10. Longest Subarray with Given Sum K (Only Positives)](#10-longest-subarray-with-given-sum-k-only-positives)
-- [11. Longest Subarray with Sum K (Positives + Negatives)](#11-longest-subarray-with-sum-k-positives--negatives)
 
 # 1. Remove Duplicates from Sorted Array
 
@@ -207,24 +200,3 @@ After 2 rotations, the last two elements move to the front.
 ------------------------------------------------------------------------------------------------------
 
 # 4. Move Zeros to End
-------------------------------------------------------------------------------------------------------
-
-# 5. Linear Search
-------------------------------------------------------------------------------------------------------
-
-# 6. Find the Union of Two Arrays
-------------------------------------------------------------------------------------------------------
-
-# 7. Find Missing Number in an Array
-------------------------------------------------------------------------------------------------------
-
-# 8. Maximum Consecutive Ones
-------------------------------------------------------------------------------------------------------
-
-# 9. Find the Number that Appears Once (Others Twice)
-------------------------------------------------------------------------------------------------------
-
-# 10. Longest Subarray with Given Sum K (Only Positives)
-------------------------------------------------------------------------------------------------------
-
-# 11. Longest Subarray with Sum K (Positives + Negatives)
