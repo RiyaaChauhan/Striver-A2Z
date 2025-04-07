@@ -1,102 +1,94 @@
 ### Day 1: Arrays and Hashing
-
-|   # | Problem                                       | Difficulty |
-|----:|------------------------------------------------|------------|
-|   1 | Next Permutation                              | Medium     |
-|   2 | 3-Sum Problem                                 | Medium     |
-|   3 | Kadane's Algorithm                            | Easy       |
-|   4 | Majority Element (n/3 times)                  | Medium     |
-|   5 | Count number of subarrays with given xor K    | Hard       |
-|   6 | Find the repeating and missing number         | Hard       |
-|   7 | Count Inversions                              | Hard       |
-|   8 | Maximum Product Subarray                      | Easy       |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Next Permutation                              | Medium     | | |
+|   2 | 3-Sum Problem                                 | Medium     | | |
+|   3 | Kadane's Algorithm                            | Easy       | | |
+|   4 | Majority Element (n/3 times)                  | Medium     | | |
+|   5 | Count number of subarrays with given xor K    | Hard       | | |
+|   6 | Find the repeating and missing number         | Hard       | | |
+|   7 | Count Inversions                              | Hard       | | |
+|   8 | Maximum Product Subarray                      | Easy       | | |
 
 ### Day 2: Binary Search
-
-|   # | Problem                                 | Difficulty |
-|----:|------------------------------------------|------------|
-|   1 | Search in Rotated Sorted Array II        | Medium     |
-|   2 | Find minimum in Rotated Sorted Array     | Medium     |
-|   3 | Find peak element                        | Hard       |
-|   4 | Koko Eating Bananas                      | Hard       |
-|   5 | Aggressive Cows                          | Hard       |
-|   6 | Book Allocation Problem                  | Hard       |
-|   7 | Median of 2 sorted arrays                | Hard       |
-|   8 | Minimize Max Distance to Gas Station     | Hard       |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Search in Rotated Sorted Array II        | Medium     | | |
+|   2 | Find minimum in Rotated Sorted Array     | Medium     | | |
+|   3 | Find peak element                        | Hard       | | |
+|   4 | Koko Eating Bananas                      | Hard       | | |
+|   5 | Aggressive Cows                          | Hard       | | |
+|   6 | Book Allocation Problem                  | Hard       | | |
+|   7 | Median of 2 sorted arrays                | Hard       | | |
+|   8 | Minimize Max Distance to Gas Station     | Hard       | | |
 
 ### Day 3: Linked List
-
-|   # | Problem                                   | Difficulty |
-|----:|--------------------------------------------|------------|
-|   1 | Middle of a LinkedList (Tortoise-Hare)     | Easy       |
-|   2 | Detect a loop in LL                        | Medium     |
-|   3 | Remove Nth node from the back of the LL    | Medium     |
-|   4 | Find the intersection point of Y LL        | Medium     |
-|   5 | Sort LL                                     | Medium     |
-|   6 | Segregate odd and even nodes in LL         | Medium     |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Middle of a LinkedList (Tortoise-Hare)     | Easy       | | |
+|   2 | Detect a loop in LL                        | Medium     | | |
+|   3 | Remove Nth node from the back of the LL    | Medium     | | |
+|   4 | Find the intersection point of Y LL        | Medium     | | |
+|   5 | Sort LL                                     | Medium     | | |
+|   6 | Segregate odd and even nodes in LL         | Medium     | | |
 
 ### Day 4: Recursion and Backtracking
-
-|   # | Problem                              | Difficulty |
-|----:|---------------------------------------|------------|
-|   1 | Print all subsequences / Power Set    | Medium     |
-|   2 | Combination Sum                       | Medium     |
-|   3 | N Queen                               | Hard       |
-|   4 | Sudoku Solver                         | Hard       |
-|   5 | M Coloring Problem                    | Hard       |
-|   6 | Word Search                           | Medium     |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Print all subsequences / Power Set    | Medium     | | |
+|   2 | Combination Sum                       | Medium     | | |
+|   3 | N Queen                               | Hard       | | |
+|   4 | Sudoku Solver                         | Hard       | | |
+|   5 | M Coloring Problem                    | Hard       | | |
+|   6 | Word Search                           | Medium     | | |
 
 ### Day 5: Stacks / Queues
-
-|   # | Problem                                | Difficulty |
-|----:|-----------------------------------------|------------|
-|   1 | Next Greater Element                   | Easy       |
-|   2 | Trapping Rainwater                     | Hard       |
-|   3 | Largest rectangle in a histogram       | Medium     |
-|   4 | Asteroid Collision                     | Medium     |
-|   5 | Sliding Window Maximum                 | Hard       |
-|   6 | LRU Cache (IMPORTANT)                  | Hard       |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Next Greater Element                   | Easy       | | |
+|   2 | Trapping Rainwater                     | Hard       | | |
+|   3 | Largest rectangle in a histogram       | Medium     | | |
+|   4 | Asteroid Collision                     | Medium     | | |
+|   5 | Sliding Window Maximum                 | Hard       | | |
+|   6 | LRU Cache (IMPORTANT)                  | Hard       | | |
 
 ### Day 6: Heaps
-
-|   # | Problem                                    | Difficulty |
-|----:|---------------------------------------------|------------|
-|   1 | Kth largest element in an array             | Easy       |
-|   2 | Task Scheduler                              | Medium     |
-|   3 | Min Heap and Max Heap Implementation        | Medium     |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Kth largest element in an array             | Easy       | | |
+|   2 | Task Scheduler                              | Medium     | | |
+|   3 | Min Heap and Max Heap Implementation        | Medium     | | |
 
 ### Day 7: Trees (BT + BST)
-
-|   # | Problem                                                  | Difficulty |
-|----:|-----------------------------------------------------------|------------|
-|   1 | Diameter of Binary Tree                                  | Medium     |
-|   2 | Maximum path sum                                         | Hard       |
-|   3 | Bottom View of Binary Tree                               | Medium     |
-|   4 | LCA in Binary Tree                                       | Medium     |
-|   5 | Minimum time taken to BURN the Binary Tree from a Node   | Hard       |
-|   6 | Construct Binary Tree from inorder and preorder          | Hard       |
-|   7 | Morris Preorder Traversal of a Binary Tree               | Medium     |
-|   8 | Delete a Node in Binary Search Tree                      | Medium     |
-|   9 | LCA in Binary Search Tree                                | Medium     |
-|  10 | Two Sum In BST | Check if there exists a pair with Sum K | Medium     |
-|  11 | Largest BST in Binary Tree                               | Hard       |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Diameter of Binary Tree                                  | Medium     | | |
+|   2 | Maximum path sum                                         | Hard       | | |
+|   3 | Bottom View of Binary Tree                               | Medium     | | |
+|   4 | LCA in Binary Tree                                       | Medium     | | |
+|   5 | Minimum time taken to BURN the Binary Tree from a Node   | Hard       | | |
+|   6 | Construct Binary Tree from inorder and preorder          | Hard       | | |
+|   7 | Morris Preorder Traversal of a Binary Tree               | Medium     | | |
+|   8 | Delete a Node in Binary Search Tree                      | Medium     | | |
+|   9 | LCA in Binary Search Tree                                | Medium     | | |
+|  10 | Two Sum In BST | Check if there exists a pair with Sum K | Medium     | | |
+|  11 | Largest BST in Binary Tree                               | Hard       | | |
 
 ### Day 8: Graphs
-
-|   # | Problem                             | Difficulty |
-|----:|--------------------------------------|------------|
-|   1 | Rotten Oranges                       | Medium     |
-|   2 | Word ladder - 1                      | Hard       |
-|   3 | Number of Distinct Islands           | Hard       |
-|   4 | Course Schedule - II                 | Hard       |
-|   5 | Alien dictionary                     | Hard       |
-|   6 | Dijkstra's Algorithm                 | Hard       |
-|   7 | Cheapest flights within k stops      | Hard       |
-|   8 | Bellman Ford Algorithm               | Hard       |
-|   9 | Floyd Warshall Algorithm             | Hard       |
-|  10 | Kruskal's Algorithm                  | Hard       |
-|  11 | Accounts merge                       | Hard       |
-|  12 | Bridges in Graph                     | Hard       |
+| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+|------|-----------------------------------------------------|------------|--------------|------------|
+|   1 | Rotten Oranges                       | Medium     | | |
+|   2 | Word ladder - 1                      | Hard       | | |
+|   3 | Number of Distinct Islands           | Hard       | | |
+|   4 | Course Schedule - II                 | Hard       | | |
+|   5 | Alien dictionary                     | Hard       | | |
+|   6 | Dijkstra's Algorithm                 | Hard       | | |
+|   7 | Cheapest flights within k stops      | Hard       | | |
+|   8 | Bellman Ford Algorithm               | Hard       | | |
+|   9 | Floyd Warshall Algorithm             | Hard       | | |
+|  10 | Kruskal's Algorithm                  | Hard       | | |
+|  11 | Accounts merge                       | Hard       | | |
+|  12 | Bridges in Graph                     | Hard       | | |
 
 ### Day 9: Dynamic Programming
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
