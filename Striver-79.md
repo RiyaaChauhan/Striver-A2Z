@@ -1,20 +1,20 @@
 ### Day 1: Arrays and Hashing
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Next Permutation                              | Medium     | | |
-|   2 | 3-Sum Problem                                 | Medium     | | |
-|   3 | Kadane's Algorithm                            | Easy       | | |
-|   4 | Majority Element (n/3 times)                  | Medium     | | |
+|   1 | Next Permutation                              |🟡| | |
+|   2 | 3-Sum Problem                                 |🟡| | |
+|   3 | Kadane's Algorithm                            |🟢| | |
+|   4 | Majority Element (n/3 times)                  |🟡| | |
 |   5 | Count number of subarrays with given xor K    | Hard       | | |
 |   6 | Find the repeating and missing number         | Hard       | | |
 |   7 | Count Inversions                              | Hard       | | |
-|   8 | Maximum Product Subarray                      | Easy       | | |
+|   8 | Maximum Product Subarray                      |🟢| | |
 
 ### Day 2: Binary Search
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Search in Rotated Sorted Array II        | Medium     | | |
-|   2 | Find minimum in Rotated Sorted Array     | Medium     | | |
+|   1 | Search in Rotated Sorted Array II        |🟡| | |
+|   2 | Find minimum in Rotated Sorted Array     |🟡| | |
 |   3 | Find peak element                        | Hard       | | |
 |   4 | Koko Eating Bananas                      | Hard       | | |
 |   5 | Aggressive Cows                          | Hard       | | |
@@ -25,12 +25,12 @@
 ### Day 3: Linked List
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Middle of a LinkedList (Tortoise-Hare)     | Easy       | | |
-|   2 | Detect a loop in LL                        | Medium     | | |
-|   3 | Remove Nth node from the back of the LL    | Medium     | | |
-|   4 | Find the intersection point of Y LL        | Medium     | | |
-|   5 | Sort LL                                     | Medium     | | |
-|   6 | Segregate odd and even nodes in LL         | Medium     | | |
+|   1 | Middle of a LinkedList (Tortoise-Hare)     |🟢| | |
+|   2 | Detect a loop in LL                        |🟡| | |
+|   3 | Remove Nth node from the back of the LL    |🟡| | |
+|   4 | Find the intersection point of Y LL        |🟡| | |
+|   5 | Sort LL                                     |🟡| | |
+|   6 | Segregate odd and even nodes in LL         |🟡| | |
 
 ### Day 4: Recursion and Backtracking
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
@@ -45,7 +45,7 @@
 ### Day 5: Stacks / Queues
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Next Greater Element                   | Easy       | | |
+|   1 | Next Greater Element                   |🟢| | |
 |   2 | Trapping Rainwater                     | Hard       | | |
 |   3 | Largest rectangle in a histogram       | Medium     | | |
 |   4 | Asteroid Collision                     | Medium     | | |
@@ -55,7 +55,7 @@
 ### Day 6: Heaps
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Kth largest element in an array             | Easy       | | |
+|   1 | Kth largest element in an array             |🟢| | |
 |   2 | Task Scheduler                              | Medium     | | |
 |   3 | Min Heap and Max Heap Implementation        | Medium     | | |
 
