@@ -1,6 +1,6 @@
 # Day 1: Arrays
 
-| # | Problem Name | Platform | Difficulty | Code File | Status |
+| # | Problem Name | Platform | **🟢🟡🔴**| Code File | Status |
 |--|-----------------------------|----------|------------|-----------|--------|
 | 1 | Set Matrix Zeros           | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡| - | 🔲 |
 | 2 | Pascal's Triangle          | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>](https://leetcode.com/problems/pascals-triangle/) | 🟡  | - | 🔲 |
@@ -10,7 +10,7 @@
 | 6 | Stock Buy and Sell         | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢  | - | 🔲 |
 
 # Day 2: Arrays Part-II
-| # | Problem Name | Platform | Difficulty | Code File | Status |
+| # | Problem Name | Platform | **🟢🟡🔴**| Code File | Status |
 |--|---------------------------------------------|----------|------------|-----------|--------|
 | 1 | Rotate Matrix                              | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>](https://leetcode.com/problems/rotate-image/) | 🟡  | - | 🔲 |
 | 2 | Merge Overlapping Subintervals             | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>](https://leetcode.com/problems/merge-intervals/) | 🟡  | - | 🔲 |
