@@ -23,32 +23,32 @@
 |   8 | Minimize Max Distance to Gas Station     | Hard       | | |
 
 ### Day 3: Linked List
-| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+| **#** | **Problem Name**                         | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
 |   1 | Middle of a LinkedList (Tortoise-Hare)     |🟢| | |
 |   2 | Detect a loop in LL                        |🟡| | |
 |   3 | Remove Nth node from the back of the LL    |🟡| | |
 |   4 | Find the intersection point of Y LL        |🟡| | |
-|   5 | Sort LL                                     |🟡| | |
+|   5 | Sort LL                                    |🟡| | |
 |   6 | Segregate odd and even nodes in LL         |🟡| | |
 
 ### Day 4: Recursion and Backtracking
-| **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
+| **#** | **Problem Name**                    | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Print all subsequences / Power Set    | Medium     | | |
-|   2 | Combination Sum                       | Medium     | | |
+|   1 | Print all subsequences / Power Set    |🟡| | |
+|   2 | Combination Sum                       |🟡| | |
 |   3 | N Queen                               | Hard       | | |
 |   4 | Sudoku Solver                         | Hard       | | |
 |   5 | M Coloring Problem                    | Hard       | | |
-|   6 | Word Search                           | Medium     | | |
+|   6 | Word Search                           |🟡| | |
 
 ### Day 5: Stacks / Queues
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
 |   1 | Next Greater Element                   |🟢| | |
 |   2 | Trapping Rainwater                     | Hard       | | |
-|   3 | Largest rectangle in a histogram       | Medium     | | |
-|   4 | Asteroid Collision                     | Medium     | | |
+|   3 | Largest rectangle in a histogram       |🟡| | |
+|   4 | Asteroid Collision                     |🟡| | |
 |   5 | Sliding Window Maximum                 | Hard       | | |
 |   6 | LRU Cache (IMPORTANT)                  | Hard       | | |
 
@@ -56,28 +56,28 @@
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
 |   1 | Kth largest element in an array             |🟢| | |
-|   2 | Task Scheduler                              | Medium     | | |
-|   3 | Min Heap and Max Heap Implementation        | Medium     | | |
+|   2 | Task Scheduler                              |🟡| | |
+|   3 | Min Heap and Max Heap Implementation        |🟡| | |
 
 ### Day 7: Trees (BT + BST)
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Diameter of Binary Tree                                  | Medium     | | |
+|   1 | Diameter of Binary Tree                                  |🟡| | |
 |   2 | Maximum path sum                                         | Hard       | | |
-|   3 | Bottom View of Binary Tree                               | Medium     | | |
-|   4 | LCA in Binary Tree                                       | Medium     | | |
+|   3 | Bottom View of Binary Tree                               |🟡| | |
+|   4 | LCA in Binary Tree                                       |🟡| | |
 |   5 | Minimum time taken to BURN the Binary Tree from a Node   | Hard       | | |
 |   6 | Construct Binary Tree from inorder and preorder          | Hard       | | |
-|   7 | Morris Preorder Traversal of a Binary Tree               | Medium     | | |
-|   8 | Delete a Node in Binary Search Tree                      | Medium     | | |
-|   9 | LCA in Binary Search Tree                                | Medium     | | |
-|  10 | Two Sum In BST | Check if there exists a pair with Sum K | Medium     | | |
+|   7 | Morris Preorder Traversal of a Binary Tree               |🟡| | |
+|   8 | Delete a Node in Binary Search Tree                      |🟡| | |
+|   9 | LCA in Binary Search Tree                                |🟡| | |
+|  10 | Two Sum In BST | Check if there exists a pair with Sum K |🟡| | |
 |  11 | Largest BST in Binary Tree                               | Hard       | | |
 
 ### Day 8: Graphs
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** | **Status** |
 |------|-----------------------------------------------------|------------|--------------|------------|
-|   1 | Rotten Oranges                       | Medium     | | |
+|   1 | Rotten Oranges                       |🟡| | |
 |   2 | Word ladder - 1                      | Hard       | | |
 |   3 | Number of Distinct Islands           | Hard       | | |
 |   4 | Course Schedule - II                 | Hard       | | |
