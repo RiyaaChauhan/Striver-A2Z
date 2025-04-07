@@ -18,3 +18,13 @@
 | 4 | Find the duplicate in an array of N+1 ints | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡  | - | 🔲 |
 | 5 | Repeat and Missing Number                  | [<img src="https://img.shields.io/badge/InterviewBit-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white" alt="InterviewBit" height="20"/>](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | 🔴  | - | 🔲 |
 | 6 | Inversion of Array (Pre-req: Merge Sort)   | [<img src="https://img.shields.io/badge/GFG-354435?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" height="20"/>](https://www.geeksforgeeks.org/counting-inversions/) | 🔴  | - | 🔲 |
+
+# Day 3: Arrays Part-III
+| # | Problem Name | Platform | Code | Status | Difficulty | Article | YouTube | Practice | Note | Revision |
+|---|---------------|----------|------|--------|------------|---------|---------|----------|------|----------|
+| 1 | Search in a 2D Matrix | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |  | ❌ | 🟡 Medium |  |  |  |  |  |
+| 2 | Pow(x, n) | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |  | ❌ | 🟡 Medium |  |  |  |  |  |
+| 3 | Majority Element (>n/2 times) | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |  | ❌ | 🟢 Easy |  |  |  |  |  |
+| 4 | Majority Element (n/3 times) | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |  | ❌ | 🟡 Medium |  |  |  |  |  |
+| 5 | Grid Unique Paths | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |  | ❌ | 🟡 Medium |  |  |  |  |  |
+| 6 | Reverse Pairs (Leetcode) | ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) |  | ❌ | 🔴 Hard |  |  |  |  |  |
