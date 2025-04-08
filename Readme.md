@@ -32,7 +32,7 @@
 | 9 | Find the Union | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_13)| |  
 | 10 | Find missing number in an array | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
 | 11 | Maximum Consecutive Ones | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
-| 12 | Find the number that appears once, and other numbers twice. | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
+| 12 | Find the number that appears once, and other numbers twice | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
 | 13 | Longest subarray with given sum K (positives) |🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
 | 14 | Longest subarray with sum K (Positives + Negatives) | 🟡| | |  
 
