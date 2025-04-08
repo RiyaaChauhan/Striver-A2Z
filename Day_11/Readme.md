@@ -280,3 +280,4 @@ def move_zeroes(nums):
 **Time Complexity**: O(n)  
 **Space Complexity**: O(1)  
 **Advantage**: This method performs minimal swaps and is efficient in terms of both time and space.
+![Demo](src/image.png)
