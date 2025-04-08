@@ -28,3 +28,23 @@
 | 4 | Majority Element (n/3 times) |[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]()|  | ❌ | 🟡 Medium |  |  |  |  |  |
 | 5 | Grid Unique Paths |[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]()|  | ❌ | 🟡 Medium |  |  |  |  |  |
 | 6 | Reverse Pairs (Leetcode) |[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]()|  | ❌ | 🔴 Hard |  |  |  |  |  |
+
+###  **Day 4: Arrays Part-IV**  
+| # | Problem Name | Platform | **🟢🟡🔴** | Code File | Status |
+|--|---------------------------------------------|----------|------------|-----------|--------|
+| 1 | 2Sum Problem | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 2 | 4-Sum Problem | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
+| 3 | Longest Consecutive Sequence | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 4 | Largest Subarray with K sum | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 5 | Count number of subarrays with given xor K | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
+| 6 | Longest Substring without repeat | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+
+###  **Day 5: Linked List**  
+| # | Problem Name | Platform | **🟢🟡🔴** | Code File | Status |
+|--|---------------------------------------------------------------|----------|------------|-----------|--------|
+| 1 | Reverse a LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ✅ | 🟢 Easy | |
+| 2 | Find the middle of LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ✅ | 🟢 Easy | |
+| 3 | Merge two sorted Linked List (use method used in mergeSort) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 4 | Remove N-th node from back of LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ✅ | 🟡 Medium | |
+| 5 | Add two numbers as LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 6 | Delete a given Node when a node is given. (O(1) solution) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
