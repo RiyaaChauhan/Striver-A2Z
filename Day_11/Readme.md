@@ -200,3 +200,83 @@ After 2 rotations, the last two elements move to the front.
 ------------------------------------------------------------------------------------------------------
 
 # 4. Move Zeros to End
+## Problem Statement
+
+Given an array `nums`, move all the zeroes to the end of the array while maintaining the relative order of the non-zero elements.
+
+You must perform this operation **in-place** without making a copy of the array.
+
+---
+
+## Examples
+
+**Example 1**
+```
+Input: nums = [0, 1, 0, 3, 12]
+Output: [1, 3, 12, 0, 0]
+```
+
+**Example 2**
+```
+Input: nums = [0, 0, 1]
+Output: [1, 0, 0]
+```
+
+## Approach
+
+We aim to shift all non-zero elements to the front of the array while keeping their relative order intact and move all the zeroes to the end.
+
+### 1. Brute Force Approach
+
+**Idea**:  
+Create a temporary array and copy all non-zero elements to it. Then, append zeroes at the end until the array size is reached. Finally, copy back the result to the original array.
+
+```python
+def move_zeroes(nums):
+    temp = []
+    for num in nums:
+        if num != 0:
+            temp.append(num)
+    nums[:len(temp)] = temp
+    nums[len(temp):] = [0] * (len(nums) - len(temp))
+```
+
+**Time Complexity**: O(n)  
+**Space Complexity**: O(n) — Extra space used for the temporary array.
+
+### 2. Better Approach
+
+**Idea**:  
+Count the number of non-zero elements, and for each, place it in the front. Then fill the remaining array with zeros.
+
+```python
+def move_zeroes(nums):
+    j = 0
+    for i in range(len(nums)):
+        if nums[i] != 0:
+            nums[j] = nums[i]
+            j += 1
+    for i in range(j, len(nums)):
+        nums[i] = 0
+```
+
+**Time Complexity**: O(n)  
+**Space Complexity**: O(1) — No extra space used.
+
+### 3. Optimal Approach
+
+**Idea**:  
+Use two pointers. One pointer (`j`) keeps track of the next position to swap a non-zero number. Whenever a non-zero element is found, it is swapped with the element at index `j`.
+
+```python
+def move_zeroes(nums):
+    j = 0
+    for i in range(len(nums)):
+        if nums[i] != 0:
+            nums[i], nums[j] = nums[j], nums[i]
+            j += 1
+```
+
+**Time Complexity**: O(n)  
+**Space Complexity**: O(1)  
+**Advantage**: This method performs minimal swaps and is efficient in terms of both time and space.
