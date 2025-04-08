@@ -59,3 +59,12 @@
 | 5 | Find the starting point of the Loop of LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
 | 6 | Flattening of a LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
 
+### **Day 7: Linked List and Arrays**  
+| # | Problem Name | Platform | **🟢🟡🔴** | Code File | Status |
+|--|------------------------------------------------------------|----------|------------|-----------|--------|
+| 1 | Rotate a LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 2 | Clone a Linked List with random and next pointer | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
+| 3 | 3 sum | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 4 | Trapping Rainwater | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
+| 5 | Remove Duplicate from Sorted array | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟢 Easy | |
+| 6 | Max consecutive ones | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟢 Easy | |
