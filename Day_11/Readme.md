@@ -268,6 +268,8 @@ def move_zeroes(nums):
 **Idea**:  
 Use two pointers. One pointer (`j`) keeps track of the next position to swap a non-zero number. Whenever a non-zero element is found, it is swapped with the element at index `j`.
 
+<img src="https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/src/image.png" alt="Project Banner" width="400"/>
+
 ```python
 def move_zeroes(nums):
     j = 0
@@ -280,5 +282,3 @@ def move_zeroes(nums):
 **Time Complexity**: O(n)  
 **Space Complexity**: O(1)  
 **Advantage**: This method performs minimal swaps and is efficient in terms of both time and space.
-
-<img src="https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/src/image.png" alt="Project Banner" width="400"/>
