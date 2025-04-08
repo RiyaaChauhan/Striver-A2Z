@@ -1,14 +1,12 @@
 class Solution:
     def moveZeroes(self, nums):
-        non_zero_index = 0
         n=len(nums)
-        for i in range(n):
-            if nums[i] != 0:
-                nums[non_zero_index] = nums[i]
-                non_zero_index += 1
-        for i in range(non_zero_index, len(nums)):
-            nums[i] = 0
-        return nums
+        left=0
+        for right in range(n):
+            if nums[right]!=0:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
+        
     
 
                      # OR
