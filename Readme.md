@@ -27,7 +27,7 @@
 | 4 |[Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 5 |[Left Rotate an array by one place](https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 6 |[Left rotate an array by D places](https://leetcode.com/problems/rotate-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
-| 7 | Move Zeros to end | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
+| 7 |[Move Zeros to end](https://leetcode.com/problems/move-zeroes/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 8 | Linear Search | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_12)| |  
 | 9 | Find the Union | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_13)| |  
 | 10 | Find missing number in an array | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
