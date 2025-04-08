@@ -28,7 +28,7 @@
 | 5 |[Left Rotate an array by one place](https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 6 |[Left rotate an array by D places](https://leetcode.com/problems/rotate-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 7 |[Move Zeros to end](https://leetcode.com/problems/move-zeroes/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
-| 8 | [inear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_12)|✅|  
+| 8 | [inear Search](https://www.naukri.com/code360/problems/linear-search_624470?leftPanelTabValue=SUBMISSION)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_12)|✅|  
 | 9 | Find the Union | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_13)| |  
 | 10 | Find missing number in an array | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
 | 11 | Maximum Consecutive Ones | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
