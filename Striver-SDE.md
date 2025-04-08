@@ -48,3 +48,14 @@
 | 4 | Remove N-th node from back of LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ✅ | 🟡 Medium | |
 | 5 | Add two numbers as LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
 | 6 | Delete a given Node when a node is given. (O(1) solution) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+
+### **Day 6: Linked List Part-II**  
+| # | Problem Name | Platform | **🟢🟡🔴** | Code File | Status |
+|--|-----------------------------------------------------------|----------|------------|-----------|--------|
+| 1 | Find intersection point of Y LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 2 | Detect a cycle in Linked List | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 3 | Reverse a LinkedList in groups of size k | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
+| 4 | Check if a LinkedList is palindrome or not | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 5 | Find the starting point of the Loop of LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🟡 Medium | |
+| 6 | Flattening of a LinkedList | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20"/>]() | ❌ | 🔴 Hard | |
+
