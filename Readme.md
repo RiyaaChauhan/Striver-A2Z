@@ -29,7 +29,7 @@
 | 6 |[Left rotate an array by D places](https://leetcode.com/problems/rotate-array/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 7 |[Move Zeros to end](https://leetcode.com/problems/move-zeroes/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 8 | [inear Search](https://www.naukri.com/code360/problems/linear-search_624470?leftPanelTabValue=SUBMISSION)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_12)|✅|  
-| 9 | Find the Union | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_13)| |  
+| 9 |[Find the Union](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_13)|✅|  
 | 10 | Find missing number in an array | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
 | 11 | Maximum Consecutive Ones | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
 | 12 | Find the number that appears once, and other numbers twice | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
