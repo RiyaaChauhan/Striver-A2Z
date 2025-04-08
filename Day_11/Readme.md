@@ -280,4 +280,5 @@ def move_zeroes(nums):
 **Time Complexity**: O(n)  
 **Space Complexity**: O(1)  
 **Advantage**: This method performs minimal swaps and is efficient in terms of both time and space.
-![Demo](src\image.png)
+
+<img src="https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/src/image.png" alt="Project Banner" width="400"/>
