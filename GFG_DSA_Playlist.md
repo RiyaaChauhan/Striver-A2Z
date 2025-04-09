@@ -225,3 +225,45 @@
 | 6  | Rearrange characters         | 🟡         |[code.py]()|-|
 | 7  | Find median in a stream      | 🔴         |[code.py]()|-|
 | 8  | Nearly sorted                | 🟡         |[code.py]()|-|
+
+# Graph
+| #  | Problem Name                                 | Difficulty | Code File                          | Status       |
+|----|----------------------------------------------|------------|-------------------------------------|--------------|
+| 1  | DFS of Graph                                 | 🟢         |[code.py]()|-|
+| 2  | BFS of graph                                 | 🟢         |[code.py]()|-|
+| 3  | Rotten Oranges                               | 🟡         |[code.py]()|-|
+| 4  | Directed Graph Cycle                         | 🟡         |[code.py]()|-|
+| 5  | Undirected Graph Cycle                       | 🟡         |[code.py]()|-|
+| 6  | Minimum Swaps to Sort                        | 🟡         |[code.py]()|-|
+| 7  | Mother Vertex                                | 🟡         |[code.py]()|-|
+| 8  | Find whether path exist                      | 🟡         |[code.py]()|-|
+| 9  | Level of Nodes                               | 🟡         |[code.py]()|-|
+| 10 | Possible paths between 2 vertices            | 🟡         |[code.py]()|-|
+| 11 | Distance of nearest cell having 1            | 🟡         |[code.py]()|-|
+| 12 | Find the number of islands                   | 🟡         |[code.py]()|-|
+| 13 | Steps by Knight                              | 🟡         |[code.py]()|-|
+| 14 | Unit Area of largest region of 1's           | 🟡         |[code.py]()|-|
+| 15 | Word Ladder I                                | 🔴         |[code.py]()|-|
+| 16 | Topological sort                             | 🟡         |[code.py]()|-|
+| 17 | Word Boggle                                  | 🟡         |[code.py]()|-|
+| 18 | Prerequisite Tasks                           | 🟡         |[code.py]()|-|
+| 19 | Minimum Spanning Tree                        | 🟡         |[code.py]()|-|
+| 20 | Dijkstra Algorithm                           | 🟡         |[code.py]()|-|
+| 21 | Minimum Cost Path                            | 🔴         |[code.py]()|-|
+| 22 | Strongly Connected                           | 🟡         |[code.py]()|-|
+| 23 | Bridge edge in a graph                       | 🟡         |[code.py]()|-|
+| 24 | Strongly connected component (Tarjan's Algo) | 🔴         |[code.py]()|-|
+| 25 | Alien Dictionary                             | 🔴         |[code.py]()|-|
+| 26 | Word Search                                  | 🟡         |[code.py]()|-|
+
+# Backtracking
+| #  | Problem Name                        | Difficulty | Code File                  | Status       |
+|----|-------------------------------------|------------|-----------------------------|--------------|
+| 1  | Rat in a Maze Problem - I          | 🟡         |[code.py]()|-|
+| 2  | Unique Subsets                     | 🟡         |[code.py]()|-|
+| 3  | Solve the Sudoku                   | 🔴         |[code.py]()|-|
+| 4  | M-Coloring Problem                 | 🟡         |[code.py]()|-|
+| 5  | Largest number in K swaps          | 🟡         |[code.py]()|-|
+| 6  | Possible Words From Phone Digits   | 🟡         |[code.py]()|-|
+| 7  | Partition array to k subsets       | 🔴         |[code.py]()|-|
+| 8  | Generate Parentheses               | 🟡         |[code.py]()|-|
