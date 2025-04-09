@@ -10,10 +10,10 @@ The problem sheets I’m actively working on:
 ---
 ## 📚 Table of Contents
 
-1. [Step 1: Learn the Basics](#step-1-learn-the-basics)
-2. [Step 2: Learn Important Sorting Techniques](#step-2-learn-important-sorting-techniques)
-3. [Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]](#step-3-solve-problems-on-arrays-easy---medium---hard)
-4. [Step 4: Binary Search [1D, 2D Arrays, Search Space]](#step-4-binary-search-1d-2d-arrays-search-space)
+1. [Learn the Basics](#step-1-learn-the-basics)
+2. [Sorting](#step-2-learn-important-sorting-techniques)
+3. [Arrays](#step-3-solve-problems-on-arrays-easy---medium---hard)
+4. [Binary Search](#step-4-binary-search-1d-2d-arrays-search-space)
 5. [Step 5: Strings [Basic and Medium]](#step-5-strings-basic-and-medium)
 6. [Step 6: Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]](#step-6-learn-linkedlist-single-ll-double-ll-medium-hard-problems)
 7. [Step 7: Recursion [PatternWise]](#step-7-recursion-patternwise)
