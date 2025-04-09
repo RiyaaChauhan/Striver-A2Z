@@ -39,12 +39,17 @@ The problem sheets I’m actively working on:
 ### Lec 3: Learn STL/Java-Collections or similar thing in your language
 
 ### Lec 4: Know Basic Maths
+| **#** | **Problem Name**         | **🟢🟡🔴** | **Code File**  | **Status** |
+|------:|--------------------------|-------------|----------------|------------|
+| 1     | Count Digits             | 🟢          | [code.py]()    |            |
+| 2     | Reverse a Number         | 🟢          | [code.py]()    |            |
+| 3     | Check Palindrome         | 🟢          | [code.py]()    |            |
+| 4     | GCD Or HCF               | 🟢          | [code.py]()    |            |
+| 5     | Armstrong Numbers        | 🟢          | [code.py]()    |            |
+| 6     | Print all Divisors       | 🟢          | [code.py]()    |            |
+| 7     | Check for Prime          | 🟢          | [code.py]()    |            |
 
 ### Lec 5: Learn Basic Recursion
-### Lec 5: Learn Basic Recursion
-### Lec 5: Learn Basic Recursion
-### Lec 5: Learn Basic Recursion
-
 | **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**  | **Status** |
 |------:|--------------------------------------------------|-------------|----------------|------------|
 | 1     | Understand recursion by print something N times | 🟢          | [code.py]()    |            |
