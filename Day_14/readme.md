@@ -37,7 +37,7 @@ def missingNumber(nums):
 → Sorting modifies the input array (not ideal).  
 → Sorting takes extra time: O(n log n), which can be avoided.
 
-####  Better (Using Set)
+####  Better (hash Set)
 ```python
 def missingNumber(nums):
     num_set = set(nums)
