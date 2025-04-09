@@ -237,6 +237,19 @@ The problem sheets I’m actively working on:
 | 11    | Combination Sum - III                       |🔴|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-iii/)     |        |
 | 12    | Letter Combinations of a Phone number       |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | |
 
+### Lec 3: Trying out all Combos / Hard
+| **#** | **Problem Name**                | **🟢🟡🔴** | **Code File**       | **Platform**                                                                 | **Status** |
+|------:|----------------------------------|:---------:|---------------------|------------------------------------------------------------------------------|------------|
+| 13    | Palindrome Partitioning         | 🟡        | [code.py]()         | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/)         |            |
+| 14    | Word Search                     | 🟡        | [code.py]()         | [LeetCode](https://leetcode.com/problems/word-search/)                      |            |
+| 15    | N Queen                         | 🔴        | [code.py]()         | [GFG](https://www.geeksforgeeks.org/n-queen-problem/)                       |            |
+| 16    | Rat in a Maze                   | 🔴        | [code.py]()         | [GFG](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)         |            |
+| 17    | Word Break                      | 🟡        | [code.py]()         | [LeetCode](https://leetcode.com/problems/word-break/)                       |            |
+| 18    | M Coloring Problem              | 🔴        | [code.py]()         | [GFG](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/)    |            |
+| 19    | Sudoku Solver                   | 🔴        | [code.py]()         | [LeetCode](https://leetcode.com/problems/sudoku-solver/)                    |            |
+| 20    | Expression Add Operators        | 🔴        | [code.py]()         | [LeetCode](https://leetcode.com/problems/expression-add-operators/)        |            |
+
+
 
 ## Step 8 : Bit Manipulation [Concepts & Problems]
 ### **Lec 1: Learn Bit Manipulation**
