@@ -1,4 +1,14 @@
 # [Striver's A2Z DSA Course Sheet 🚀](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+
+## 📘 My DSA Progress Sheets
+he problem sheets I’m actively working on:
+- 🔗 [GFG DSA Playlist](./GFG_DSA_Playlist.md)
+- 🔗 [Striver A2Z Sheet](./readme.md)
+- 🔗 [Striver 79 Sheet](./Striver-79.md)
+- 🔗 [Striver SDE Sheet](./Striver-SDE.md)
+
+---
+
 # Problems Table
 
 ## Step 2 : Learn Important Sorting Techniques
