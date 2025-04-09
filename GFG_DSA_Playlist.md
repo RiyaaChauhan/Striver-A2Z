@@ -267,3 +267,28 @@
 | 6  | Possible Words From Phone Digits   | 🟡         |[code.py]()|-|
 | 7  | Partition array to k subsets       | 🔴         |[code.py]()|-|
 | 8  | Generate Parentheses               | 🟡         |[code.py]()|-|
+
+# DP
+| #  | Problem Name                                 | Difficulty | Code File                        | Status       |
+|----|----------------------------------------------|------------|-----------------------------------|--------------|
+| 1  | Distinct occurrences                         | 🔴         |[code.py]()|-|
+| 2  | Count number of hops                         | 🟢         |[code.py]()|-|
+| 3  | 0 - 1 Knapsack Problem                       | 🟡         |[code.py]()|-|
+| 4  | Coin Change - Minimum number of coins        | 🟡         |[code.py]()|-|
+| 5  | Maximize The Cut Segments                    | 🟡         |[code.py]()|-|
+| 6  | Wildcard Pattern Matching                    | 🟡         |[code.py]()|-|
+| 7  | Sum Except First and Last                    | 🔵         |[code.py]()|-|
+| 8  | Box Stacking                                 | 🔴         |[code.py]()|-|
+| 9  | Ways to Reach the n'th Stair                 | 🟡         |[code.py]()|-|
+| 10 | Count ways to N'th Stair                     | 🟢         |[code.py]()|-|
+| 11 | Egg Dropping Puzzle                          | 🟡         |[code.py]()|-|
+| 12 | Optimal Strategy For A Game                  | 🟡         |[code.py]()|-|
+| 13 | nCr                                          | 🟡         |[code.py]()|-|
+| 14 | Minimum number of jumps                      | 🟡         |[code.py]()|-|
+| 15 | Longest Increasing Subsequence               | 🟡         |[code.py]()|-|
+| 16 | Longest Common Subsequence                   | 🟡         |[code.py]()|-|
+| 17 | Equal Sum Partition                          | 🟡         |[code.py]()|-|
+| 18 | Count subsequences of type a^i, b^j, c^k     | 🟡         |[code.py]()|-|
+| 19 | Maximum Subarray Sum                         | 🟡         |[code.py]()|-|
+| 20 | Stock buy and sell                           | 🟡         |[code.py]()|-|
+| 21 | Word Break                                   | 🟡         |[code.py]()|-|
