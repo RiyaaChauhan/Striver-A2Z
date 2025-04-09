@@ -1,9 +1,9 @@
 ## 📑 Table of Contents
 
-- [1. Missing Number](#1.-Missing-Number)
-- [2. Maximun consecutive ones](#2.-Maximun-consecutive-ones)
+- [1. Missing Number](#1.-missing-number)
+- [2. Maximun consecutive ones](#2.-maximun-consecutive-ones)
 
-# 1. Missing Number
+## 1. Missing Number
 
 > Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, return the only number in the range that is missing from the array.
 ### Examples
@@ -72,4 +72,4 @@ assert missingNumber([9,6,4,2,3,5,7,0,1]) == 8
 assert missingNumber([0]) == 1
 ```
 ---------------------------------------------------------------------
-# 2. Maximun consecutive ones
+## 2. Maximun consecutive ones
