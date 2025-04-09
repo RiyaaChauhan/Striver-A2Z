@@ -1,7 +1,6 @@
 # GfG-DSA-Playlist
-
-# Array Problems
 ## Problems Table
+# Array Problems
 
 | #  | Problem Name                                | Difficulty | Code File  | Status |
 |----|---------------------------------------------|------------|------------|--------|
