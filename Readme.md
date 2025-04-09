@@ -319,7 +319,13 @@ The problem sheets I’m actively working on:
 | 11    | Maximal Rectangles                   | 🔴         | [code.py]()        |            |
 
 ### Lec 4: Implementation Problems
-
+| **#** | **Problem Name**              | **🟢🟡🔴** | **Code File**     | **Status** |
+|------:|-------------------------------|------------|--------------------|------------|
+| 1     | Sliding Window Maximum        | 🔴         | [code.py]()        |            |
+| 2     | Stock Span Problem            | 🟡         | [code.py]()        |            |
+| 3     | The Celebrity Problem         | 🔴         | [code.py]()        |            |
+| 4     | LRU Cache (IMPORTANT)         | 🔴         | [code.py]()        |            |
+| 5     | LFU Cache                     | 🔴         | [code.py]()        |            |
 
 ## Step 10 : Sliding Window & Two Pointer Combined Problems
 ### Lec 1: Medium Problems
@@ -341,3 +347,10 @@ The problem sheets I’m actively working on:
 | 2   | Subarray with K Different Integers                | 🔴         | [Link]()     |            |
 | 3  | Minimum Window Substring                          | 🔴         | [Link]()     |            |
 | 4   | Minimum Window Subsequence                        | 🔴         | [Link]()     |            |
+
+## Step 11 : Heaps [Learning, Medium, Hard Problems]
+### Lec 1: Learning
+
+### Lec 2: Medium Problems
+
+### Lec 3: Hard Problems
