@@ -41,33 +41,33 @@ The problem sheets I’m actively working on:
 ### Lec 4: Know Basic Maths
 | **#** | **Problem Name**         | **🟢🟡🔴** | **Code File**  | **Status** |
 |------:|--------------------------|-------------|----------------|------------|
-| 1     | Count Digits             | 🟢          | [code.py]()    |            |
-| 2     | Reverse a Number         | 🟢          | [code.py]()    |            |
-| 3     | Check Palindrome         | 🟢          | [code.py]()    |            |
-| 4     | GCD Or HCF               | 🟢          | [code.py]()    |            |
-| 5     | Armstrong Numbers        | 🟢          | [code.py]()    |            |
-| 6     | Print all Divisors       | 🟢          | [code.py]()    |            |
-| 7     | Check for Prime          | 🟢          | [code.py]()    |            |
+|1|Count Digits      |🟢| [code.py]()|-|
+|2|Reverse a Number  |🟢| [code.py]()|-|
+|3|Check Palindrome  |🟢| [code.py]()|-|
+|4|GCD Or HCF        |🟢| [code.py]()|-|
+|5|Armstrong Numbers |🟢| [code.py]()|-|
+|6|Print all Divisors|🟢| [code.py]()|-|
+|7|Check for Prime   |🟢| [code.py]()|-|
 
 ### Lec 5: Learn Basic Recursion
 | **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**  | **Status** |
 |------:|--------------------------------------------------|-------------|----------------|------------|
-| 1     | Understand recursion by print something N times | 🟢          | [code.py]()    |            |
-| 2     | Print name N times using recursion              | 🟢          | [code.py]()    |            |
-| 3     | Print 1 to N using recursion                    | 🟢          | [code.py]()    |            |
-| 4     | Print N to 1 using recursion                    | 🟢          | [code.py]()    |            |
-| 5     | Sum of first N numbers                          | 🟢          | [code.py]()    |            |
-| 6     | Factorial of N numbers                          | 🟢          | [code.py]()    |            |
-| 7     | Reverse an array                                | 🟢          | [code.py]()    |            |
-| 8     | Check if a string is palindrome or not          | 🟡          | [code.py]()    |            |
-| 9     | Fibonacci Number                                | 🟢          | [code.py]()    |            |
+| 1     | Understand recursion by print something N times|🟢|[code.py]()|-|
+| 2     | Print name N times using recursion             |🟢|[code.py]()|-|
+| 3     | Print 1 to N using recursion                   |🟢|[code.py]()|-|
+| 4     | Print N to 1 using recursion                   |🟢|[code.py]()|-|
+| 5     | Sum of first N numbers                         |🟢|[code.py]()|-|
+| 6     | Factorial of N numbers                         |🟢|[code.py]()|-|
+| 7     | Reverse an array                               |🟢|[code.py]()|-|
+| 8     | Check if a string is palindrome or not         |🟡|[code.py]()|-|
+| 9     | Fibonacci Number                               |🟢|[code.py]()|-|
 
 ### Lec 6: Learn Basic Hashing
 | **#** | **Problem Name**                               | **🟢🟡🔴** | **Code File**   | **Status** |
 |------:|------------------------------------------------|-------------|----------------|--------------|
-| 1    | Hashing Theory                                  | 🟡          | [code.py]()    | –            |           
-| 2    | Counting frequencies of array elements          | 🟢          | [code.py]()    | –            |            
-| 3    | Find the highest/lowest frequency element       | 🟢          | [code.py]()    | –            |            
+| 1    | Hashing Theory                           |🟡|[code.py]()|–|           
+| 2    | Counting frequencies of array elements   |🟢|[code.py]()|–|            
+| 3    | Find the highest/lowest frequency element|🟢|[code.py]()|–|            
 
 ## Step 2 : Learn Important Sorting Techniques
 ### **Lec 1: Sorting-I**
