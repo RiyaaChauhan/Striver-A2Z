@@ -201,3 +201,27 @@
 | 13 | Special Stack                        | 🟢         |[code.py]()|-|
 | 14 | Sort a stack                         | 🟡         |[code.py]()|-|
 
+# Queue
+| #  | Problem Name                  | Difficulty | Code File                  | Status       |
+|----|-------------------------------|------------|-----------------------------|--------------|
+| 1  | Queue Using Array             | 🟢         |[code.py]()|-|
+| 2  | Operations on Queue           | 🟢         |[code.py]()|-|
+| 3  | Queue Reversal                | 🟢         |[code.py]()|-|
+| 4  | Queue using two Stacks        | 🟢         |[code.py]()|-|
+| 5  | Generate Binary Numbers       | 🟢         |[code.py]()|-|
+| 6  | Reverse first K of a Queue    | 🟢         |[code.py]()|-|
+| 7  | Gas Station                   | 🟡         |[code.py]()|-|
+| 8  | LRU Cache                     | 🔴         |[code.py]()|-|
+| 9  | K Sized Subarray Maximum      | 🟡         |[code.py]()|-|
+
+# Heap
+| #  | Problem Name                 | Difficulty | Code File                    | Status       |
+|----|------------------------------|------------|-------------------------------|--------------|
+| 1  | Binary Heap Operations       | 🟡         |[code.py]()|-|
+| 2  | Kth element in Matrix        | 🟡         |[code.py]()|-|
+| 3  | Merge k Sorted Arrays        | 🟡         |[code.py]()|-|
+| 4  | Smallest range in K lists    | 🔴         |[code.py]()|-|
+| 5  | Minimum Cost of ropes        | 🟢         |[code.py]()|-|
+| 6  | Rearrange characters         | 🟡         |[code.py]()|-|
+| 7  | Find median in a stream      | 🔴         |[code.py]()|-|
+| 8  | Nearly sorted                | 🟡         |[code.py]()|-|
