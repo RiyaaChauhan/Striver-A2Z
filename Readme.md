@@ -202,6 +202,42 @@ The problem sheets I’m actively working on:
 | 3  | Flattening of LinkedList                           | 🔴| [Code](#) | ❌|
 | 4  | Clone a LinkedList with random and next pointer   | 🔴| [Code](#) | ❌|
 
+## Step 7 : Recursion [PatternWise]
+### Lec 1: Get a Strong Hold
+| **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**     |
+|------:|--------------------------------------------------|:---------:|-------------------|
+| 1     | Implement stack using array                     | 🟢        |[code.py]()|
+| 2     | Stack using Linked List                         | 🟢        |[code.py]()|
+| 3     | Two Stacks in an Array                          | 🟡        |[code.py]()|
+| 4     | Stack using two queues                          | 🟢        |[code.py]()|
+| 5     | Postfix Evaluation                              | 🟡        |[code.py]()|
+| 6     | The Celebrity Problem                           | 🟡        |[code.py]()|
+| 7     | Get Min from Stack                              | 🟡        |[code.py]()|
+| 8     | Max rectangle                                   | 🔴        |[code.py]()|
+| 9     | Parenthesis Checker                             | 🟢        |[code.py]()|
+| 10    | Next Greater Element                            | 🟡        |[code.py]()|
+| 11    | Stock span problem                              | 🟡        |[code.py]()|
+| 12    | Max of min for every window size                | 🔴        |[code.py]()|
+| 13    | Special Stack                                   | 🟢        |[code.py]()|
+| 14    | Sort a stack                                    | 🟡        |[code.py]()|
+
+### Lec 2: Subsequences Pattern
+| **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**       | **Platform**                                                                 |
+|------:|--------------------------------------------------|:---------:|---------------------|------------------------------------------------------------------------------|
+| 1     | Generate all binary strings                 |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/generate-all-binary-strings-without-consecutive-1s/) |
+| 2     | Generate Parentheses                        |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/generate-parentheses/)            |
+| 3     | Print all subsequences / Power Set          |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/power-set/)                             |
+| 4     | Learn All Patterns of Subsequences (Theory) |🟡|[code.py]()| [Theory]()                       |
+| 5     | Count all subsequences with sum K           |🔴|[code.py]()| [GFG](https://www.geeksforgeeks.org/count-subsequences-sum-k/)         |
+| 6     | Check if there exists a subsequence with sum|🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)             |
+| 7     | Combination Sum                             |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum/)                 |
+| 8     | Combination Sum-II                          |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-ii/)              |
+| 9     | Subset Sum-I                                |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/subset-sum-problem/)                   |
+| 10    | Subset Sum-II                               |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/subsets-ii/)                      |
+| 11    | Combination Sum - III                       |🔴|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-iii/)             |
+| 12    | Letter Combinations of a Phone number       |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+
+
 ## Step 8 : Bit Manipulation [Concepts & Problems]
 ### **Lec 1: Learn Bit Manipulation**
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** |
