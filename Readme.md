@@ -11,13 +11,6 @@ The problem sheets I’m actively working on:
 ## 📚 Table of Contents
 
 1. [Step 1: Learn the Basics](#step-1-learn-the-basics)
-    - [Lec 1: Things to Know in C++/Java/Python or any language](#lec-1-things-to-know-in-cjavapython-or-any-language)
-    - [Lec 2: Build-up Logical Thinking](#lec-2-build-up-logical-thinking)
-    - [Lec 3: Learn STL/Java-Collections or similar thing in your language](#lec-3-learn-stljava-collections-or-similar-thing-in-your-language)
-    - [Lec 4: Know Basic Maths](#lec-4-know-basic-maths)
-    - [Lec 5: Learn Basic Recursion](#lec-5-learn-basic-recursion)
-    - [Lec 6: Learn Basic Hashing](#lec-6-learn-basic-hashing)
-
 2. [Step 2: Learn Important Sorting Techniques](#step-2-learn-important-sorting-techniques)
 3. [Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]](#step-3-solve-problems-on-arrays-easy---medium---hard)
 4. [Step 4: Binary Search [1D, 2D Arrays, Search Space]](#step-4-binary-search-1d-2d-arrays-search-space)
