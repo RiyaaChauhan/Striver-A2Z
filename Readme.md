@@ -31,14 +31,31 @@ The problem sheets I’m actively working on:
 
 # Problems Table
 ## Step 1 : Learn the basics
-### Lec 1: Things to Know in C++/Java/Python or any language
-### Lec 2: Build-up Logical Thinking
-### Lec 3: Learn STL/Java-Collections or similar thing in your language
-### Lec 4: Know Basic Maths
-### Lec 5: Learn Basic Recursion
-### Lec 6: Learn Basic Hashing
-### Lec 6: Learn Basic Hashing
 
+### Lec 1: Things to Know in C++/Java/Python or any language
+
+### Lec 2: Build-up Logical Thinking
+
+### Lec 3: Learn STL/Java-Collections or similar thing in your language
+
+### Lec 4: Know Basic Maths
+
+### Lec 5: Learn Basic Recursion
+### Lec 5: Learn Basic Recursion
+
+| **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**  | **Platform**                                           | **Status** |
+|------:|--------------------------------------------------|-------------|----------------|--------------------------------------------------------|------------|
+|1| Understand recursion by print something N times | 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/) |            |
+|2| Print name N times using recursion| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/c-program-to-print-geeks-for-geeks-n-times-without-loop/) |            |
+|3| Print 1 to N using recursion| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/print-numbers-1-n-using-recursion/) |            |
+|4| Print N to 1 using recursion| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/print-numbers-from-n-to-1-using-recursion/) |            |
+|5| Sum of first N numbers| 🟢| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/sum-of-numbers-i/) ||
+|6| Factorial of N numbers| 🟢| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/factorial-trailing-zeroes/) |            |
+|7| Reverse an array| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |            |
+|8| Check if a string is palindrome or not| 🟡| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/valid-palindrome/) |            |
+|9| Fibonacci Number| 🟢| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/fibonacci-number/) ||
+
+### Lec 6: Learn Basic Hashing
 | **#** | **Problem Name**                               | **🟢🟡🔴** | **Code File**   | **Status** |
 |------:|------------------------------------------------|-------------|----------------|--------------|
 | 1    | Hashing Theory                                  | 🟡          | [code.py]()    | –            |           
