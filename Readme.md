@@ -249,8 +249,6 @@ The problem sheets I’m actively working on:
 | 19    | Sudoku Solver                   | 🔴        | [code.py]()         | [LeetCode](https://leetcode.com/problems/sudoku-solver/)                    |            |
 | 20    | Expression Add Operators        | 🔴        | [code.py]()         | [LeetCode](https://leetcode.com/problems/expression-add-operators/)        |            |
 
-
-
 ## Step 8 : Bit Manipulation [Concepts & Problems]
 ### **Lec 1: Learn Bit Manipulation**
 | **#** | **Problem Name**                                      | **🟢🟡🔴** | **Code File** |
@@ -281,6 +279,47 @@ The problem sheets I’m actively working on:
 | 3    | Sieve of Eratosthenes                             | 🟡         | [Link]()     |
 | 4    | Find Prime Factorisation of a Number using Sieve  | 🟡         | [Link]()     |
 | 5    | Power(n, x)                                       | 🟡         | [Link]()     |
+
+## Step 9 : Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]
+### Lec 1: Learning
+| **#** | **Problem Name**                    | **🟢🟡🔴** | **Code File**     | **Status** |
+|------:|-------------------------------------|------------|--------------------|------------|
+| 1     | Implement Stack using Arrays        | 🟢         | [code.py]()        |            |
+| 2     | Implement Queue using Arrays        | 🟢         | [code.py]()        |            |
+| 3     | Implement Stack using Queue         | 🟡         | [code.py]()        |            |
+| 4     | Implement Queue using Stack         | 🟡         | [code.py]()        |            |
+| 5     | Implement Stack using Linkedlist    | 🟢         | [code.py]()        |            |
+| 6     | Implement Queue using Linkedlist    | 🟡         | [code.py]()        |            |
+| 7     | Check for Balanced Parenthesis      | 🟡         | [code.py]()        |            |
+| 8     | Implement Min Stack                 | 🟡         | [code.py]()        |            |
+
+### Lec 2: Prefix, Infix, PostFix Conversion Problems
+| **#** | **Problem Name**                      | **🟢🟡🔴** | **Code File**     | **Status** |
+|------:|---------------------------------------|------------|--------------------|------------|
+| 1     | Infix to Postfix Conversion using Stack | 🟡         | [code.py]()        |            |
+| 2     | Prefix to Infix Conversion             | 🟡         | [code.py]()        |            |
+| 3     | Prefix to Postfix Conversion           | 🟡         | [code.py]()        |            |
+| 4     | Postfix to Prefix Conversion           | 🟡         | [code.py]()        |            |
+| 5     | Postfix to Infix                       | 🟡         | [code.py]()        |            |
+| 6     | Convert Infix To Prefix Notation       | 🟡         | [code.py]()        |            |
+
+### Lec 3: Monotonic Stack/Queue Problems [VVV. Imp]
+| **#** | **Problem Name**                     | **🟢🟡🔴** | **Code File**     | **Status** |
+|------:|--------------------------------------|------------|--------------------|------------|
+| 1     | Next Greater Element                 | 🟢         | [code.py]()        |            |
+| 2     | Next Greater Element 2               | 🟡         | [code.py]()        |            |
+| 3     | Next Smaller Element                 | 🟢         | [code.py]()        |            |
+| 4     | Number of NGEs to the right          | 🟢         | [code.py]()        |            |
+| 5     | Trapping Rainwater                   | 🔴         | [code.py]()        |            |
+| 6     | Sum of subarray minimum              | 🟡         | [code.py]()        |            |
+| 7     | Asteroid Collision                   | 🟡         | [code.py]()        |            |
+| 8     | Sum of subarray ranges               | 🟡         | [code.py]()        |            |
+| 9     | Remove k Digits                      | 🟡         | [code.py]()        |            |
+| 10    | Largest rectangle in a histogram     | 🟡         | [code.py]()        |            |
+| 11    | Maximal Rectangles                   | 🔴         | [code.py]()        |            |
+
+### Lec 4: Implementation Problems
+
 
 ## Step 10 : Sliding Window & Two Pointer Combined Problems
 ### Lec 1: Medium Problems
