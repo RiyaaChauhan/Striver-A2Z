@@ -30,6 +30,20 @@ The problem sheets I’m actively working on:
 18. [Strings](#step-18-strings)
 
 # Problems Table
+## Step 1 : Learn the basics
+### Lec 1: Things to Know in C++/Java/Python or any language
+### Lec 2: Build-up Logical Thinking
+### Lec 3: Learn STL/Java-Collections or similar thing in your language
+### Lec 4: Know Basic Maths
+### Lec 5: Learn Basic Recursion
+### Lec 6: Learn Basic Hashing
+### Lec 6: Learn Basic Hashing
+
+| **#** | **Problem Name**                               | **🟢🟡🔴** | **Code File**   | **Status** |
+|------:|------------------------------------------------|-------------|----------------|--------------|
+| 1    | Hashing Theory                                  | 🟡          | [code.py]()    | –            |           
+| 2    | Counting frequencies of array elements          | 🟢          | [code.py]()    | –            |            
+| 3    | Find the highest/lowest frequency element       | 🟢          | [code.py]()    | –            |            
 
 ## Step 2 : Learn Important Sorting Techniques
 ### **Lec 1: Sorting-I**
