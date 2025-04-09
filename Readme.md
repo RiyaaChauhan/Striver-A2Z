@@ -3,7 +3,7 @@
 ## 📘 My DSA Progress Sheets
 The problem sheets I’m actively working on:
 - 🔗 [GFG DSA Playlist](./GFG_DSA_Playlist.md)
-- 🔗 [Striver A2Z Sheet](#)
+- 🔗 [Striver A2Z Sheet- (Current)](#)
 - 🔗 [Striver 79 Sheet](./Striver-79.md)
 - 🔗 [Striver SDE Sheet](./Striver-SDE.md)
 
