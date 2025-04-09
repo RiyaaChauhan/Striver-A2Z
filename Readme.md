@@ -42,18 +42,20 @@ The problem sheets I’m actively working on:
 
 ### Lec 5: Learn Basic Recursion
 ### Lec 5: Learn Basic Recursion
+### Lec 5: Learn Basic Recursion
+### Lec 5: Learn Basic Recursion
 
-| **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**  | **Platform**                                           | **Status** |
-|------:|--------------------------------------------------|-------------|----------------|--------------------------------------------------------|------------|
-|1| Understand recursion by print something N times | 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/) |            |
-|2| Print name N times using recursion| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/c-program-to-print-geeks-for-geeks-n-times-without-loop/) |            |
-|3| Print 1 to N using recursion| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/print-numbers-1-n-using-recursion/) |            |
-|4| Print N to 1 using recursion| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/print-numbers-from-n-to-1-using-recursion/) |            |
-|5| Sum of first N numbers| 🟢| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/sum-of-numbers-i/) ||
-|6| Factorial of N numbers| 🟢| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/factorial-trailing-zeroes/) |            |
-|7| Reverse an array| 🟢| [code.py]()| ![GFG](https://www.geeksforgeeks.org/favicon.ico) [GFG](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |            |
-|8| Check if a string is palindrome or not| 🟡| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/valid-palindrome/) |            |
-|9| Fibonacci Number| 🟢| [code.py]()| ![LC](https://leetcode.com/favicon.ico) [LC](https://leetcode.com/problems/fibonacci-number/) ||
+| **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**  | **Status** |
+|------:|--------------------------------------------------|-------------|----------------|------------|
+| 1     | Understand recursion by print something N times | 🟢          | [code.py]()    |            |
+| 2     | Print name N times using recursion              | 🟢          | [code.py]()    |            |
+| 3     | Print 1 to N using recursion                    | 🟢          | [code.py]()    |            |
+| 4     | Print N to 1 using recursion                    | 🟢          | [code.py]()    |            |
+| 5     | Sum of first N numbers                          | 🟢          | [code.py]()    |            |
+| 6     | Factorial of N numbers                          | 🟢          | [code.py]()    |            |
+| 7     | Reverse an array                                | 🟢          | [code.py]()    |            |
+| 8     | Check if a string is palindrome or not          | 🟡          | [code.py]()    |            |
+| 9     | Fibonacci Number                                | 🟢          | [code.py]()    |            |
 
 ### Lec 6: Learn Basic Hashing
 | **#** | **Problem Name**                               | **🟢🟡🔴** | **Code File**   | **Status** |
