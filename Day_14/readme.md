@@ -1,7 +1,7 @@
 ## 📑 Table of Contents
 
 - [1. Missing Number](#1.-missing-number)
-- [2. Maximun consecutive ones](#2.-maximun-consecutive-ones)
+- [2. Maximun consecutive ones](#2.-maximum-consecutive-ones)
 
 ## 1. Missing Number
 
