@@ -31,14 +31,11 @@ The problem sheets I’m actively working on:
 
 # Problems Table
 ## Step 1 : Learn the basics
-### Lec 1: Things to Know in C++/Java/Python or any language
 
 ### Lec 2: Build-up Logical Thinking
 | **#** | **Problem Name**         | **🟢🟡🔴** | **Code File**  | **Status** |
 |------:|--------------------------|-------------|----------------|------------|
 |1|[Patterns]()|🟢| [code.py]()|-|
-
-### Lec 3: Learn STL/Java-Collections or similar thing in your language
 
 ### Lec 4: Know Basic Maths
 | **#** | **Problem Name**         | **🟢🟡🔴** | **Code File**  | **Status** |
