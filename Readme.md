@@ -360,12 +360,12 @@ The problem sheets I’m actively working on:
 ### Lec 2: Medium Problems
 | **#** | **Problem Name**                                                   | **🟢🟡🔴** | **Code File**     | **Status** |
 |------:|--------------------------------------------------------------------|------------|--------------------|------------|
-| 1     | Kth largest element in an array [use priority queue]              | 🟡         | [code.py]()|            |
-| 2     | Kth smallest element in an array [use priority queue]             | 🟡         | [code.py]()|            |
-| 3     | Sort K sorted array                                               | 🟡         | [code.py]()|            |
-| 4     | Merge M sorted Lists                                              | 🔴         | [code.py]()|            |
-| 5     | Replace each array element by its corresponding rank              | 🟡         | [code.py]()|            |
-| 6     | Task Scheduler                                                    | 🟡         | [code.py]()|            |
-| 7     | Hands of Straights                                                | 🟡         | [code.py]()|            |
+| 1     | Kth largest element in an array [use priority queue] |🟡| [code.py]()|-|
+| 2     | Kth smallest element in an array [use priority queue]|🟡| [code.py]()|-|
+| 3     | Sort K sorted array                                  |🟡| [code.py]()|-|
+| 4     | Merge M sorted Lists                                 |🔴| [code.py]()|-|
+| 5     | Replace each array element by its corresponding rank |🟡| [code.py]()|-|
+| 6     | Task Scheduler                                       |🟡| [code.py]()|-|
+| 7     | Hands of Straights                                   |🟡| [code.py]()|-|
 
 ### Lec 3: Hard Problems
