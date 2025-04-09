@@ -369,3 +369,11 @@ The problem sheets I’m actively working on:
 | 7     | Hands of Straights                                   |🟡| [code.py]()|-|
 
 ### Lec 3: Hard Problems
+| **#** | **Problem Name**                                             | **🟢🟡🔴** | **Code File**     | **Status** |
+|------:|--------------------------------------------------------------|------------|--------------------|------------|
+| 1     | Design Twitter                                               | 🟡         | [code.py]()        |            |
+| 2     | Connect `n` ropes with minimal cost                          | 🟡         | [code.py]()        |            |
+| 3     | Kth largest element in a stream of running integers          | 🟢         | [code.py]()        |            |
+| 4     | Maximum Sum Combination                                      | 🟡         | [code.py]()        |            |
+| 5     | Find Median from Data Stream                                 | 🔴         | [code.py]()        |            |
+| 6     | K most frequent elements                                     | 🟡         | [code.py]()        |            |
