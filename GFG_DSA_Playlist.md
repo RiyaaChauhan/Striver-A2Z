@@ -113,6 +113,35 @@
 | 13   | Subarrays with equal 1s and 0s                        | Medium     | -         | -       |
 | 14   | 4 Sum - All Quadruples                                | Medium     | -         | -       |
 
+# String
+| #  | Problem Name                         | Difficulty | Code File               | Status     |
+|----|--------------------------------------|------------|--------------------------|------------|
+| 1  | Convert to Roman No                  | Easy       |[code.py]()|-|
+| 2  | Roman Number to Integer              | Easy       |[code.py]()|-|
+| 3  | First Occurence                      | Basic      |[code.py]()|-|
+| 4  | Implement Atoi                       | Medium     |[code.py]()|-|
+| 5  | Binary String                        | Basic      |[code.py]()|-|
+| 6  | String Rotated by 2 Places           | Easy       |[code.py]()|-|
+| 7  | Run Length Encoding                  | Easy       |[code.py]()|-|
+| 8  | Validate an IP Address               | Medium     |[code.py]()|-|
+| 9  | Generate Grey Code Sequences         | Easy       |[code.py]()|-|
+| 10 | String Permutations                  | Hard       |[code.py]()|-|
+| 11 | Reverse Words                        | Easy       |[code.py]()|-|
+| 12 | Needle in a Haystack                 | Easy       |[code.py]()|-|
+| 13 | Generate IP Addresses                | Medium     |[code.py]()|-|
+| 14 | Interleaved Strings                  | Medium     |[code.py]()|-|
+| 15 | Multiply Two Strings                 | Medium     |[code.py]()|-|
+| 16 | Longest Substring Without Repeats   | Medium      |[code.py]()|-|
+| 17 | Excel Sheet | Part - 1              | Medium      |[code.py]()|-|
+| 18 | Anagram of String                    | Basic      |[code.py]()|-|
+| 19 | String Modification                  | Easy       |[code.py]()|-|
+| 20 | Compare Version Number               | Easy       |[code.py]()|-|
+| 21 | Convert Integer to English Word      | Medium     |[code.py]()|-|
+| 22 | Print Anagrams Together              | Medium     |[code.py]()|-|
+| 23 | Reorder Data Files                   | Easy       |[code.py]()|-|
+| 24 | Most Frequent Non Bad Word           | Medium     |[code.py]()|-|
+| 25 | Excel Sheet | Part - 2              | Easy        |[code.py]()|-|
+
 # Linked List Problems
 | # | Problem Name                                      | Difficulty | Code File | Status  |
 |------|--------------------------------------------------|------------|-----------|---------|
@@ -153,3 +182,22 @@
 | 35   | Sorted insert for circular linked list        | Medium     | -         | -       |
 | 36   | Intersection of Two Linked Lists              |🟢 Easy       | -         | -       |
 | 37   | Linked List that is Sorted Alternatingly      | Medium     | -         | -       |
+
+# Stack
+| #  | Problem Name                         | Difficulty | Code File              | Status       |
+|----|--------------------------------------|------------|-------------------------|--------------|
+| 1  | Implement stack using array          | 🟢         |[code.py]()|-|
+| 2  | Stack using Linked List              | 🟢         |[code.py]()|-|
+| 3  | Two Stacks in an Array               | 🟡         |[code.py]()|-|
+| 4  | Stack using two queues               | 🟢         |[code.py]()|-|
+| 5  | Postfix Evaluation                   | 🟡         |[code.py]()|-|
+| 6  | The Celebrity Problem                | 🟡         |[code.py]()|-|
+| 7  | Get Min from Stack                   | 🟡         |[code.py]()|-|
+| 8  | Max rectangle                        | 🔴         |[code.py]()|-|
+| 9  | Parenthesis Checker                  | 🟢         |[code.py]()|-|
+| 10 | Next Greater Element                 | 🟡         |[code.py]()|-|
+| 11 | Stock span problem                   | 🟡         |[code.py]()|-|
+| 12 | Max of min for every window size     | 🔴         |[code.py]()|-|
+| 13 | Special Stack                        | 🟢         |[code.py]()|-|
+| 14 | Sort a stack                         | 🟡         |[code.py]()|-|
+
