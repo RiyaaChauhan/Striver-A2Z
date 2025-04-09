@@ -8,6 +8,33 @@ The problem sheets I’m actively working on:
 - 🔗 [Striver SDE Sheet](./Striver-SDE.md)
 
 ---
+## 📚 Table of Contents
+
+1. [Step 1: Learn the Basics](#step-1-learn-the-basics)
+    - [Lec 1: Things to Know in C++/Java/Python or any language](#lec-1-things-to-know-in-cjavapython-or-any-language)
+    - [Lec 2: Build-up Logical Thinking](#lec-2-build-up-logical-thinking)
+    - [Lec 3: Learn STL/Java-Collections or similar thing in your language](#lec-3-learn-stljava-collections-or-similar-thing-in-your-language)
+    - [Lec 4: Know Basic Maths](#lec-4-know-basic-maths)
+    - [Lec 5: Learn Basic Recursion](#lec-5-learn-basic-recursion)
+    - [Lec 6: Learn Basic Hashing](#lec-6-learn-basic-hashing)
+
+2. [Step 2: Learn Important Sorting Techniques](#step-2-learn-important-sorting-techniques)
+3. [Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]](#step-3-solve-problems-on-arrays-easy---medium---hard)
+4. [Step 4: Binary Search [1D, 2D Arrays, Search Space]](#step-4-binary-search-1d-2d-arrays-search-space)
+5. [Step 5: Strings [Basic and Medium]](#step-5-strings-basic-and-medium)
+6. [Step 6: Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]](#step-6-learn-linkedlist-single-ll-double-ll-medium-hard-problems)
+7. [Step 7: Recursion [PatternWise]](#step-7-recursion-patternwise)
+8. [Step 8: Bit Manipulation [Concepts & Problems]](#step-8-bit-manipulation-concepts--problems)
+9. [Step 9: Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]](#step-9-stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation)
+10. [Step 10: Sliding Window & Two Pointer Combined Problems](#step-10-sliding-window--two-pointer-combined-problems)
+11. [Step 11: Heaps [Learning, Medium, Hard Problems]](#step-11-heaps-learning-medium-hard-problems)
+12. [Step 12: Greedy Algorithms [Easy, Medium/Hard]](#step-12-greedy-algorithms-easy-mediumhard)
+13. [Step 13: Binary Trees [Traversals, Medium and Hard Problems]](#step-13-binary-trees-traversals-medium-and-hard-problems)
+14. [Step 14: Binary Search Trees [Concept and Problems]](#step-14-binary-search-trees-concept-and-problems)
+15. [Step 15: Graphs [Concepts & Problems]](#step-15-graphs-concepts--problems)
+16. [Step 16: Dynamic Programming [Patterns and Problems]](#step-16-dynamic-programming-patterns-and-problems)
+17. [Step 17: Tries](#step-17-tries)
+18. [Step 18: Strings](#step-18-strings)
 
 # Problems Table
 
