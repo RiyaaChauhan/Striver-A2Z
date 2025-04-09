@@ -222,20 +222,20 @@ The problem sheets I’m actively working on:
 | 14    | Sort a stack                                    | 🟡        |[code.py]()|
 
 ### Lec 2: Subsequences Pattern
-| **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**       | **Platform**                                                                 |
-|------:|--------------------------------------------------|:---------:|---------------------|------------------------------------------------------------------------------|
-| 1     | Generate all binary strings                 |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/generate-all-binary-strings-without-consecutive-1s/) |
-| 2     | Generate Parentheses                        |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/generate-parentheses/)            |
-| 3     | Print all subsequences / Power Set          |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/power-set/)                             |
-| 4     | Learn All Patterns of Subsequences (Theory) |🟡|[code.py]()| [Theory]()                       |
-| 5     | Count all subsequences with sum K           |🔴|[code.py]()| [GFG](https://www.geeksforgeeks.org/count-subsequences-sum-k/)         |
-| 6     | Check if there exists a subsequence with sum|🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)             |
-| 7     | Combination Sum                             |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum/)                 |
-| 8     | Combination Sum-II                          |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-ii/)              |
-| 9     | Subset Sum-I                                |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/subset-sum-problem/)                   |
-| 10    | Subset Sum-II                               |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/subsets-ii/)                      |
-| 11    | Combination Sum - III                       |🔴|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-iii/)             |
-| 12    | Letter Combinations of a Phone number       |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| **#** | **Problem Name**| **🟢🟡🔴** | **Code File**| **Platform**| **Status**|
+|------:|-----------------|:---------:|----------------|--------------|------|
+| 1     | Generate all binary strings|🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/generate-all-binary-strings-without-consecutive-1s/) ||
+| 2     | Generate Parentheses                        |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/generate-parentheses/)  |          |
+| 3     | Print all subsequences / Power Set          |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/power-set/)  |                           |
+| 4     | Learn All Patterns of Subsequences (Theory) |🟡|[code.py]()| [Theory]()|                       |
+| 5     | Count all subsequences with sum K           |🔴|[code.py]()| [GFG](https://www.geeksforgeeks.org/count-subsequences-sum-k/)  |       |
+| 6     | Check if there exists a subsequence with sum|🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)  |           |
+| 7     | Combination Sum                             |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum/)    |             |
+| 8     | Combination Sum-II                          |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-ii/)    |          |
+| 9     | Subset Sum-I                                |🟡|[code.py]()| [GFG](https://www.geeksforgeeks.org/subset-sum-problem/)         |          |
+| 10    | Subset Sum-II                               |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/subsets-ii/)            |          |
+| 11    | Combination Sum - III                       |🔴|[code.py]()| [LeetCode](https://leetcode.com/problems/combination-sum-iii/)     |        |
+| 12    | Letter Combinations of a Phone number       |🟡|[code.py]()| [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | |
 
 
 ## Step 8 : Bit Manipulation [Concepts & Problems]
