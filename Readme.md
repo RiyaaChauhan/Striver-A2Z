@@ -100,8 +100,8 @@ The problem sheets I’m actively working on:
 | 10 |[Find missing number in an array](https://leetcode.com/problems/missing-number/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)|✅|  
 | 11 |[Maximum Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_15)|✅|  
 | 12 |[Find the number that appears once, and other numbers twice](https://leetcode.com/problems/single-number/)| 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_16)|✅|  
-| 13 | Longest subarray with given sum K (positives) |🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_17)| |  
-| 14 | Longest subarray with sum K (Positives + Negatives) | 🟡| | |  
+| 13 |[Longest subarray with given sum K (positives)]()|🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_17)| |  
+| 14 |[Longest subarray with sum K (Positives + Negatives)]()| 🟡|[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_18)| |  
 
 ### **Lec 2: Medium**  
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |  
