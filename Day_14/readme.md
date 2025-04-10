@@ -1,8 +1,3 @@
-## 📑 Table of Contents
-
-- [1. Missing Number](#1-missing-number)
-- [2. Maximum consecutive ones](#2-maximum-consecutive-ones)
-
 ## 1. Missing Number in Array
 
 You are given an array `arr[]` of size `n`, containing `n` **distinct numbers** in the range `0` to `n`.  
@@ -113,6 +108,3 @@ def missing_number_xor(arr):
 | Better (Hashing)   | O(n)             | O(n)              | Uses extra space         |
 | Optimal (Sum)      | O(n)             | O(1)              | Fast, simple logic       |
 | Optimal (XOR)      | O(n)             | O(1)              | Bit manipulation-based   |
-
------------------------------------------------------------------------
-## 2. Maximum consecutive ones
