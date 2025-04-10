@@ -97,10 +97,10 @@ The problem sheets I’m actively working on:
 | 7 |[Move Zeros to end](https://leetcode.com/problems/move-zeroes/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_11)|✅|  
 | 8 | [inear Search](https://www.naukri.com/code360/problems/linear-search_624470?leftPanelTabValue=SUBMISSION)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_12)|✅|  
 | 9 |[Find the Union](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)| 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_13)|✅|  
-| 10 |[Find missing number in an array](https://leetcode.com/problems/missing-number/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
-| 11 | Maximum Consecutive Ones | 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
-| 12 | Find the number that appears once, and other numbers twice | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
-| 13 | Longest subarray with given sum K (positives) |🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)| |  
+| 10 |[Find missing number in an array](https://leetcode.com/problems/missing-number/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_14)|✅|  
+| 11 |[Maximum Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| 🟢 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_15)|✅|  
+| 12 | Find the number that appears once, and other numbers twice | 🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_16)| |  
+| 13 | Longest subarray with given sum K (positives) |🟡 |[code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_17)| |  
 | 14 | Longest subarray with sum K (Positives + Negatives) | 🟡| | |  
 
 ### **Lec 2: Medium**  
