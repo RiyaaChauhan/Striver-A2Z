@@ -64,7 +64,7 @@ The problem sheets I’m actively working on:
 ### Lec 6: Learn Basic Hashing
 | **#** | **Problem Name**                               | **🟢🟡🔴** | **Code File**   | **Status** |
 |------:|------------------------------------------------|-------------|----------------|--------------|
-| 1    | Hashing Theory                           |🟡|[code.py]()|–|           
+| 1    | Hashing Theory                           |🟡|[code.py]()|✅|           
 | 2    | Counting frequencies of array elements   |🟢|[code.py]()|–|            
 | 3    | Find the highest/lowest frequency element|🟢|[code.py]()|–|            
 
