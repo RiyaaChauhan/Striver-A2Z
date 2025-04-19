@@ -220,7 +220,7 @@ The problem sheets I’m actively working on:
 ### Lec 2: Learn Doubly LinkedList
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|------------|--------|
-|1|[Introduction to DLL, learn about struct, and how is node represented]()|🟢|[Link]()|❌|
+|1|[Introduction to DLL, learn about struct, and how is node represented]()|🟢|[Link]()|✅|
 |2|[Insert a node in DLL]()|🟢|[Link]()|❌|
 |3|[Delete a node in DLL]()|🟡|[Link]()|❌|
 |4|[Reverse a DLL]()|🟢|[Link]()|❌|
