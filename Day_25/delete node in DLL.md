@@ -1,22 +1,24 @@
 #  **Deletion in Doubly Linked List (DLL)**
-##  Types of Deletion Operations
 
-There are **3 major deletion operations** in a DLL:
+##  Types of Deletion Operations in DLL
 
-1. **Delete from the Beginning**  
-2. **Delete from the End**  
-3. **Delete a Node with a Given Value (or Position)**
+There are **4 major types** of deletion operations:
+
+1. 🔹 **Delete from the Beginning**  
+2. 🔹 **Delete from the End**  
+3. 🔹 **Delete the k-th Node (by Position)**  
+4. 🔹 **Delete by Value**
 
 ---
 
-###  1. Deletion from the Beginning
+## 1️⃣ Delete from the Beginning
 
-####  Algorithm
-- Check if the DLL is empty (`head == None`).
-- Move the head to `head.next`.
-- Set `head.prev = None`.
+###  Algorithm
+- Check if list is empty.
+- Move `head` to `head.next`.
+- Set `head.prev` (or `head.back`) to `None`.
 
-####  Python Code
+###  Python Code
 
 ```python
 def delete_from_beginning(head):
@@ -30,14 +32,14 @@ def delete_from_beginning(head):
 
 ---
 
-###  2. Deletion from the End
+## 2️⃣ Delete from the End
 
-####  Algorithm
+###  Algorithm
 - If list is empty, return `None`.
-- Traverse to the last node (`tail`).
-- Update `tail.back.next = None`.
+- Traverse to the last node.
+- Update `last.prev.next = None`.
 
-####  Python Code
+### 🧑‍💻 Python Code
 
 ```python
 def delete_from_end(head):
@@ -52,71 +54,91 @@ def delete_from_end(head):
 
 ---
 
-###  3. Deletion of a Node with a Given Value
+## 3️⃣ Delete the k-th Node (by Position)
 
-####  Algorithm
-- Traverse the list to find the node with the given value `k`.
-- If found:
-  - If it's the head → use delete from beginning.
-  - If it's the tail → use delete from end.
-  - Otherwise:
-    - Update `node.back.next = node.next`
-    - Update `node.next.back = node.back`
-- Free the node (in languages like C/C++; in Python, garbage collection handles it).
+###  Algorithm
+- If `k == 1`, call `delete_from_beginning`.
+- Traverse to the `k-th` node.
+- If node exists:
+  - Update pointers:
+    - `node.prev.next = node.next`
+    - `node.next.prev = node.prev`
 
-####  Python Code
+###  Python Code
 
 ```python
-def delete_by_value(head, k):
+def delete_kth_node(head, k):
     if head is None:
         return None
-    
-    # If node to delete is the head
-    if head.data == k:
+    if k == 1:
         return delete_from_beginning(head)
-
+    
     curr = head
-    while curr and curr.data != k:
+    count = 1
+    while curr and count < k:
         curr = curr.next
-
+        count += 1
+    
     if curr is None:
-        return head  # Value not found
+        return head  # k is out of range
 
-    # If node to delete is the last node
-    if curr.next is None:
-        curr.back.next = None
-    else:
-        curr.back.next = curr.next
+    if curr.next:
         curr.next.back = curr.back
+    if curr.back:
+        curr.back.next = curr.next
 
     return head
 ```
 
 ---
 
-##  Example
+## 4️⃣ Delete a Node by Value
 
-### Original List:
-```
-12 ⇄ 5 ⇄ 8 ⇄ 7 ⇄ 4
-```
+###  Algorithm
+- Traverse to find the node with `data == value`.
+- If found:
+  - If it's the head → use delete from beginning.
+  - If it's the tail → use delete from end.
+  - Else:
+    - Update `node.prev.next = node.next`
+    - Update `node.next.prev = node.prev`
 
-### After:
-- **Delete from beginning:** `5 ⇄ 8 ⇄ 7 ⇄ 4`
-- **Delete from end:** `12 ⇄ 5 ⇄ 8 ⇄ 7`
-- **Delete 8:** `12 ⇄ 5 ⇄ 7 ⇄ 4`
+###  Python Code
+
+```python
+def delete_by_value(head, value):
+    if head is None:
+        return None
+    if head.data == value:
+        return delete_from_beginning(head)
+    
+    curr = head
+    while curr and curr.data != value:
+        curr = curr.next
+
+    if curr is None:
+        return head  # Value not found
+
+    if curr.next:
+        curr.next.back = curr.back
+    if curr.back:
+        curr.back.next = curr.next
+
+    return head
+```
 
 ---
 
-##  Time & Space Complexity
+##  Time and Space Complexity
 
 | Operation             | Time Complexity | Space Complexity |
 |----------------------|------------------|------------------|
 | Delete from beginning| O(1)             | O(1)             |
 | Delete from end      | O(N)             | O(1)             |
+| Delete by position   | O(K)             | O(1)             |
 | Delete by value      | O(N)             | O(1)             |
 
-> 🔹 *N is the number of nodes in the list.*
+> 🔹 *N is the number of nodes in the list, and K is the position.*
 
 ---
 
