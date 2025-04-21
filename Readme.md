@@ -223,7 +223,7 @@ The problem sheets I’m actively working on:
 |1|[Introduction to DLL, learn about struct, and how is node represented](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_24/_01.%20intro_to_DLL.md)|🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_24/_01.%20intro_to_DLL.md)|✅|
 |2|[Insert a node in DLL](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_26/_01.%20Insert%20a%20node%20in%20DLL.md)|🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_26/_01.%20Insert%20a%20node%20in%20DLL.md)|✅|
 |3|[Delete a node in DLL](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_25/delete%20node%20in%20DLL.md)|🟡|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_25/delete%20node%20in%20DLL.md)|✅|
-|4|[Reverse a DLL]()|🟢|[Link]()|❌|
+|4|[Reverse a DLL](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)|🟢|[Link]()|✅|
 
 ### Lec 3: Medium Problems of LL
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
