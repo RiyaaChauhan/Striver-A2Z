@@ -146,38 +146,38 @@
 | 2 | Right Rotate an Array by K Steps | [LeetCode](https://leetcode.com/problems/rotate-array/) |  | [code.py]()| 🟡 | Rotations |
 | 3 | Check if the Array is Sorted and Rotated | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |  |[code.py]() | 🟢 | Pointers, In-place Modification |
 | 4 | Remove Duplicates from Sorted Array | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  |[code.py]() | 🟢 | Array Reversal, Modulo Operation |
-| 5 | Kth Largest Element in Array | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |  | [.cpp](./day-25/_83_kth_largest_element_in_array.cpp) | 🟡 | QuickSelect Algorithm, Partitioning Recursion |
-| 6 | Search in Rotated Sorted Array Places | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |  | [.cpp](./day-26/_84_search_in_rotated_sorted_array_places.cpp) | 🟡 | Binary Search |
-| 7 | Move All Zeros to the End | [LeetCode](https://leetcode.com/problems/move-zeroes/) |  | [.cpp](./day-26/_85_move_all_zeros_to_end.cpp) | 🟢 | Two Pointers, Swapping Elements |
-| 8 | Find Minimum in Rotated Sorted Array | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |  | [.cpp](./day-26/_86_find_minimum_in_roated_sorted_array.cpp) | 🟡 | Binary Search |
-| 9 | Intersection of Two Arrays | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/description/) | ✅| [.cpp](./day-26/_87_intersection_of_two_arrays.cpp) | 🟢 | Hashing, Sets |
-| 10 | Find Missing Number in an Array | [LeetCode](https://leetcode.com/problems/missing-number/) |  | [.cpp](./day-26/_88_find_missing_number_in_an_array.cpp) | 🟢 | Bit Manipulation, XOR Operations |
-| 11 | Max Consecutive 1's | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) |  | [.cpp](./day-27/_89_max_consecutive_ones.cpp) | 🟢 | Loops (for, while) |
-| 12 | Find the Single Element Among Pairs | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) |  | [.cpp](./day-27/_90_find_single_element_along_pairs.cpp) | 🟡 | Binary Search |
-| 13 | Number of Subarrays with Sum Equal to K | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/description/) |  | [.cpp](./day-27/_91_number_of_subarrays_with_sum_k.cpp) | 🟡 | Prefix Sum, Hash Maps (unordered_map) |
-| 14 | Maximum Sum of Distinct Subarrays With Length K | [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) |  | [.cpp](./day-27/_92_maximum_sum_of_distinct_subarrays_with_length_k.cpp) | 🟡 | Sliding Window Technique, Hash Maps (unordered_map) |
-| 15 | 2-Sum Problem | [LeetCode](https://leetcode.com/problems/two-sum/) |  | [.cpp](./day-27/_93_two_sum.cpp) | 🟢 | Hash Maps (unordered_map), Basic Arithmetic (complement) |
-| 16 | Sort 0, 1, 2 | [LeetCode](https://leetcode.com/problems/sort-colors/) |  | [.cpp](./day-28/_94_sort_0_1_2.cpp) | 🟡 | Counting, Basic Iteration |
-| 17 | Majority Element II (n by 2 times) | [LeetCode](https://leetcode.com/problems/majority-element/) |  | [.cpp](./day-28/_95_majority_element.cpp) | 🟢 | Hash Maps, Boyer-Moore Voting Algorithm |
-| 18 | Maximum Subarray (Kadane's Algorithm) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |  | [.cpp](./day-28/_96_maximum_subarray_kadanes_algorithm.cpp) | 🟡 | Kadane's Algorithm |
-| 19 | Subarray with Sum K | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) |  | [.cpp](./day-28/_97_subarrays_with_sum_equals_k.cpp) | 🟡 | Prefix Sum, Hash Maps, Sliding Window Technique |
-| 20 | Stock Buy and Sell | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  | [.cpp](./day-28/_98_stock_buy_and_sell.cpp) | 🟢 | Min/Max Element Tracking |
-| 21 | Rearrange Elements by Sign | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |  | [.cpp](./day-29/_99_rearrange_elements_by_sign.cpp) | 🟡 | Iteration, Conditional Statements |
-| 22 | Next Permutation | [LeetCode](https://leetcode.com/problems/next-permutation/) |  | [.cpp](./day-29/_100_next_permutation.cpp) | 🟡 | Sorting, Swapping Elements, Reverse, Linear Search |
-| 23 | Replace Elements with Greatest Element on Right Side | [LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |  | [.cpp](./day-29/_101_replace_elements_with_greatest_element_on_right_side.cpp) | 🟢 | Max Function, Reverse Traversal |
-| 24 | Longest Consecutive Subsequence | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |  | [.cpp](./day-29/_102_longest_consecutive_subsequence.cpp) | 🟡 | Sorting, Linear Search, Sequence Detection |
-| 25 | Set Matrix 0's | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |  | [.cpp](./day-29/_103_set_matrix_0s.cpp) | 🟡 | 2D Arrays, Matrix Manipulation, Flags, Traversal |
-| 26 | Rotate Matrix | [LeetCode](https://leetcode.com/problems/rotate-image/) |  | [.cpp](./day-30/_104_rotate_matrix.cpp) | 🟡 | 2D Arrays, Transpose of Matrix, Swapping, Array Reversal |
-| 27 | Spiral Traversal | [LeetCode](https://leetcode.com/problems/spiral-matrix/) |  | [.cpp](./day-30/_105_spiral_traversal.cpp) | 🟡 | Loop Control, Directional Changes |
-| 28 | Pascal's Triangle | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |  | [.cpp](./day-30/_106_pascals_triangle.cpp) | 🟢 | Nested Loops, Binomial coefficients |
-| 29 | Majority Element II (n by 3 times) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |  | [.cpp](./day-30/_107_majority_element_II_n_by_3.cpp) | 🟡 | Traversal, Counting, Boyer-Moore Voting Algorithm |
-| 30 | 3-Sum Problem | [LeetCode](https://leetcode.com/problems/3sum/) |  | [.cpp](./day-31/_108_three_sum.cpp) | 🟡 | Sorting, Two-pointer technique, Handling duplicates |
-| 31 | 4-Sum Problem | [LeetCode](https://leetcode.com/problems/4sum/) |  | [.cpp](./day-31/_109_four_sum.cpp) | 🟡 | Sorting, Nested loops, Two-pointer technique, Handling duplicates, Overflow prevention |
-| 32 | Length of Subarray with an equal number of 0 and 1 | [LeetCode](https://leetcode.com/problems/contiguous-array/description/) |  | [.cpp](./day-31/_110_length_of_subarray_with_equal_number_of_0_and_1.cpp) | 🟡 | Prefix sum, Hash maps, Subarray with a target sum |
-| 33 | XOR Queries of a Subarray | [LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/description/) |  | [.cpp](./day-32/_111_xor_queries_of_a_subarray.cpp) | 🟡 | XOR operation properties, Prefix XOR array, Range queries |
-| 34 | Merge Overlapping Subintervals | [LeetCode](https://leetcode.com/problems/merge-intervals/description/) |  | [.cpp](./day-32/_112_merge_overlapping_intervals.cpp) | 🟡 | Sorting, Intervals |
-| 35 | Merge Sorted Array Without Extra Space | [LeetCode](https://leetcode.com/problems/merge-sorted-array/description/) |  | [.cpp](./day-33/_113_merge_sorted_array_without_extra_space.cpp) | 🟢 | Pointers, In-Place Operations, Two Pointers |
-| 36 | Repeating Numbers | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) |  | [.cpp](./day-33/_114_repeating_numbers.cpp) | 🟡 | In-Place Operations, Cycle Detection, Absolute Value |
+| 5 | Kth Largest Element in Array | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |  |[code.py]() | 🟡 | QuickSelect Algorithm, Partitioning Recursion |
+| 6 | Search in Rotated Sorted Array Places | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |  | [code.py]() | 🟡 | Binary Search |
+| 7 | Move All Zeros to the End | [LeetCode](https://leetcode.com/problems/move-zeroes/) |  | [code.py]()| 🟢 | Two Pointers, Swapping Elements |
+| 8 | Find Minimum in Rotated Sorted Array | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |  | [code.py]() | 🟡 | Binary Search |
+| 9 | Intersection of Two Arrays | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/description/) | ✅| [code.py]()| 🟢 | Hashing, Sets |
+| 10 | Find Missing Number in an Array | [LeetCode](https://leetcode.com/problems/missing-number/) |  | [code.py]() | 🟢 | Bit Manipulation, XOR Operations |
+| 11 | Max Consecutive 1's | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) |  | [code.py]() | 🟢 | Loops (for, while) |
+| 12 | Find the Single Element Among Pairs | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) |  |[code.py]() | 🟡 | Binary Search |
+| 13 | Number of Subarrays with Sum Equal to K | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/description/) |  | [code.py]() | 🟡 | Prefix Sum, Hash Maps (unordered_map) |
+| 14 | Maximum Sum of Distinct Subarrays With Length K | [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) |  |[code.py]()| 🟡 | Sliding Window Technique, Hash Maps (unordered_map) |
+| 15 | 2-Sum Problem | [LeetCode](https://leetcode.com/problems/two-sum/) |  |[code.py]()| 🟢 | Hash Maps (unordered_map), Basic Arithmetic (complement) |
+| 16 | Sort 0, 1, 2 | [LeetCode](https://leetcode.com/problems/sort-colors/) |  |[code.py]()| 🟡 | Counting, Basic Iteration |
+| 17 | Majority Element II (n by 2 times) | [LeetCode](https://leetcode.com/problems/majority-element/) |  |[code.py]()| 🟢 | Hash Maps, Boyer-Moore Voting Algorithm |
+| 18 | Maximum Subarray (Kadane's Algorithm) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |  |[code.py]()| 🟡 | Kadane's Algorithm |
+| 19 | Subarray with Sum K | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) |  | [code.py]() | 🟡 | Prefix Sum, Hash Maps, Sliding Window Technique |
+| 20 | Stock Buy and Sell | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |[code.py]()| 🟢 | Min/Max Element Tracking |
+| 21 | Rearrange Elements by Sign | [LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |  |[code.py]()| 🟡 | Iteration, Conditional Statements |
+| 22 | Next Permutation | [LeetCode](https://leetcode.com/problems/next-permutation/) |  |[code.py]() | 🟡 | Sorting, Swapping Elements, Reverse, Linear Search |
+| 23 | Replace Elements with Greatest Element on Right Side | [LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |  |[code.py]() | 🟢 | Max Function, Reverse Traversal |
+| 24 | Longest Consecutive Subsequence | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |  |[code.py]()| 🟡 | Sorting, Linear Search, Sequence Detection |
+| 25 | Set Matrix 0's | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |  | [code.py]()| 🟡 | 2D Arrays, Matrix Manipulation, Flags, Traversal |
+| 26 | Rotate Matrix | [LeetCode](https://leetcode.com/problems/rotate-image/) |  |[code.py]()| 🟡 | 2D Arrays, Transpose of Matrix, Swapping, Array Reversal |
+| 27 | Spiral Traversal | [LeetCode](https://leetcode.com/problems/spiral-matrix/) |  |[code.py]() | 🟡 | Loop Control, Directional Changes |
+| 28 | Pascal's Triangle | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |  |[code.py]()| 🟢 | Nested Loops, Binomial coefficients |
+| 29 | Majority Element II (n by 3 times) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |  || 🟡 | Traversal, Counting, Boyer-Moore Voting Algorithm |
+| 30 | 3-Sum Problem | [LeetCode](https://leetcode.com/problems/3sum/) |  |[code.py]() | 🟡 | Sorting, Two-pointer technique, Handling duplicates |
+| 31 | 4-Sum Problem | [LeetCode](https://leetcode.com/problems/4sum/) |  | [code.py]() | 🟡 | Sorting, Nested loops, Two-pointer technique, Handling duplicates, Overflow prevention |
+| 32 | Length of Subarray with an equal number of 0 and 1 | [LeetCode](https://leetcode.com/problems/contiguous-array/description/) |  |[code.py]() | 🟡 | Prefix sum, Hash maps, Subarray with a target sum |
+| 33 | XOR Queries of a Subarray | [LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/description/) |  |[code.py]() | 🟡 | XOR operation properties, Prefix XOR array, Range queries |
+| 34 | Merge Overlapping Subintervals | [LeetCode](https://leetcode.com/problems/merge-intervals/description/) |  |[code.py]() | 🟡 | Sorting, Intervals |
+| 35 | Merge Sorted Array Without Extra Space | [LeetCode](https://leetcode.com/problems/merge-sorted-array/description/) |  | [code.py]()| 🟢 | Pointers, In-Place Operations, Two Pointers |
+| 36 | Repeating Numbers | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) |  | [code.py]() | 🟡 | In-Place Operations, Cycle Detection, Absolute Value |
 | 37 | Count Inversions | [LeetCode](https://leetcode.com/problems/count-the-number-of-inversions/description/) |  |[code.py]()| 🔴 | Dynamic Programming, Modular Arithmetic |
 | 38 | Reverse Pairs | [LeetCode](https://leetcode.com/problems/reverse-pairs/) |  |[code.py]()| 🔴 | Merge Sort, Efficient Counting Techniques |
 | 39 | Maximum Product Subarray | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) |  |[code.py]()| 🟡 | Array, Prefix and Suffix Products |
