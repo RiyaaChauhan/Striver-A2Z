@@ -82,7 +82,7 @@
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
 | ----- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | -------------- | --------------------------------------------------------------------- |
-| 1 | Prefix Sum | [GeeksForGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) | - |  | 🟢 | Arrays, Loops, Basic Mathematics (Addition, Subtraction) |
+| 1 | Prefix Sum | [GeeksForGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_29/prefix.md)| 🟢 | Arrays, Loops, Basic Mathematics (Addition, Subtraction) |
 | 2 | Fibonacci Sequence | [LeetCode](https://leetcode.com/problems/generate-fibonacci-sequence/description/) | - | | 🟢 | Recursion, Dynamic Programming, Basic Mathematics (Sequences) |
 | 3 | Boyer-Moore Voting Algorithm | [TopCoder](https://www.topcoder.com/thrive/articles/boyer-moore-majority-vote-algorithm) | - | | 🟢 | Arrays, Loops, Basic Counting Logic |
 | 4 | Euclidean Algorithm | [GeeksForGeeks](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/) | - | | 🟡 | Basic Mathematics (Division, Remainder), Recursion |
