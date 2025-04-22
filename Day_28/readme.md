@@ -2,6 +2,55 @@
 You're given two non-empty linked lists representing two non-negative integers. Each node contains a single digit, and digits are stored in **reverse order**. You need to add the two numbers and return the result as a linked list.
 
 ---
+Sure! Here's a **clean and clear pseudocode** (or approach) for the **"Add Two Numbers"** problem using linked lists:
+
+---
+
+### ✅ **Problem Summary**  
+You are given two non-empty linked lists `l1` and `l2` representing two non-negative integers. The digits are stored in **reverse order** (least significant digit first). Add the two numbers and return the sum as a linked list.
+
+---
+
+###  **Approach / Pseudocode**
+
+```
+1. Initialize a dummy head node (dummy) to help build the result list
+2. Initialize a pointer (cur) to dummy
+3. Initialize a carry variable = 0
+
+4. While l1 is not null OR l2 is not null OR carry is not 0:
+    a. If l1 is not null, set v1 = l1.val, else v1 = 0
+    b. If l2 is not null, set v2 = l2.val, else v2 = 0
+
+    c. total = v1 + v2 + carry
+    d. carry = total // 10         (integer division to get carry)
+    e. digit = total % 10          (remainder is the new digit)
+
+    f. Create a new node with value = digit and link it to cur.next
+    g. Move cur to cur.next
+
+    h. Move l1 and l2 to their next nodes if they exist
+
+5. Return dummy.next (skipping the dummy head node)
+```
+
+---
+
+###  Example:
+If `l1 = [2,4,3]` and `l2 = [5,6,4]`  
+That means:  
+`342 + 465 = 807` → Output should be `[7,0,8]`
+
+The algorithm goes:
+```
+2+5 = 7 → carry=0 → append 7
+4+6 = 10 → carry=1 → append 0
+3+4+1 = 8 → carry=0 → append 8
+```
+
+Final list = `7 -> 0 -> 8`
+
+---
 
 ###  Code:
 
