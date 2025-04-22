@@ -1,16 +1,6 @@
 ###  Problem Summary:
 You're given two non-empty linked lists representing two non-negative integers. Each node contains a single digit, and digits are stored in **reverse order**. You need to add the two numbers and return the result as a linked list.
-
 ---
-Sure! Here's a **clean and clear pseudocode** (or approach) for the **"Add Two Numbers"** problem using linked lists:
-
----
-
-### ✅ **Problem Summary**  
-You are given two non-empty linked lists `l1` and `l2` representing two non-negative integers. The digits are stored in **reverse order** (least significant digit first). Add the two numbers and return the sum as a linked list.
-
----
-
 ###  **Approach / Pseudocode**
 
 ```
