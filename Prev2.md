@@ -20,8 +20,6 @@
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
 | ----- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------- |
-| #  | Problem Title | Link | Status | Code File | Difficulty | Topics |
-|----|---------------|------|--------|-----------|------------|--------|
 | 1  | Number of factors | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-factors1435/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | ❌ | [code.py]() | 🟢 | Loops, Divisors, Square roots |
 | 2  | Perfect Number | [LeetCode](https://leetcode.com/problems/perfect-number/) | ❌ | [code.py]() | 🟢 | Divisors, Sum of factors, Loops |
 | 3  | Three Divisors | [LeetCode](https://leetcode.com/problems/three-divisors/description/) | ❌ | [code.py]() | 🟢 | Prime numbers, Perfect squares, Divisors |
@@ -80,7 +78,21 @@
 | 7 | Selection Sort | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | ❌ | [code.py]() | 🟢 | Arrays, Recursion, Swapping |
 
 ---
+## Algorithms and Techniques
 
+| **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
+| ----- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | -------------- | --------------------------------------------------------------------- |
+| 1 | Prefix Sum | [GeeksForGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) | - |  | 🟢 | Arrays, Loops, Basic Mathematics (Addition, Subtraction) |
+| 2 | Fibonacci Sequence | [LeetCode](https://leetcode.com/problems/generate-fibonacci-sequence/description/) | - | | 🟢 | Recursion, Dynamic Programming, Basic Mathematics (Sequences) |
+| 3 | Boyer-Moore Voting Algorithm | [TopCoder](https://www.topcoder.com/thrive/articles/boyer-moore-majority-vote-algorithm) | - | | 🟢 | Arrays, Loops, Basic Counting Logic |
+| 4 | Euclidean Algorithm | [GeeksForGeeks](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/) | - | | 🟡 | Basic Mathematics (Division, Remainder), Recursion |
+| 5 | Sieve of Eratosthenes | [CP-Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html) | ❌ | | 🟡 | Arrays, Loops, Basic Mathematics (Prime Numbers) |
+| 6 | Binomial Coefficients | [GeeksForGeeks](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/) | ❌ | | 🟡 | Combinatorics, Dynamic Programming, Recursion |
+| 7 | In-place Array Modification | [GeeksForGeeks](https://www.geeksforgeeks.org/in-place-algorithm/) | ❌ | | 🔴 | Arrays, Loops, Two-pointer Technique |
+| 8 | Sliding Window | [GeeksForGeeks](https://www.geeksforgeeks.org/window-sliding-technique/) | ❌ |  | 🔴 | Arrays, Loops, Two-pointer Technique, Hash Maps (for some variations) |
+| 9 | Floyd's Tortoise and Hare Algorithm | [DEV Community](https://dev.to/alisabaj/floyd-s-tortoise-and-hare-algorithm-finding-a-cycle-in-a-linked-list-39af) | ❌ || 🔴 | Linked Lists, Two-pointer Technique, Cyclic Detection |
+| 10 | Longest Common Subsequence (LCS) | [GeeksForGeeks](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/) | ❌ | | 🔴 | Dynamic Programming, Strings, Recursion |
+---
 ## Hashing
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
