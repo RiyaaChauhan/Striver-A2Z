@@ -1,4 +1,4 @@
-# 1. **"Odd Even Linked List"**
+# 1. **Odd Even Linked List**
 ###  **Problem Summary**
 You're given a singly linked list, and you need to:
 - Group all nodes at **odd indices** together first,
