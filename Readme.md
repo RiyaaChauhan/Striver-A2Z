@@ -228,21 +228,21 @@ The problem sheets I’m actively working on:
 ### Lec 3: Medium Problems of LL
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------------|------------|-----------|--------|
-| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy | [Code](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_05.%20Middle%20of%20LL.py) |✅|
-| 2  | Reverse a LinkedList [Iterative]                |        | [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32) | ❌|
-| 3  | Reverse a LinkedList [Recursive]                | 🟢| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32) | ❌|
+| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy|[Code](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_05.%20Middle%20of%20LL.py)|✅|
+| 2  | Reverse a LinkedList [Iterative]|🟢|[Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32)||
+| 3  | Reverse a LinkedList [Recursive]| 🟢| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32) | ❌|
 | 4  | Detect a loop in LinkedList                     | 🟡| [Code](#) | ❌|
 | 5  | Find the starting point of a loop in LinkedList | 🟡| [Code](#) | ❌|
 | 6  | Length of Loop in LinkedList                    | 🟢| [Code](#) | ❌|
 | 7  | Check if LinkedList is palindrome               | 🟡| [Code](#) | ❌|
 | 8  |[Segregate odd and even nodes in LinkedList](https://leetcode.com/problems/odd-even-linked-list/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_30) |✅|
-| 9  | Remove Nth node from the back of LinkedList     | 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32) | ❌|
+| 9  | Remove Nth node from the back of LinkedList| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32) | ❌|
 | 10 | Delete the middle node of LinkedList            | 🟡| [Code](#) | ❌|
 | 11 | Sort a LinkedList                               | 🟡| [Code](#) | ❌|
 | 12 | Sort a LinkedList of 0s, 1s, and 2s by links   | 🟡| [Code](#) | ❌|
 | 13 | Find the intersection point of Y LinkedLists   | 🟡| [Code](#) | ❌|
 | 14 | Add 1 to a number represented by LinkedList    | 🟡| [Code](#) | ❌|
-| 15 |[Add two numbers represented by LinkedList]()| 🟡| [Code.py]() |✅|
+| 15 |[Add two numbers represented by LinkedList](https://leetcode.com/problems/add-two-numbers/)| 🟡| [Code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_28) |✅|
 
 ### Lec 4: Medium Problems of DLL
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
