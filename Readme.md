@@ -208,7 +208,7 @@ The problem sheets I’m actively working on:
 | 15   | Reverse Every Word in a String                 | 🟢         | [Link]()| |
 
 ## Step 6 : Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
-### 1D LinkedList
+### Lec 1: 1D LinkedList
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|------------|--------|
 | 1  |[Introduction to LinkedList, learn about struct, and how is node represented]()|🟢| [Link]()|✅|
