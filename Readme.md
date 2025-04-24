@@ -235,7 +235,7 @@ The problem sheets I’m actively working on:
 | 5  | Find the starting point of a loop in LinkedList | 🟡| [Code](#) | ❌|
 | 6  | Length of Loop in LinkedList                    | 🟢| [Code](#) | ❌|
 | 7  | Check if LinkedList is palindrome               | 🟡| [Code](#) | ❌|
-| 8  |[Segregate odd and even nodes in LinkedList](https://leetcode.com/problems/odd-even-linked-list/)| 🟡| [Code](#) | ❌|
+| 8  |[Segregate odd and even nodes in LinkedList](https://leetcode.com/problems/odd-even-linked-list/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_30) |✅|
 | 9  | Remove Nth node from the back of LinkedList     | 🟡| [Code](#) | ❌|
 | 10 | Delete the middle node of LinkedList            | 🟡| [Code](#) | ❌|
 | 11 | Sort a LinkedList                               | 🟡| [Code](#) | ❌|
