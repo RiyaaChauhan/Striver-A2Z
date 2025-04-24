@@ -1,4 +1,4 @@
-##  Reverse a Linked List (Iterative Approach)
+##  1. Reverse a Linked List (Iterative Approach)
 
 ###  Problem Statement
 
