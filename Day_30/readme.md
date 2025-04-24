@@ -24,6 +24,60 @@ You're given a singly linked list, and you need to:
 
 ---
 
+##  Step 1: **Brute Force Explanation**
+**Idea:**  
+- Store nodes at *odd* positions in one list.  
+- Store nodes at *even* positions in another.  
+- Traverse the original list and separate based on index (starting from 1).  
+- Combine both lists in the end.
+
+**Time Complexity:** `O(N)`  
+**Space Complexity:** `O(N)` (using extra lists)
+
+---
+
+##  Step 2: **Brute Force Code**:
+
+```python
+class Solution:
+    def oddEvenList(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+
+        odd_nodes = []
+        even_nodes = []
+        current = head
+        index = 1
+
+        while current:
+            if index % 2 == 1:
+                odd_nodes.append(current)
+            else:
+                even_nodes.append(current)
+            current = current.next
+            index += 1
+
+        dummy = ListNode(0)
+        tail = dummy
+
+        for node in odd_nodes + even_nodes:
+            tail.next = node
+            tail = tail.next
+
+        tail.next = None  # Important to terminate the list
+        return dummy.next
+```
+
+---
+
+> "But this uses extra space. Since we only need to rearrange pointers, we can do it **in-place** in `O(1)` space and `O(N)` time. Here’s the optimized version…"
+
+---
+###  Final Pro Tip:
+**Any Linked List reordering problem?**  
+→ **Think in terms of pointers first, not values.**  
+
+---
 ##  Optimal Approach (In-place)
 ###  Intuition
 We split the linked list into **two separate chains**:
@@ -84,72 +138,6 @@ class Solution:
 | Time | Space |
 |------|-------|
 | O(n) | O(1)  |
-
----
-
-##  Brute Force (Not recommended but good for understanding)
-
-###  Idea
-1. Traverse list and **store nodes in a list or two separate lists**:
-   - One for odd indices, one for even indices.
-2. Reconnect the nodes at the end.
-
-###  Cons:
-- Uses **O(n)** extra space.
-- Breaks in-place constraint.
----
-
-###  code:
-
-```python
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-class Solution:
-    def oddEvenList(self, head: ListNode) -> ListNode:
-        if not head or not head.next:
-            return head
-
-        odd_nodes = []
-        even_nodes = []
-
-        index = 1
-        current = head
-
-        # Separate nodes into odd and even indexed
-        while current:
-            if index % 2 == 1:
-                odd_nodes.append(current)
-            else:
-                even_nodes.append(current)
-            current = current.next
-            index += 1
-
-        # Reconnect the odd nodes
-        for i in range(len(odd_nodes) - 1):
-            odd_nodes[i].next = odd_nodes[i + 1]
-
-        # Reconnect the even nodes
-        for i in range(len(even_nodes) - 1):
-            even_nodes[i].next = even_nodes[i + 1]
-
-        # Connect last odd node to head of even list
-        if odd_nodes:
-            odd_nodes[-1].next = even_nodes[0] if even_nodes else None
-
-        # Last even node should point to None
-        if even_nodes:
-            even_nodes[-1].next = None
-
-        return odd_nodes[0]
-```
-
-###  Key Points:
-- This approach stores odd and even nodes in two separate Python lists.
-- Then reconnects all the odd nodes, followed by the even ones.
-- **Extra space complexity: O(n)** due to the additional lists.
 ---
 
 ##  Dry Run (Visual)
