@@ -211,7 +211,7 @@ The problem sheets I’m actively working on:
 ### 1D LinkedList
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------|------------|------------|--------|
-| 1  |[Introduction to LinkedList, learn about struct, and how is node represented]()|🟢| [Link]()   |❌|
+| 1  |[Introduction to LinkedList, learn about struct, and how is node represented]()|🟢| [Link]()|✅|
 | 2  |[Inserting a node in LinkedList](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=linked-list-insertion)|🟢| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_01.%20Inserting%20a%20node%20in%20LL.py)|✅|
 | 3  |[Deleting a node in LinkedList](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|🟡| [Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_02.%20Deleating%20a%20node%20in%20LL.py)|✅|
 | 4  |[Find the length of the linkedlist [learn traversal]](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-nodes-of-linked-list)|🟢|[Link](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_03.%20Find%20the%20length%20of%20LL.py)|✅|
