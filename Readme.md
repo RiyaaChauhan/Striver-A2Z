@@ -228,7 +228,7 @@ The problem sheets I’m actively working on:
 ### Lec 3: Medium Problems of LL
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------------|------------|-----------|--------|
-| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢Easy|[Code](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_05.%20Middle%20of%20LL.py)|✅|
+| 1  | [Middle of a LinkedList [Tortoise-Hare Method]](https://leetcode.com/problems/middle-of-the-linked-list/description/)|🟢|[Code](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_01/_05.%20Middle%20of%20LL.py)|✅|
 | 2  |[Reverse a LinkedList [Iterative]](https://leetcode.com/problems/reverse-linked-list/)|🟢|[Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32)|✅|
 | 3  |[Reverse a LinkedList [Recursive]](https://leetcode.com/problems/reverse-linked-list/)| 🟢| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_32) |✅|
 | 4  | Detect a loop in LinkedList                     | 🟡| [Code](#) | ❌|
