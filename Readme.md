@@ -30,8 +30,8 @@ The problem sheets I’m actively working on:
 18. [Strings](#step-18-strings)
 
 # Problems Table
-## Step 1 : Learn the basics
 
+## Step 1 : Learn the basics
 ### Lec 2: Build-up Logical Thinking
 | **#** | **Problem Name**         | **🟢🟡🔴** | **Code File**  | **Status** |
 |------:|--------------------------|-------------|----------------|------------|
