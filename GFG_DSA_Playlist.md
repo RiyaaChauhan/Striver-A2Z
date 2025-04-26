@@ -144,43 +144,43 @@
 # Linked List Problems
 | # | Problem Name                                      | Difficulty | Code File | Status  |
 |------|--------------------------------------------------|------------|-----------|---------|
-| 1    |[Middle of a Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)|🟢Easy|[Code.py]()|✅|
-| 2    | Delete Middle of Linked List                    |🟢 Easy       | -         | -       |
-| 3    | Add 1 to a Linked List Number                   | Medium     | -         | -       |
-| 4    | Add Number Linked Lists                         | Medium     | -         | -       |
-| 5    | Subtraction in Linked List                      | Hard       | -         | -       |
-| 6    | Rearrange a linked list                         | Medium     | -         | -       |
-| 7    | Kth from End of Linked List                     |🟢 Easy       | -         | -       |
-| 8    | Find length of Loop                             |🟢 Easy       | -         | -       |
-| 9    | Remove loop in Linked List                      | Medium     | -         | -       |
-| 10   | Merge two sorted linked lists                   | Medium     | -         | -       |
-| 11   | Merge K sorted linked lists                     | Medium     | -         | -       |
-| 12   | Intersection Sorted Linked Lists                | 🟢Easy       | -         | -       |
-| 13   | Intersection in Y Shaped Lists                  | Medium     | -         | -       |
-| 14   | Palindrome Linked List                          | Medium     | -         | -       |
-| 15   | Union of Two Linked Lists                       | Medium     | -         | -       |
-| 16   | Count Pairs whose sum is equal to X            |🟢 Easy       | -         | -       |
-| 17   | Clone List with Next and Random                | Hard       | -         | -       |
-| 18   | Delete without head pointer                    |🟢 Easy       | -         | -       |
-| 19   | Polynomial Addition                            | Medium     | -         | -       |
-| 20   | Flattening a Linked List                       | Medium     | -         | -       |
-| 21   | Swap Kth nodes from ends                       | Medium     | -         | -       |
-| 22   | Reorder List                                   | Hard       | -         | -       |
-| 23   | Insert in a Sorted List                        | 🟢Easy       | -         | -       |
-| 24   | Reverse a linked list                          |🟢 Easy       | -         | -       |
-| 25   | Rotate a Linked List                           | Medium     | -         | -       |
-| 26   | Pairwise swap elements of a linked list        |🟢 Easy       | -         | -       |
-| 27   | Sort a linked list of 0s, 1s and 2s            | Medium     | -         | -       |
-| 28   | Merge Sort for Linked List                     | Medium     | -         | -       |
-| 29   | XOR Linked List                                | Medium     | -         | -       |
-| 30   | Remove duplicates from an unsorted linked list |🟢 Easy       | -         | -       |
-| 31   | Linked List in Zig-Zag fashion                | Medium     | -         | -       |
-| 32   | Linked List Group Reverse                     | Hard       | -         | -       |
-| 33   | Reverse alternate nodes in Link List          | Medium     | -         | -       |
-| 34   | Delete in a Doubly Linked List                |🟢 Easy       | -         | -       |
-| 35   | Sorted insert for circular linked list        | Medium     | -         | -       |
-| 36   | Intersection of Two Linked Lists              |🟢 Easy       | -         | -       |
-| 37   | Linked List that is Sorted Alternatingly      | Medium     | -         | -       |
+| 1    |[Middle of a Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)|🟢|[Code.py]()|✅|
+| 2    | Delete Middle of Linked List                    |🟢| -         | -       |
+| 3    | Add 1 to a Linked List Number                   | Medium| -         | -       |
+| 4    | Add Number Linked Lists                         | Medium| -         | -       |
+| 5    | Subtraction in Linked List                      | Hard| -         | -       |
+| 6    | Rearrange a linked list                         | Medium| -         | -       |
+| 7    | Kth from End of Linked List                     |🟢| -         | -       |
+| 8    | Find length of Loop                             |🟢| -         | -       |
+| 9    | Remove loop in Linked List                      | Medium| -         | -       |
+| 10   | Merge two sorted linked lists                   | Medium| -         | -       |
+| 11   | Merge K sorted linked lists                     | Medium| -         | -       |
+| 12   | Intersection Sorted Linked Lists                | 🟢| -         | -       |
+| 13   | Intersection in Y Shaped Lists                  | Medium| -         | -       |
+| 14   | Palindrome Linked List                          | Medium| -         | -       |
+| 15   | Union of Two Linked Lists                       | Medium| -         | -       |
+| 16   | Count Pairs whose sum is equal to X            |🟢| -         | -       |
+| 17   | Clone List with Next and Random                | Hard| -         | -       |
+| 18   | Delete without head pointer                    |🟢| -         | -       |
+| 19   | Polynomial Addition                            | Medium| -         | -       |
+| 20   | Flattening a Linked List                       | Medium| -         | -       |
+| 21   | Swap Kth nodes from ends                       | Medium| -         | -       |
+| 22   | Reorder List                                   | Hard| -         | -       |
+| 23   | Insert in a Sorted List                        | 🟢| -         | -       |
+| 24   | Reverse a linked list                          |🟢| -         | -       |
+| 25   | Rotate a Linked List                           | Medium| -         | -       |
+| 26   | Pairwise swap elements of a linked list        |🟢| -         | -       |
+| 27   | Sort a linked list of 0s, 1s and 2s            | Medium| -         | -       |
+| 28   | Merge Sort for Linked List                     | Medium| -         | -       |
+| 29   | XOR Linked List                                | Medium| -         | -       |
+| 30   | Remove duplicates from an unsorted linked list |🟢| -         | -       |
+| 31   | Linked List in Zig-Zag fashion                | Medium| -         | -       |
+| 32   | Linked List Group Reverse                     | Hard| -         | -       |
+| 33   | Reverse alternate nodes in Link List          | Medium| -         | -       |
+| 34   | Delete in a Doubly Linked List                |🟢| -         | -       |
+| 35   | Sorted insert for circular linked list        | Medium| -         | -       |
+| 36   | Intersection of Two Linked Lists              |🟢| -         | -       |
+| 37   | Linked List that is Sorted Alternatingly      | Medium| -         | -       |
 
 # Stack
 | #  | Problem Name                         | Difficulty | Code File              | Status       |
