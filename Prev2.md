@@ -236,10 +236,10 @@
 | 12 | Remove Duplicates from Sorted List II | LeetCode | ❌ | code.py | 🟡 | Comparison, Traversal, Pointers, OOPs |
 | 13 | Remove Duplicates From an Unsorted Linked List | GeeksForGeeks | ❌ | code.py | 🟢 | Comparison, Traversal, Pointers, OOPs |
 | 14 |[Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)|🟢| Comparison, Traversal, Pointers, OOPs |
-| 15 | Middle of the Linked List | LeetCode | ❌ | code.py | 🟢 | Tortoise and Hare Algorithm, Linked List basics |
+| 15 | Middle of the Linked List | LeetCode |✅| code.py | 🟢 | Tortoise and Hare Algorithm, Linked List basics |
 | 16 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟢 | Floyd’s Cycle Detection Algorithm, Fast and Slow Pointers |
-| 17 | Linked List Cycle II | LeetCode | ❌ | code.py | 🟡 | Cycle Detection, Resetting Pointers |
-| 18 | Find length of Loop | GeeksForGeeks | ❌ | code.py | 🟢 | Linked List Basics, Slow & Fast Pointers, Cycle Detection, Pointers, List Traversal |
+| 17 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟡 | Cycle Detection, Resetting Pointers |
+| 18 |[Find length of Loop]()| GeeksForGeeks |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟢 | Linked List Basics, Slow & Fast Pointers, Cycle Detection, Pointers, List Traversal |
 | 19 | Palindrome Linked List | LeetCode | ❌ | code.py | 🟢 | Linked List Basics, Slow & Fast Pointers, Reversing a Linked List, Pointers, List Traversal |
 | 20 | Odd Even Linked List | LeetCode | ❌ | code.py | 🟡 | Linked List Basics, Pointers, List Traversal |
 | 21 | Remove Nth Node From End of List | LeetCode | ❌ | code.py | 🟡 | Singly Linked Lists, Pointers, Two-pointers |
