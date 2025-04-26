@@ -17,3 +17,4 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 | S.No. | Problem Name         | Topic        | Platform | code.py                                  |
 |-------|----------------------|--------------|----------|------------------------------------------|
 | 1     |[Partition Linked List](https://leetcode.com/problems/partition-list/)| Linked List, 2-pointers  | LeetCode #86 | [code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_31) |
+|2|[ k-th node from the end of the linked list]()|
