@@ -232,10 +232,10 @@
 | 8  | Search for a Value | GeeksForGeeks | ❌ | code.py | 🟢 | Comparison, Traversal, Pointers, OOPs |
 | 9  | Reverse Linked List | LeetCode | ❌ | code.py | 🟢 | Traversal, Pointers, OOPs |
 | 10 | Identical Linked List | GeeksForGeeks | ❌ | code.py | 🟡 | Comparison, Traversal, Pointers, OOPs |
-| 11 |[Remove Duplicates from Sorted Linked List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| LeetCode | ❌ |[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_33)| 🟢 | Comparison, Traversal, Pointers, OOPs |
+| 11 |[Remove Duplicates from Sorted Linked List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_33)| 🟢 | Comparison, Traversal, Pointers, OOPs |
 | 12 | Remove Duplicates from Sorted List II | LeetCode | ❌ | code.py | 🟡 | Comparison, Traversal, Pointers, OOPs |
 | 13 | Remove Duplicates From an Unsorted Linked List | GeeksForGeeks | ❌ | code.py | 🟢 | Comparison, Traversal, Pointers, OOPs |
-| 14 | Merge Two Sorted Linked Lists | LeetCode | ❌ | code.py | 🟢 | Comparison, Traversal, Pointers, OOPs |
+| 14 |[Merge Two Sorted Linked Lists]()| LeetCode |✅|[code.py]()| 🟢 | Comparison, Traversal, Pointers, OOPs |
 | 15 | Middle of the Linked List | LeetCode | ❌ | code.py | 🟢 | Tortoise and Hare Algorithm, Linked List basics |
 | 16 | Linked List Cycle | LeetCode | ❌ | code.py | 🟢 | Floyd’s Cycle Detection Algorithm, Fast and Slow Pointers |
 | 17 | Linked List Cycle II | LeetCode | ❌ | code.py | 🟡 | Cycle Detection, Resetting Pointers |
