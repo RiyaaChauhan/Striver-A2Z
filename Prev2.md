@@ -237,7 +237,7 @@
 | 13 | Remove Duplicates From an Unsorted Linked List | GeeksForGeeks | ❌ | code.py | 🟢 | Comparison, Traversal, Pointers, OOPs |
 | 14 |[Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)|🟢| Comparison, Traversal, Pointers, OOPs |
 | 15 | Middle of the Linked List | LeetCode | ❌ | code.py | 🟢 | Tortoise and Hare Algorithm, Linked List basics |
-| 16 | Linked List Cycle | LeetCode | ❌ | code.py | 🟢 | Floyd’s Cycle Detection Algorithm, Fast and Slow Pointers |
+| 16 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟢 | Floyd’s Cycle Detection Algorithm, Fast and Slow Pointers |
 | 17 | Linked List Cycle II | LeetCode | ❌ | code.py | 🟡 | Cycle Detection, Resetting Pointers |
 | 18 | Find length of Loop | GeeksForGeeks | ❌ | code.py | 🟢 | Linked List Basics, Slow & Fast Pointers, Cycle Detection, Pointers, List Traversal |
 | 19 | Palindrome Linked List | LeetCode | ❌ | code.py | 🟢 | Linked List Basics, Slow & Fast Pointers, Reversing a Linked List, Pointers, List Traversal |
@@ -248,7 +248,7 @@
 | 24 | Sort a linked list of 0s, 1s and 2s | GeeksForGeeks | ❌ | code.py | 🟢 | Linked Lists, In-place Sorting, Pointer Manipulation |
 | 25 | Intersection of Two Linked Lists | LeetCode | ❌ | code.py | 🟢 | Linked Lists, Two Pointer Technique, Pointer Manipulation |
 | 26 | Add 1 to a Linked List Number | GeeksForGeeks | ❌ | code.py | 🟡 | Linked Lists, Reversal, Carry Handling |
-| 27 | Add Two Numbers | LeetCode | ❌ | code.py | 🟡 | Linked Lists, Carry Propagation |
+| 27 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_28)| 🟡 | Linked Lists, Carry Propagation |
 | 28 | Reverse Nodes in k-Group | LeetCode | ❌ | code.py | 🔴 | Linked Lists, Recursion, Reversal Techniques |
 | 29 | Rotate List | LeetCode | ❌ | code.py | 🟡 | Linked Lists, Modular Arithmetic |
 | 30 | Flattening a Linked List | GeeksForGeeks | ❌ | code.py | 🟡 | Linked List, Pointers, Merging, Sorting, Recursion |
