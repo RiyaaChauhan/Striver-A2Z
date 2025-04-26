@@ -200,7 +200,7 @@
 ## Strings
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
-| ----- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------------- |
+|- | ---------------------- | ---------------------- | -- | -------- | ----- | --------------- |
 | 1 | Remove Outermost Parentheses | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | | [code.py]() | 🟢 | Strings, Loops, Conditionals |
 | 2 | Largest Odd Number in String | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/description/) | | [code.py]()| 🟢 | Strings, Basic Number Properties |
 | 3 | Longest Common Prefix | [LeetCode](https://leetcode.com/problems/longest-common-prefix/description/) | | [code.py]()| 🟢 | Binary Search, Strings, Prefix, Array Iteration |
