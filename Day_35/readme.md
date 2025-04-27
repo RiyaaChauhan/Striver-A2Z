@@ -29,3 +29,14 @@ prev = slow → before slow moves.
    - Once we detect the cycle (when `slow == fast`), we can reset one of the pointers (let's say `slow`) to the meeting point and keep it fixed.
    - Then, move the other pointer (say `fast`) around the loop while counting each step until `fast` reaches `slow` again. 
    - This count will give you the length of the loop.
+---
+Steps:
+Cycle Detection:
+
+We use slow and fast pointers to detect the cycle.
+
+If they meet (slow == fast), we have a cycle.
+
+Counting the Length of the Loop:
+
+After detecting the cycle, we reset the slow pointer to where fast met it and start counting nodes until slow reaches fast again.
