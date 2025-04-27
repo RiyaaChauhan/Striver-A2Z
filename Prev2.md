@@ -239,7 +239,7 @@
 | 15 |[Middle of the Linked List]()| LeetCode |✅|[code.py]()| 🟢 | Tortoise and Hare Algorithm, Linked List basics |
 | 16 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟢 | Floyd’s Cycle Detection Algorithm, Fast and Slow Pointers |
 | 17 |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| LeetCode |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟡 | Cycle Detection, Resetting Pointers |
-| 18 |[Find length of Loop]()| GeeksForGeeks |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)| 🟢 | Linked List Basics, Slow & Fast Pointers, Cycle Detection, Pointers, List Traversal |
+| 18 |[Find length of Loop](https://www.naukri.com/code360/problems/find-length-of-loop_8160455)| GeeksForGeeks |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_35)| 🟢 | Linked List Basics, Slow & Fast Pointers, Cycle Detection, Pointers, List Traversal |
 | 19 | Palindrome Linked List | LeetCode | ❌ | code.py | 🟢 | Linked List Basics, Slow & Fast Pointers, Reversing a Linked List, Pointers, List Traversal |
 | 20 | Odd Even Linked List | LeetCode | ❌ | code.py | 🟡 | Linked List Basics, Pointers, List Traversal |
 | 21 | Remove Nth Node From End of List | LeetCode | ❌ | code.py | 🟡 | Singly Linked Lists, Pointers, Two-pointers |
