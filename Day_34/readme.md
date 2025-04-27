@@ -19,4 +19,30 @@ Using two pointers, where one pointer moves one step at a time (`i`), and the ot
 
 ---
 
-# 4.
+# 4. **Algorithm: Find Start of Cycle in a Linked List**
+
+**Step 1:**  
+Initialize two pointers:  
+- `slow = head`
+- `fast = head`
+
+**Step 2:**  
+Move `slow` one step at a time (`slow = slow.next`)  
+Move `fast` two steps at a time (`fast = fast.next.next`)
+
+**Step 3:**  
+While traversing, if `fast` and `slow` meet, a **cycle** is detected.  
+If `fast` becomes `None` or `fast.next` becomes `None`, **no cycle** → return `None`.
+
+**Step 4:**  
+Once cycle is detected (slow == fast), reset `slow` pointer back to `head`.
+
+**Step 5:**  
+Now move both `slow` and `fast` one step at a time.  
+When they meet again, that node is the **starting point of the cycle**. Return that node.
+
+---
+
+### ✨ **Why this works?**
+- The distance between head and start of cycle = distance between meeting point and start of cycle inside the loop.
+- So, after resetting `slow`, they will meet exactly at the cycle start.
