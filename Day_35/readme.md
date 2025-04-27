@@ -19,11 +19,13 @@ prev = slow → before slow moves.
 
 ---
 
-# 2.
-Detect the loop:
-Use Floyd's cycle-finding algorithm (tortoise and hare algorithm) to detect if a loop exists. Initialize two pointers, slow and fast, to the head of the linked list. Move slow one step and fast two steps at a time. If they meet, a loop exists. If fast reaches the end of the list, no loop exists.
-Locate a node within the loop:
-When slow and fast meet, they are inside the loop. Store this meeting point in a variable, loop_node.
-Count the nodes in the loop:
-Starting from loop_node, traverse the loop, counting the nodes until you reach loop_node again.
-Python
+# 2. Length of loop in Linked list:
+1. **Detecting the Loop:** 
+   - We can use the **Floyd’s Cycle-Finding Algorithm (Tortoise and Hare)** to detect if a cycle exists. 
+   - The idea is to have two pointers, `slow` and `fast`. `slow` moves one step at a time, while `fast` moves two steps at a time.
+   - If there's a loop, `slow` and `fast` will eventually meet inside the loop.
+
+2. **Counting the Length of the Loop:** 
+   - Once we detect the cycle (when `slow == fast`), we can reset one of the pointers (let's say `slow`) to the meeting point and keep it fixed.
+   - Then, move the other pointer (say `fast`) around the loop while counting each step until `fast` reaches `slow` again. 
+   - This count will give you the length of the loop.
