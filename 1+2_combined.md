@@ -1,15 +1,13 @@
-# Sheet_01
 ### 📋 Table of Contents
 
 1. [Numbers and Arithmetic](#numbers-and-arithmetic)
-1. [Basic Maths](#basic-maths)
-2. [Loops and Patterns](#loops-and-patterns)
-3. [Beginner-Level Questions](#beginner-level-questions)
-4. [Intermediate-Level Questions](#intermediate-level-questions)
-
-2. [Two Pointers](#two-pointers)
-3. [Algorithms and Techniques](#algorithms-and-techniques)
-4. [Hashing](#hashing)
+2. [Basic Maths](#basic-maths)
+3. [Loops and Patterns](#loops-and-patterns)
+4. [Beginner-Level Questions](#beginner-level-questions)
+5. [Intermediate-Level Questions](#intermediate-level-questions)
+6. [Two Pointers](#two-pointers)
+7. [Algorithms and Techniques](#algorithms-and-techniques)
+8. [Hashing](#hashing)
 
 ---
 
@@ -63,7 +61,7 @@
 ## Loops and Patterns
 
 | **#** | **Problem Name** | **Status** | **File** |
-| ----- | ----------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| ----- | ------------------------------ | ---------- | ----------------------------------- |
 | 21 | Print the sum of the first N natural numbers |  | [Link]() |
 | 22 | Print the sum of the first N even numbers |  | [Link]() |
 | 23 | Print the sum of the first N odd numbers |  | [Link]() |
@@ -78,7 +76,7 @@
 ## Two Pointers
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
-| ----- | ------------------------- | -------------------------------------------------------------------------------- | ---------- | --------------------------------------------------- | -------------- | ----------------------------------------------- |
+| ----- | ------------ | ------------------ | -------- | ------------- | ---------- | ------------- |
 | 1 | Reverse String | [LeetCode](https://leetcode.com/problems/reverse-string/description/) | ❌ | [code.py]() | 🟢 | Two Pointers, In-Place Modification |
 | 2 | Move Zeroes | [LeetCode](https://leetcode.com/problems/move-zeroes/description/) | ❌ | [code.py]() | 🟢 | Two Pointers, In-Place Modification |
 | 3 | Valid Palindrome II | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/description/) | ❌ | [code.py]() | 🟢 | Two Pointers, In-Place Modification |
@@ -91,7 +89,7 @@
 ## Algorithms and Techniques
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
-| ----- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------- | -------------- | --------------------------------------------------------------------- |
+| ----- | -------- | --------------------- | ---------- | -------------- | -------------- | ----------------- |
 | 1 | Prefix Sum | [GeeksForGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) |✅|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_29/prefix.md)| 🟢 | Arrays, Loops, Basic Mathematics (Addition, Subtraction) |
 | 2 | Fibonacci Sequence | [LeetCode](https://leetcode.com/problems/generate-fibonacci-sequence/description/) | - | | 🟢 | Recursion, Dynamic Programming, Basic Mathematics (Sequences) |
 | 3 | Boyer-Moore Voting Algorithm | [TopCoder](https://www.topcoder.com/thrive/articles/boyer-moore-majority-vote-algorithm) | - | | 🟢 | Arrays, Loops, Basic Counting Logic |
@@ -106,7 +104,7 @@
 ## Hashing
 
 | **#** | **Problem Name** | **Platform** | **Status** | **File** | **Difficulty** | **Prerequisites** |
-| ----- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------ | -------------- | --------------------------------------------------------------- |
+| ----- | ------------------ | ----------------- | ---------- | ------------------ | -------------- | --------------- |
 | 1 | Find unique element | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-element2632/0) | ❌ | [code.py]() | 🟢 | Hash maps, Frequency counting, Array traversal, Modulo operator |
 | 2 | Sum of Unique Elements | [LeetCode](http://leetcode.com/problems/sum-of-unique-elements/description/) | ❌ | [code.py]() | 🟢 | Hash maps, Frequency counting, Array traversal |
 | 3 | Find the Frequency | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | ❌ | [code.py]() | 🟢 | Hash maps, Frequency counting, Array traversal |
