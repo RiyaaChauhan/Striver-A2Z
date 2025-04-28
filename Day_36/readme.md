@@ -1,3 +1,5 @@
+# 1. Remove Nth node from back of LL
+
 # 2. **deleting all occurrences of a key in a Doubly Linked List (DLL)** 
 ### **Goal**:
 You want to **delete all nodes** in the list that have a specific value (`key`).
@@ -123,3 +125,78 @@ This shows that the node with value `3` is removed from the list.
 
 ### **Conclusion**:
 This approach ensures that all occurrences of the key are deleted from the **Doubly Linked List (DLL)**. The important part is correctly managing the `prev` and `next` pointers to maintain the structure of the list while removing nodes.
+
+---
+
+# 3. Check if LL is palindrome or not
+
+### Steps:
+1. **Find the middle of the list**:
+   - Use the **slow and fast pointer** approach (Tortoise and Hare) to find the middle of the linked list. The `slow` pointer will be at the middle when the `fast` pointer reaches the end.
+   
+2. **Reverse the second half of the list**:
+   - Once you find the middle, reverse the second half of the list.
+   
+3. **Compare the first half and the reversed second half**:
+   - Use two pointers, one starting from the head of the list and the other starting from the beginning of the reversed second half. Compare the values at each step.
+   
+4. **Restore the second half (optional)**:
+   - If you want to maintain the original structure of the linked list, you can reverse the second half again to restore the original list.
+
+### Code:
+```python
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+class Solution:
+    def isPalindrome(self, head: ListNode) -> bool:
+        if not head or not head.next:
+            return True
+        
+        # Step 1: Find the middle of the linked list (slow and fast pointers)
+        slow = head
+        fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        
+        # Step 2: Reverse the second half of the list
+        prev = None
+        while slow:
+            next_node = slow.next
+            slow.next = prev
+            prev = slow
+            slow = next_node
+        
+        # Step 3: Compare the first half and the reversed second half
+        left = head
+        right = prev
+        while right:  # Only need to check the second half
+            if left.val != right.val:
+                return False
+            left = left.next
+            right = right.next
+        
+        return True
+```
+
+### Explanation:
+1. **Finding the middle**:
+   - The `fast` pointer moves two steps at a time, and the `slow` pointer moves one step at a time. When the `fast` pointer reaches the end, the `slow` pointer will be at the middle of the list.
+   
+2. **Reversing the second half**:
+   - After the middle is found, we reverse the second half of the list starting from the `slow` pointer.
+   
+3. **Comparing the two halves**:
+   - We then compare the values in the first half and the reversed second half. If they match at every step, it's a palindrome.
+
+### Time Complexity:
+- Finding the middle of the list takes \( O(n) \).
+- Reversing the second half takes \( O(n/2) \), which is effectively \( O(n) \).
+- Comparing the two halves takes \( O(n/2) \), which is also \( O(n) \).
+So, the overall time complexity is \( O(n) \).
+
+### Space Complexity:
+- Since we only use a few extra pointers (constant space), the space complexity is \( O(1) \).
