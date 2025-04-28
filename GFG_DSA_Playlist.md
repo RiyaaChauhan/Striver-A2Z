@@ -2,9 +2,9 @@
 ## Problems Table
 # Array Problems
 
-| #  | Problem Name                                | Difficulty | Code File  | Status |
-|----|---------------------------------------------|------------|------------|--------|
-| 1  | Replace all 5's with 5[]                     | 🟢 Easy    | [Link]()   |❌|
+| #  | Problem Name                               | Difficulty | Code File  | Status |
+|----|--------------------------------------------|------------|------------|--------|
+| 1  | Replace all 5's with 5[]                   | 🟢 Easy    | [Link]()   |❌|
 | 2  | Third largest element                      | 🟢 Easy    | [Link]()   |❌|
 | 3  | Max and Second Max                         | 🟢 Easy    | [Link]()   |❌|
 | 4  | Minimum distance in an Array               | 🟢 Easy    | [Link]()   |❌|
