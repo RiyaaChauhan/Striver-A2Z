@@ -247,7 +247,7 @@ The problem sheets I’m actively working on:
 ### Lec 4: Medium Problems of DLL
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|---------------------------------------------------|------------|-----------|--------|
-| 1  | Delete all occurrences of a key in DLL         |🟡| [Code](#) | ❌|
+| 1  |[Delete all occurrences of a key in DLL](https://www.naukri.com/code360/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list_8160461)|🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_36) |✅|
 | 2  | Find pairs with given sum in DLL               |🟡| [Code](#) | ❌|
 | 3  | Remove duplicates from sorted DLL              |🟡| [Code](#) | ❌|
 
