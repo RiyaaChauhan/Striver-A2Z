@@ -234,7 +234,7 @@ The problem sheets I’m actively working on:
 | 4  |[Detect a loop in LinkedList](https://leetcode.com/problems/linked-list-cycle/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34)|✅|
 | 5  |[Find the starting point of a loop in LinkedList](https://leetcode.com/problems/linked-list-cycle-ii/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_34) |✅|
 | 6  |[Length of Loop in LinkedList](https://www.naukri.com/code360/problems/find-length-of-loop_8160455)| 🟢| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_35) |✅|
-| 7  | Check if LinkedList is palindrome| 🟡| [Code](#) | ❌|
+| 7  |[Check if LinkedList is palindrome](https://leetcode.com/problems/palindrome-linked-list/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_36) |✅|
 | 8  |[Segregate odd and even nodes in LinkedList](https://leetcode.com/problems/odd-even-linked-list/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_30) |✅|
 | 9  |[Remove Nth node from the back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_36) |✅|
 | 10 |[Delete the middle node of LinkedList](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| 🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_35) |✅|
