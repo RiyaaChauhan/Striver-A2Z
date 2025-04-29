@@ -255,7 +255,7 @@ The problem sheets I’m actively working on:
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |
 |----|-----------------------------------------------------|------------|-----------|--------|
 | 1  |[Reverse LinkedList in groups of given size K](https://leetcode.com/problems/reverse-nodes-in-k-group/)| 🔴| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_37) |✅|
-| 2  | Rotate a LinkedList                                |🟡| [Code](#) | ❌|
+| 2  |[Rotate a LinkedList](https://leetcode.com/problems/rotate-list/)|🟡| [Code](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_37) | ❌|
 | 3  | Flattening of LinkedList                           | 🔴| [Code](#) | ❌|
 | 4  | Clone a LinkedList with random and next pointer   | 🔴| [Code](#) | ❌|
 
