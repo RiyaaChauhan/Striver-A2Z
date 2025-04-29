@@ -92,3 +92,37 @@ Think of the process like **chunking** the linked list into k-sized groups:
 - Total → O(N), because every node is visited a constant number of times.
 
 ---
+
+# 2. **Rotate a linked list to the right by `k` positions**
+#### 🧠 Intuition:
+Rotating the list means we want the last `k` elements to come in front, and the rest to follow them.
+
+### 🪜 Steps:
+
+1. **Find the length of the list** (`n`):
+   - Traverse the list once and count the number of nodes.
+
+2. **Make the list circular**:
+   - Connect the last node to the head, making it a loop.
+
+3. **Find the new tail**:
+   - The new tail will be at position `(n - k % n - 1)` from the start.
+   - `k % n` handles cases where `k` is larger than `n`.
+
+4. **Break the loop**:
+   - The node after the new tail will be the new head.
+   - Set `new_tail.next = None` to break the circular link.
+
+---
+
+### 🧮 Example:
+
+List: `1 → 2 → 3 → 4 → 5`  
+`k = 2`  
+Length (`n`) = 5  
+`k % n = 2`  
+New tail is at position `5 - 2 - 1 = 2` → node with value `3`  
+New head is node `4`  
+Final: `4 → 5 → 1 → 2 → 3`
+
+---
