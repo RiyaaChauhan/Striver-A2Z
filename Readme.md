@@ -50,7 +50,7 @@ The problem sheets I’m actively working on:
 
 ### Lec 5: Learn Basic Recursion
 | **#** | **Problem Name**                                | **🟢🟡🔴** | **Code File**  | **Status** |
-|------:|--------------------------------------------------|-------------|----------------|------------|
+|------|------------------------------------------------|-------------|----------------|------------|
 | 1     | Understand recursion by print something N times|🟢|[code.py]()|-|
 | 2     | Print name N times using recursion             |🟢|[code.py]()|-|
 | 3     | Print 1 to N using recursion                   |🟢|[code.py]()|-|
