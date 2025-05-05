@@ -106,7 +106,7 @@ The problem sheets I’m actively working on:
 ### **Lec 2: Medium**  
 | **#** | **Problem Name**                          | **🟢🟡🔴** | **Code File** | **Status** |  
 |------|--------------------------------|-----------|-------------|-------------|  
-| 15 |[2Sum Problem]()|🟡 |[code.py]()|✅|  
+| 15 |[2Sum Problem]()|🟡 |[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_19)|✅|  
 | 16 |[Sort an array of 0's 1's and 2's]()|🟡|[code.py]()|✅|  
 | 17 | Majority Element (>n/2 times) |🟢| | |  
 | 18 | Kadane's Algorithm, maximum subarray sum |🟢| | |  
