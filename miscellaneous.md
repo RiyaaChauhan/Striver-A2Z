@@ -1,18 +1,38 @@
-### 📂 Miscellaneous DSA Problems
+# 📂 Miscellaneous DSA Problems
 
 This folder contains problems that are **not part of the standard Striver Sheet** but are carefully selected to **deepen conceptual clarity**, **reinforce core logic**, and **simulate real-world interview challenges**.
 ---
 
-#### 📁 Problem Tracker
+## 📁 Problem Tracker
 
 | S.No. | Problem Name         | Topic        | Platform | code.py                                  |
 |-------|----------------------|--------------|----------|------------------------------------------|
 | 1     |[Partition Linked List](https://leetcode.com/problems/partition-list/)| Linked List, 2-pointers  | LeetCode #86 | [code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_31) |
 |2|[ k-th node from the end of the linked list]()||||
-|3|[]
 
-Awesome, let's get that **cheat sheet** ready for you! 💥
 
+## 📁 Pattern wise ques
+| S.No. | Algo         |    code.py     | Platform |         Topic                | Status|
+|-------|----------------------|--------------|----------|------------------------------|------------|
+| 1.| **Two Pointers**|||||
+|→| Introduction||||||
+|→|Pair with Target Sum ||||
+|→|Remove Duplicates||||
+|→|Squaring a Sorted Array||||
+|→|Triplet Sum to Zero||||
+|→|Triplet Sum Close to Target||||
+|→|Triplets with Smaller Sum||||
+|→|Subarrays with Product Less than a Target ||||
+|→|Dutch National Flag Problem||||
+|→|Quadruple Sum to Target||||
+|→|Comparing Strings containing Backspaces||||
+|→|Minimum Window Sort||||
+|→|Reverse String||||
+|→|Two Sum II||||
+|→|Remove Element||||
+|2.|**Fast and Slow Pointers**||||
+|→|Introduction||||
+|3.|**Sliding Window**||||
 ---
 
 # CHEATSHEET
