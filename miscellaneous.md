@@ -12,12 +12,12 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 
 
 ## 📁 Pattern wise ques
-| S.No. | Algo         |    code.py     | Platform |         Topic                | Status|
-|-------|----------------------|--------------|----------|------------------------------|------------|
+| S.No. | Algo/Ques         |    code.py     | Platform | Status|
+|-------|----------------------|--------------|----------|------------------------------|
 | 1.| **Two Pointers**|||||
-|→| Introduction||||[code.py]()|✅|
+|→|[Introduction]()||||[code.py]()|✅|
 |→|Pair with Target Sum ||||
-|→|Remove Duplicates||[code.py]()|✅|
+|→|[Remove Duplicates]()|[code.py]()|Leetcode|✅|
 |→|Squaring a Sorted Array||||
 |→|Triplet Sum to Zero||||
 |→|Triplet Sum Close to Target||||
@@ -27,9 +27,9 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 |→|Quadruple Sum to Target||||
 |→|Comparing Strings containing Backspaces||||
 |→|Minimum Window Sort||||
-|→|Reverse String||[code.py]()|✅|
-|→|Two Sum II||[code.py]()|✅|
-|→|[Remove Element](https://leetcode.com/problems/remove-element/)||[code.py]()|Leetcode||✅|
+|→|[Reverse String]()|[code.py]()|Leetcode|✅|
+|→|[Two Sum II]()|[code.py]()|Leetcode|✅|
+|→|[Remove Element](https://leetcode.com/problems/remove-element/)|[code.py]()|Leetcode|✅|
 |2.|**Fast and Slow Pointers**||||
 |→|Introduction||||
 |3.|**Sliding Window**||||
