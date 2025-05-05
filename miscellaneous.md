@@ -15,9 +15,9 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 | S.No. | Algo         |    code.py     | Platform |         Topic                | Status|
 |-------|----------------------|--------------|----------|------------------------------|------------|
 | 1.| **Two Pointers**|||||
-|→| Introduction||||||
+|→| Introduction||||[code.py]()|✅|
 |→|Pair with Target Sum ||||
-|→|Remove Duplicates||||
+|→|Remove Duplicates||[code.py]()|✅|
 |→|Squaring a Sorted Array||||
 |→|Triplet Sum to Zero||||
 |→|Triplet Sum Close to Target||||
@@ -27,9 +27,9 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 |→|Quadruple Sum to Target||||
 |→|Comparing Strings containing Backspaces||||
 |→|Minimum Window Sort||||
-|→|Reverse String||||
-|→|Two Sum II||||
-|→|Remove Element||||
+|→|Reverse String||[code.py]()|✅|
+|→|Two Sum II||[code.py]()|✅|
+|→|[Remove Element](https://leetcode.com/problems/remove-element/)||[code.py]()|Leetcode||✅|
 |2.|**Fast and Slow Pointers**||||
 |→|Introduction||||
 |3.|**Sliding Window**||||
