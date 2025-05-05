@@ -30,6 +30,7 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 |→|[Reverse String]()|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
 |→|[Two Sum II]()|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
 |→|[Remove Element](https://leetcode.com/problems/remove-element/)|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
+|→|[Move zero](https://leetcode.com/problems/move-zeroes/)|[code.py]()|Leetcode|✅|
 |2.|**Fast and Slow Pointers**||||
 |→|Introduction||||
 |3.|**Sliding Window**||||
