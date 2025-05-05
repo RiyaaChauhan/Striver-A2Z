@@ -15,9 +15,9 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 | S.No. | Algo/Ques         |    code.py     | Platform | Status|
 |-------|----------------------|--------------|----------|------------------------------|
 | 1.| **Two Pointers**|||||
-|→|[Introduction]()||||[code.py]()|✅|
+|→|[Introduction](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_43/_01.Two_pointers_Introduction.md)||||[Intro](https://github.com/RiyaaChauhan/Striver-A2Z/blob/main/Day_43/_01.Two_pointers_Introduction.md)|✅|
 |→|Pair with Target Sum ||||
-|→|[Remove Duplicates]()|[code.py]()|Leetcode|✅|
+|→|[Remove Duplicates]()|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
 |→|Squaring a Sorted Array||||
 |→|Triplet Sum to Zero||||
 |→|Triplet Sum Close to Target||||
@@ -27,9 +27,9 @@ This folder contains problems that are **not part of the standard Striver Sheet*
 |→|Quadruple Sum to Target||||
 |→|Comparing Strings containing Backspaces||||
 |→|Minimum Window Sort||||
-|→|[Reverse String]()|[code.py]()|Leetcode|✅|
-|→|[Two Sum II]()|[code.py]()|Leetcode|✅|
-|→|[Remove Element](https://leetcode.com/problems/remove-element/)|[code.py]()|Leetcode|✅|
+|→|[Reverse String]()|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
+|→|[Two Sum II]()|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
+|→|[Remove Element](https://leetcode.com/problems/remove-element/)|[code.py](https://github.com/RiyaaChauhan/Striver-A2Z/tree/main/Day_43)|Leetcode|✅|
 |2.|**Fast and Slow Pointers**||||
 |→|Introduction||||
 |3.|**Sliding Window**||||
